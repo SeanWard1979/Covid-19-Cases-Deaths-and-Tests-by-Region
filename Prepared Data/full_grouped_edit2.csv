@@ -1,0 +1,3079 @@
+﻿Date,Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovered,WHO Region
+1/22/20,US,1,0,0,1,0,0,0,Americas
+1/23/20,US,1,0,0,1,0,0,0,Americas
+1/24/20,France,2,0,0,2,2,0,0,Europe
+1/24/20,US,2,0,0,2,1,0,0,Americas
+1/25/20,France,3,0,0,3,1,0,0,Europe
+1/25/20,US,2,0,0,2,0,0,0,Americas
+1/26/20,France,3,0,0,3,0,0,0,Europe
+1/26/20,US,5,0,0,5,3,0,0,Americas
+1/27/20,France,3,0,0,3,0,0,0,Europe
+1/27/20,Germany,1,0,0,1,1,0,0,Europe
+1/27/20,US,5,0,0,5,0,0,0,Americas
+1/28/20,France,4,0,0,4,1,0,0,Europe
+1/28/20,Germany,4,0,0,4,3,0,0,Europe
+1/28/20,US,5,0,0,5,0,0,0,Americas
+1/29/20,France,5,0,0,5,1,0,0,Europe
+1/29/20,Germany,4,0,0,4,0,0,0,Europe
+1/29/20,US,5,0,0,5,0,0,0,Americas
+1/30/20,France,5,0,0,5,0,0,0,Europe
+1/30/20,Germany,4,0,0,4,0,0,0,Europe
+1/30/20,India,1,0,0,1,1,0,0,South-East Asia
+1/30/20,US,5,0,0,5,0,0,0,Americas
+1/31/20,France,5,0,0,5,0,0,0,Europe
+1/31/20,Germany,5,0,0,5,1,0,0,Europe
+1/31/20,India,1,0,0,1,0,0,0,South-East Asia
+1/31/20,Italy,2,0,0,2,2,0,0,Europe
+1/31/20,Russia,2,0,0,2,2,0,0,Europe
+1/31/20,US,7,0,0,7,2,0,0,Americas
+1/31/20,United Kingdom,2,0,0,2,2,0,0,Europe
+2/1/20,France,6,0,0,6,1,0,0,Europe
+2/1/20,Germany,8,0,0,8,3,0,0,Europe
+2/1/20,India,1,0,0,1,0,0,0,South-East Asia
+2/1/20,Italy,2,0,0,2,0,0,0,Europe
+2/1/20,Russia,2,0,0,2,0,0,0,Europe
+2/1/20,Spain,1,0,0,1,1,0,0,Europe
+2/1/20,US,8,0,0,8,1,0,0,Americas
+2/1/20,United Kingdom,2,0,0,2,0,0,0,Europe
+2/2/20,France,6,0,0,6,0,0,0,Europe
+2/2/20,Germany,10,0,0,10,2,0,0,Europe
+2/2/20,India,2,0,0,2,1,0,0,South-East Asia
+2/2/20,Italy,2,0,0,2,0,0,0,Europe
+2/2/20,Russia,2,0,0,2,0,0,0,Europe
+2/2/20,Spain,1,0,0,1,0,0,0,Europe
+2/2/20,US,8,0,0,8,0,0,0,Americas
+2/2/20,United Kingdom,2,0,0,2,0,0,0,Europe
+2/3/20,France,6,0,0,6,0,0,0,Europe
+2/3/20,Germany,12,0,0,12,2,0,0,Europe
+2/3/20,India,3,0,0,3,1,0,0,South-East Asia
+2/3/20,Italy,2,0,0,2,0,0,0,Europe
+2/3/20,Russia,2,0,0,2,0,0,0,Europe
+2/3/20,Spain,1,0,0,1,0,0,0,Europe
+2/3/20,US,11,0,0,11,3,0,0,Americas
+2/3/20,United Kingdom,8,0,0,8,6,0,0,Europe
+2/4/20,France,6,0,0,6,0,0,0,Europe
+2/4/20,Germany,12,0,0,12,0,0,0,Europe
+2/4/20,India,3,0,0,3,0,0,0,South-East Asia
+2/4/20,Italy,2,0,0,2,0,0,0,Europe
+2/4/20,Russia,2,0,0,2,0,0,0,Europe
+2/4/20,Spain,1,0,0,1,0,0,0,Europe
+2/4/20,US,11,0,0,11,0,0,0,Americas
+2/4/20,United Kingdom,8,0,0,8,0,0,0,Europe
+2/5/20,France,6,0,0,6,0,0,0,Europe
+2/5/20,Germany,12,0,0,12,0,0,0,Europe
+2/5/20,India,3,0,0,3,0,0,0,South-East Asia
+2/5/20,Italy,2,0,0,2,0,0,0,Europe
+2/5/20,Russia,2,0,0,2,0,0,0,Europe
+2/5/20,Spain,1,0,0,1,0,0,0,Europe
+2/5/20,US,11,0,0,11,0,0,0,Americas
+2/5/20,United Kingdom,9,0,0,9,1,0,0,Europe
+2/6/20,France,6,0,0,6,0,0,0,Europe
+2/6/20,Germany,12,0,0,12,0,0,0,Europe
+2/6/20,India,3,0,0,3,0,0,0,South-East Asia
+2/6/20,Italy,2,0,0,2,0,0,0,Europe
+2/6/20,Russia,2,0,0,2,0,0,0,Europe
+2/6/20,Spain,1,0,0,1,0,0,0,Europe
+2/6/20,US,11,0,0,11,0,0,0,Americas
+2/6/20,United Kingdom,9,0,0,9,0,0,0,Europe
+2/7/20,France,6,0,0,6,0,0,0,Europe
+2/7/20,Germany,13,0,0,13,1,0,0,Europe
+2/7/20,India,3,0,0,3,0,0,0,South-East Asia
+2/7/20,Italy,3,0,0,3,1,0,0,Europe
+2/7/20,Russia,2,0,0,2,0,0,0,Europe
+2/7/20,Spain,1,0,0,1,0,0,0,Europe
+2/7/20,US,11,0,0,11,0,0,0,Americas
+2/7/20,United Kingdom,9,0,0,9,0,0,0,Europe
+2/8/20,France,11,0,0,11,5,0,0,Europe
+2/8/20,Germany,13,0,0,13,0,0,0,Europe
+2/8/20,India,3,0,0,3,0,0,0,South-East Asia
+2/8/20,Italy,3,0,0,3,0,0,0,Europe
+2/8/20,Russia,2,0,0,2,0,0,0,Europe
+2/8/20,Spain,1,0,0,1,0,0,0,Europe
+2/8/20,US,11,0,0,11,0,0,0,Americas
+2/8/20,United Kingdom,13,0,0,13,4,0,0,Europe
+2/9/20,France,11,0,0,11,0,0,0,Europe
+2/9/20,Germany,14,0,0,14,1,0,0,Europe
+2/9/20,India,3,0,0,3,0,0,0,South-East Asia
+2/9/20,Italy,3,0,0,3,0,0,0,Europe
+2/9/20,Russia,2,0,0,2,0,0,0,Europe
+2/9/20,Spain,2,0,0,2,1,0,0,Europe
+2/9/20,US,11,0,3,8,0,0,3,Americas
+2/9/20,United Kingdom,14,0,0,14,1,0,0,Europe
+2/10/20,France,11,0,0,11,0,0,0,Europe
+2/10/20,Germany,14,0,0,14,0,0,0,Europe
+2/10/20,India,3,0,0,3,0,0,0,South-East Asia
+2/10/20,Italy,3,0,0,3,0,0,0,Europe
+2/10/20,Russia,2,0,0,2,0,0,0,Europe
+2/10/20,Spain,2,0,0,2,0,0,0,Europe
+2/10/20,US,11,0,3,8,0,0,0,Americas
+2/10/20,United Kingdom,14,0,0,14,0,0,0,Europe
+2/11/20,France,11,0,0,11,0,0,0,Europe
+2/11/20,Germany,16,0,0,16,2,0,0,Europe
+2/11/20,India,3,0,0,3,0,0,0,South-East Asia
+2/11/20,Italy,3,0,0,3,0,0,0,Europe
+2/11/20,Russia,2,0,0,2,0,0,0,Europe
+2/11/20,Spain,2,0,0,2,0,0,0,Europe
+2/11/20,US,12,0,3,9,1,0,0,Americas
+2/11/20,United Kingdom,15,0,0,15,1,0,0,Europe
+2/12/20,France,11,0,2,9,0,0,2,Europe
+2/12/20,Germany,16,0,0,16,0,0,0,Europe
+2/12/20,India,3,0,0,3,0,0,0,South-East Asia
+2/12/20,Italy,3,0,0,3,0,0,0,Europe
+2/12/20,Russia,2,0,2,0,0,0,2,Europe
+2/12/20,Spain,2,0,0,2,0,0,0,Europe
+2/12/20,US,12,0,3,9,0,0,0,Americas
+2/12/20,United Kingdom,16,0,1,15,1,0,1,Europe
+2/13/20,France,11,0,2,9,0,0,0,Europe
+2/13/20,Germany,16,0,1,15,0,0,1,Europe
+2/13/20,India,3,0,0,3,0,0,0,South-East Asia
+2/13/20,Italy,3,0,0,3,0,0,0,Europe
+2/13/20,Russia,2,0,2,0,0,0,0,Europe
+2/13/20,Spain,2,0,0,2,0,0,0,Europe
+2/13/20,US,13,0,3,10,1,0,0,Americas
+2/13/20,United Kingdom,17,0,1,16,1,0,0,Europe
+2/14/20,France,11,0,2,9,0,0,0,Europe
+2/14/20,Germany,16,0,1,15,0,0,0,Europe
+2/14/20,India,3,0,0,3,0,0,0,South-East Asia
+2/14/20,Italy,3,0,0,3,0,0,0,Europe
+2/14/20,Russia,2,0,2,0,0,0,0,Europe
+2/14/20,Spain,2,0,0,2,0,0,0,Europe
+2/14/20,US,13,0,3,10,0,0,0,Americas
+2/14/20,United Kingdom,18,0,1,17,1,0,0,Europe
+2/15/20,France,12,1,4,7,1,1,2,Europe
+2/15/20,Germany,16,0,1,15,0,0,0,Europe
+2/15/20,India,3,0,0,3,0,0,0,South-East Asia
+2/15/20,Italy,3,0,0,3,0,0,0,Europe
+2/15/20,Russia,2,0,2,0,0,0,0,Europe
+2/15/20,Spain,2,0,2,0,0,0,2,Europe
+2/15/20,US,13,0,3,10,0,0,0,Americas
+2/15/20,United Kingdom,18,0,1,17,0,0,0,Europe
+2/16/20,France,12,1,4,7,0,0,0,Europe
+2/16/20,Germany,16,0,1,15,0,0,0,Europe
+2/16/20,India,3,0,3,0,0,0,3,South-East Asia
+2/16/20,Italy,3,0,0,3,0,0,0,Europe
+2/16/20,Russia,2,0,2,0,0,0,0,Europe
+2/16/20,Spain,2,0,2,0,0,0,0,Europe
+2/16/20,US,13,0,3,10,0,0,0,Americas
+2/16/20,United Kingdom,18,0,8,10,0,0,7,Europe
+2/17/20,France,12,1,4,7,0,0,0,Europe
+2/17/20,Germany,16,0,1,15,0,0,0,Europe
+2/17/20,India,3,0,3,0,0,0,0,South-East Asia
+2/17/20,Italy,3,0,0,3,0,0,0,Europe
+2/17/20,Russia,2,0,2,0,0,0,0,Europe
+2/17/20,Spain,2,0,2,0,0,0,0,Europe
+2/17/20,US,13,0,3,10,0,0,0,Americas
+2/17/20,United Kingdom,19,0,8,11,1,0,0,Europe
+2/18/20,France,12,1,4,7,0,0,0,Europe
+2/18/20,Germany,16,0,12,4,0,0,11,Europe
+2/18/20,India,3,0,3,0,0,0,0,South-East Asia
+2/18/20,Italy,3,0,0,3,0,0,0,Europe
+2/18/20,Russia,2,0,2,0,0,0,0,Europe
+2/18/20,Spain,2,0,2,0,0,0,0,Europe
+2/18/20,US,13,0,3,10,0,0,0,Americas
+2/18/20,United Kingdom,19,0,8,11,0,0,0,Europe
+2/19/20,France,12,1,4,7,0,0,0,Europe
+2/19/20,Germany,16,0,12,4,0,0,0,Europe
+2/19/20,India,3,0,3,0,0,0,0,South-East Asia
+2/19/20,Iran,2,2,0,0,2,2,0,Eastern Mediterranean
+2/19/20,Italy,3,0,0,3,0,0,0,Europe
+2/19/20,Russia,2,0,2,0,0,0,0,Europe
+2/19/20,Spain,2,0,2,0,0,0,0,Europe
+2/19/20,US,13,0,3,10,0,0,0,Americas
+2/19/20,United Kingdom,20,0,8,12,1,0,0,Europe
+2/20/20,France,12,1,4,7,0,0,0,Europe
+2/20/20,Germany,16,0,12,4,0,0,0,Europe
+2/20/20,India,3,0,3,0,0,0,0,South-East Asia
+2/20/20,Iran,5,2,0,3,3,0,0,Eastern Mediterranean
+2/20/20,Italy,3,0,0,3,0,0,0,Europe
+2/20/20,Russia,2,0,2,0,0,0,0,Europe
+2/20/20,Spain,2,0,2,0,0,0,0,Europe
+2/20/20,US,13,0,3,10,0,0,0,Americas
+2/20/20,United Kingdom,22,0,8,14,2,0,0,Europe
+2/21/20,France,12,1,4,7,0,0,0,Europe
+2/21/20,Germany,16,0,14,2,0,0,2,Europe
+2/21/20,India,3,0,3,0,0,0,0,South-East Asia
+2/21/20,Iran,18,4,0,14,13,2,0,Eastern Mediterranean
+2/21/20,Italy,20,1,0,19,17,1,0,Europe
+2/21/20,Russia,2,0,2,0,0,0,0,Europe
+2/21/20,Spain,2,0,2,0,0,0,0,Europe
+2/21/20,US,15,0,5,10,2,0,2,Americas
+2/21/20,United Kingdom,23,0,8,15,1,0,0,Europe
+2/22/20,France,12,1,4,7,0,0,0,Europe
+2/22/20,Germany,16,0,14,2,0,0,0,Europe
+2/22/20,India,3,0,3,0,0,0,0,South-East Asia
+2/22/20,Iran,28,5,0,23,10,1,0,Eastern Mediterranean
+2/22/20,Italy,62,2,1,59,42,1,1,Europe
+2/22/20,Russia,2,0,2,0,0,0,0,Europe
+2/22/20,Spain,2,0,2,0,0,0,0,Europe
+2/22/20,US,15,0,5,10,0,0,0,Americas
+2/22/20,United Kingdom,23,0,8,15,0,0,0,Europe
+2/23/20,Chile,2,0,0,2,2,0,0,Americas
+2/23/20,France,12,1,4,7,0,0,0,Europe
+2/23/20,Germany,16,0,14,2,0,0,0,Europe
+2/23/20,India,3,0,3,0,0,0,0,South-East Asia
+2/23/20,Iran,43,8,0,35,15,3,0,Eastern Mediterranean
+2/23/20,Italy,155,3,2,150,93,1,1,Europe
+2/23/20,Russia,2,0,2,0,0,0,0,Europe
+2/23/20,Spain,2,0,2,0,0,0,0,Europe
+2/23/20,US,15,0,5,10,0,0,0,Americas
+2/23/20,United Kingdom,28,0,8,20,5,0,0,Europe
+2/24/20,Chile,2,0,0,2,0,0,0,Americas
+2/24/20,France,12,1,4,7,0,0,0,Europe
+2/24/20,Germany,16,0,14,2,0,0,0,Europe
+2/24/20,India,3,0,3,0,0,0,0,South-East Asia
+2/24/20,Iran,61,12,0,49,18,4,0,Eastern Mediterranean
+2/24/20,Italy,229,7,1,221,74,4,-1,Europe
+2/24/20,Russia,2,0,2,0,0,0,0,Europe
+2/24/20,Spain,2,0,2,0,0,0,0,Europe
+2/24/20,US,15,0,5,10,0,0,0,Americas
+2/24/20,United Kingdom,30,0,8,22,2,0,0,Europe
+2/25/20,Chile,2,0,0,2,0,0,0,Americas
+2/25/20,France,14,1,11,2,2,0,7,Europe
+2/25/20,Germany,17,0,14,3,1,0,0,Europe
+2/25/20,India,3,0,3,0,0,0,0,South-East Asia
+2/25/20,Iran,95,16,0,79,34,4,0,Eastern Mediterranean
+2/25/20,Italy,322,10,1,311,93,3,0,Europe
+2/25/20,Pakistan,2,0,0,2,2,0,0,Eastern Mediterranean
+2/25/20,Russia,2,0,2,0,0,0,0,Europe
+2/25/20,Spain,6,0,2,4,4,0,0,Europe
+2/25/20,US,15,0,6,9,0,0,1,Americas
+2/25/20,United Kingdom,34,0,8,26,4,0,0,Europe
+2/26/20,Brazil,1,0,0,1,1,0,0,Americas
+2/26/20,Chile,2,0,0,2,0,0,0,Americas
+2/26/20,France,18,2,11,5,4,1,0,Europe
+2/26/20,Germany,27,0,15,12,10,0,1,Europe
+2/26/20,India,3,0,3,0,0,0,0,South-East Asia
+2/26/20,Iran,139,19,49,71,44,3,49,Eastern Mediterranean
+2/26/20,Italy,453,12,3,438,131,2,2,Europe
+2/26/20,Pakistan,2,0,0,2,0,0,0,Eastern Mediterranean
+2/26/20,Russia,2,0,2,0,0,0,0,Europe
+2/26/20,Spain,13,0,2,11,7,0,0,Europe
+2/26/20,US,15,0,6,9,0,0,0,Americas
+2/26/20,United Kingdom,37,0,8,29,3,0,0,Europe
+2/27/20,Brazil,1,0,0,1,0,0,0,Americas
+2/27/20,Chile,2,0,0,2,0,0,0,Americas
+2/27/20,France,38,2,11,25,20,0,0,Europe
+2/27/20,Germany,46,0,16,30,19,0,1,Europe
+2/27/20,India,3,0,3,0,0,0,0,South-East Asia
+2/27/20,Iran,245,26,49,170,106,7,0,Eastern Mediterranean
+2/27/20,Italy,655,17,45,593,202,5,42,Europe
+2/27/20,Pakistan,2,0,0,2,0,0,0,Eastern Mediterranean
+2/27/20,Russia,2,0,2,0,0,0,0,Europe
+2/27/20,Spain,15,0,2,13,2,0,0,Europe
+2/27/20,US,16,0,6,10,1,0,0,Americas
+2/27/20,United Kingdom,44,0,8,36,7,0,0,Europe
+2/28/20,Brazil,1,0,0,1,0,0,0,Americas
+2/28/20,Chile,2,0,0,2,0,0,0,Americas
+2/28/20,France,57,2,11,44,19,0,0,Europe
+2/28/20,Germany,48,0,16,32,2,0,0,Europe
+2/28/20,India,3,0,3,0,0,0,0,South-East Asia
+2/28/20,Iran,388,34,73,281,143,8,24,Eastern Mediterranean
+2/28/20,Italy,888,21,46,821,233,4,1,Europe
+2/28/20,Mexico,1,0,0,1,1,0,0,Americas
+2/28/20,Pakistan,4,0,0,4,2,0,0,Eastern Mediterranean
+2/28/20,Russia,2,0,2,0,0,0,0,Europe
+2/28/20,Spain,32,0,2,30,17,0,0,Europe
+2/28/20,US,16,0,7,9,0,0,1,Americas
+2/28/20,United Kingdom,56,0,8,48,12,0,0,Europe
+2/29/20,Brazil,2,0,0,2,1,0,0,Americas
+2/29/20,Chile,2,0,0,2,0,0,0,Americas
+2/29/20,France,100,2,12,86,43,0,1,Europe
+2/29/20,Germany,79,0,16,63,31,0,0,Europe
+2/29/20,India,3,0,3,0,0,0,0,South-East Asia
+2/29/20,Iran,593,43,123,427,205,9,50,Eastern Mediterranean
+2/29/20,Italy,1128,29,46,1053,240,8,0,Europe
+2/29/20,Mexico,4,0,0,4,3,0,0,Americas
+2/29/20,Pakistan,4,0,0,4,0,0,0,Eastern Mediterranean
+2/29/20,Russia,2,0,2,0,0,0,0,Europe
+2/29/20,Spain,45,0,2,43,13,0,0,Europe
+2/29/20,US,24,1,7,16,8,1,0,Americas
+2/29/20,United Kingdom,61,0,8,53,5,0,0,Europe
+3/1/20,Brazil,2,0,0,2,0,0,0,Americas
+3/1/20,Chile,9,0,0,9,7,0,0,Americas
+3/1/20,France,130,2,12,116,30,0,0,Europe
+3/1/20,Germany,130,0,16,114,51,0,0,Europe
+3/1/20,India,3,0,3,0,0,0,0,South-East Asia
+3/1/20,Iran,978,54,175,749,385,11,52,Eastern Mediterranean
+3/1/20,Italy,1694,34,83,1577,566,5,37,Europe
+3/1/20,Mexico,5,0,0,5,1,0,0,Americas
+3/1/20,Pakistan,4,0,0,4,0,0,0,Eastern Mediterranean
+3/1/20,Russia,2,0,2,0,0,0,0,Europe
+3/1/20,Spain,84,0,2,82,39,0,0,Europe
+3/1/20,US,30,1,7,22,6,0,0,Americas
+3/1/20,United Kingdom,94,0,8,86,33,0,0,Europe
+3/2/20,Brazil,2,0,0,2,0,0,0,Americas
+3/2/20,Chile,9,0,0,9,0,0,0,Americas
+3/2/20,France,191,3,12,176,61,1,0,Europe
+3/2/20,Germany,159,0,16,143,29,0,0,Europe
+3/2/20,India,5,0,3,2,2,0,0,South-East Asia
+3/2/20,Iran,1501,66,291,1144,523,12,116,Eastern Mediterranean
+3/2/20,Italy,2036,52,149,1835,342,18,66,Europe
+3/2/20,Mexico,5,0,0,5,0,0,0,Americas
+3/2/20,Pakistan,5,0,0,5,1,0,0,Eastern Mediterranean
+3/2/20,Russia,3,0,2,1,1,0,0,Europe
+3/2/20,Saudi Arabia,1,0,0,1,1,0,0,Eastern Mediterranean
+3/2/20,Spain,120,0,2,118,36,0,0,Europe
+3/2/20,US,53,6,7,40,23,5,0,Americas
+3/2/20,United Kingdom,134,0,8,126,40,0,0,Europe
+3/3/20,Argentina,1,0,0,1,1,0,0,Americas
+3/3/20,Brazil,2,0,0,2,0,0,0,Americas
+3/3/20,Chile,10,0,0,10,1,0,0,Americas
+3/3/20,France,204,4,12,188,13,1,0,Europe
+3/3/20,Germany,196,0,16,180,37,0,0,Europe
+3/3/20,India,5,0,3,2,0,0,0,South-East Asia
+3/3/20,Iran,2336,77,291,1968,835,11,0,Eastern Mediterranean
+3/3/20,Italy,2502,79,160,2263,466,27,11,Europe
+3/3/20,Mexico,5,0,1,4,0,0,1,Americas
+3/3/20,Pakistan,5,0,0,5,0,0,0,Eastern Mediterranean
+3/3/20,Russia,3,0,2,1,0,0,0,Europe
+3/3/20,Saudi Arabia,1,0,0,1,0,0,0,Eastern Mediterranean
+3/3/20,Spain,165,1,2,162,45,1,0,Europe
+3/3/20,US,73,7,7,59,20,1,0,Americas
+3/3/20,United Kingdom,189,0,8,181,55,0,0,Europe
+3/4/20,Argentina,1,0,0,1,0,0,0,Americas
+3/4/20,Brazil,4,0,0,4,2,0,0,Americas
+3/4/20,Chile,10,0,0,10,0,0,0,Americas
+3/4/20,France,288,4,12,272,84,0,0,Europe
+3/4/20,Germany,262,0,16,246,66,0,0,Europe
+3/4/20,India,28,0,3,25,23,0,0,South-East Asia
+3/4/20,Iran,2922,92,552,2278,586,15,261,Eastern Mediterranean
+3/4/20,Italy,3089,107,276,2706,587,28,116,Europe
+3/4/20,Mexico,5,0,1,4,0,0,0,Americas
+3/4/20,Pakistan,5,0,0,5,0,0,0,Eastern Mediterranean
+3/4/20,Russia,3,0,2,1,0,0,0,Europe
+3/4/20,Saudi Arabia,1,0,0,1,0,0,0,Eastern Mediterranean
+3/4/20,Spain,222,2,2,218,57,1,0,Europe
+3/4/20,US,104,11,7,86,31,4,0,Americas
+3/4/20,United Kingdom,246,0,8,238,57,0,0,Europe
+3/5/20,Argentina,1,0,0,1,0,0,0,Americas
+3/5/20,Brazil,4,0,0,4,0,0,0,Americas
+3/5/20,Chile,13,0,0,13,3,0,0,Americas
+3/5/20,France,380,6,12,362,92,2,0,Europe
+3/5/20,Germany,482,0,16,466,220,0,0,Europe
+3/5/20,India,30,0,3,27,2,0,0,South-East Asia
+3/5/20,Iran,3513,107,739,2667,591,15,187,Eastern Mediterranean
+3/5/20,Italy,3858,148,414,3296,769,41,138,Europe
+3/5/20,Mexico,5,0,1,4,0,0,0,Americas
+3/5/20,Pakistan,6,0,0,6,1,0,0,Eastern Mediterranean
+3/5/20,Russia,4,0,2,2,1,0,0,Europe
+3/5/20,Saudi Arabia,5,0,0,5,4,0,0,Eastern Mediterranean
+3/5/20,South Africa,1,0,0,1,1,0,0,Africa
+3/5/20,Spain,259,3,2,254,37,1,0,Europe
+3/5/20,US,174,12,7,155,70,1,0,Americas
+3/5/20,United Kingdom,295,0,8,287,49,0,0,Europe
+3/6/20,Argentina,2,0,0,2,1,0,0,Americas
+3/6/20,Brazil,13,0,0,13,9,0,0,Americas
+3/6/20,Chile,13,0,0,13,0,0,0,Americas
+3/6/20,Colombia,1,0,0,1,1,0,0,Americas
+3/6/20,France,656,9,12,635,276,3,0,Europe
+3/6/20,Germany,670,0,17,653,188,0,1,Europe
+3/6/20,India,31,0,3,28,1,0,0,South-East Asia
+3/6/20,Iran,4747,124,913,3710,1234,17,174,Eastern Mediterranean
+3/6/20,Italy,4636,197,523,3916,778,49,109,Europe
+3/6/20,Mexico,6,0,1,5,1,0,0,Americas
+3/6/20,Pakistan,6,0,0,6,0,0,0,Eastern Mediterranean
+3/6/20,Peru,1,0,0,1,1,0,0,Americas
+3/6/20,Russia,13,0,2,11,9,0,0,Europe
+3/6/20,Saudi Arabia,5,0,0,5,0,0,0,Eastern Mediterranean
+3/6/20,South Africa,1,0,0,1,0,0,0,Africa
+3/6/20,Spain,400,5,2,393,141,2,0,Europe
+3/6/20,US,222,14,7,201,48,2,0,Americas
+3/6/20,United Kingdom,374,1,8,365,79,1,0,Europe
+3/7/20,Argentina,8,0,0,8,6,0,0,Americas
+3/7/20,Brazil,13,0,0,13,0,0,0,Americas
+3/7/20,Chile,13,0,0,13,0,0,0,Americas
+3/7/20,Colombia,1,0,0,1,0,0,0,Americas
+3/7/20,France,959,11,12,936,303,2,0,Europe
+3/7/20,Germany,799,0,18,781,129,0,1,Europe
+3/7/20,India,34,0,3,31,3,0,0,South-East Asia
+3/7/20,Iran,5823,145,1669,4009,1076,21,756,Eastern Mediterranean
+3/7/20,Italy,5883,233,589,5061,1247,36,66,Europe
+3/7/20,Mexico,6,0,1,5,0,0,0,Americas
+3/7/20,Pakistan,6,0,1,5,0,0,1,Eastern Mediterranean
+3/7/20,Peru,1,0,0,1,0,0,0,Americas
+3/7/20,Russia,13,0,2,11,0,0,0,Europe
+3/7/20,Saudi Arabia,5,0,0,5,0,0,0,Eastern Mediterranean
+3/7/20,South Africa,1,0,0,1,0,0,0,Africa
+3/7/20,Spain,500,10,30,460,100,5,28,Europe
+3/7/20,US,337,17,7,313,115,3,0,Americas
+3/7/20,United Kingdom,429,2,18,409,55,1,10,Europe
+3/8/20,Argentina,12,1,0,11,4,1,0,Americas
+3/8/20,Bangladesh,3,0,0,3,3,0,0,South-East Asia
+3/8/20,Brazil,20,0,0,20,7,0,0,Americas
+3/8/20,Chile,20,0,0,20,7,0,0,Americas
+3/8/20,Colombia,1,0,0,1,0,0,0,Americas
+3/8/20,France,1136,19,12,1105,177,8,0,Europe
+3/8/20,Germany,1040,0,18,1022,241,0,0,Europe
+3/8/20,India,39,0,3,36,5,0,0,South-East Asia
+3/8/20,Iran,6566,194,2134,4238,743,49,465,Eastern Mediterranean
+3/8/20,Italy,7375,366,622,6387,1492,133,33,Europe
+3/8/20,Mexico,7,0,1,6,1,0,0,Americas
+3/8/20,Pakistan,6,0,1,5,0,0,0,Eastern Mediterranean
+3/8/20,Peru,6,0,0,6,5,0,0,Americas
+3/8/20,Russia,17,0,3,14,4,0,1,Europe
+3/8/20,Saudi Arabia,11,0,0,11,6,0,0,Eastern Mediterranean
+3/8/20,South Africa,3,0,0,3,2,0,0,Africa
+3/8/20,Spain,673,17,30,626,173,7,0,Europe
+3/8/20,US,451,21,7,423,114,4,0,Americas
+3/8/20,United Kingdom,483,2,18,463,54,0,0,Europe
+3/9/20,Argentina,12,1,0,11,0,0,0,Americas
+3/9/20,Bangladesh,3,0,0,3,0,0,0,South-East Asia
+3/9/20,Brazil,25,0,0,25,5,0,0,Americas
+3/9/20,Chile,20,0,0,20,0,0,0,Americas
+3/9/20,Colombia,1,0,0,1,0,0,0,Americas
+3/9/20,France,1219,19,12,1188,83,0,0,Europe
+3/9/20,Germany,1176,2,18,1156,136,2,0,Europe
+3/9/20,India,43,0,3,40,4,0,0,South-East Asia
+3/9/20,Iran,7161,237,2394,4530,595,43,260,Eastern Mediterranean
+3/9/20,Italy,9172,463,724,7985,1797,97,102,Europe
+3/9/20,Mexico,7,0,1,6,0,0,0,Americas
+3/9/20,Pakistan,16,0,1,15,10,0,0,Eastern Mediterranean
+3/9/20,Peru,7,0,0,7,1,0,0,Americas
+3/9/20,Russia,17,0,3,14,0,0,0,Europe
+3/9/20,Saudi Arabia,15,0,0,15,4,0,0,Eastern Mediterranean
+3/9/20,South Africa,3,0,0,3,0,0,0,Africa
+3/9/20,Spain,1073,28,32,1013,400,11,2,Europe
+3/9/20,US,519,22,7,490,68,1,0,Americas
+3/9/20,United Kingdom,630,3,18,609,147,1,0,Europe
+3/10/20,Argentina,17,1,0,16,5,0,0,Americas
+3/10/20,Bangladesh,3,0,0,3,0,0,0,South-East Asia
+3/10/20,Brazil,31,0,0,31,6,0,0,Americas
+3/10/20,Chile,25,0,0,25,5,0,0,Americas
+3/10/20,Colombia,3,0,0,3,2,0,0,Americas
+3/10/20,France,1794,33,12,1749,575,14,0,Europe
+3/10/20,Germany,1457,2,18,1437,281,0,0,Europe
+3/10/20,India,56,0,4,52,13,0,1,South-East Asia
+3/10/20,Iran,8042,291,2731,5020,881,54,337,Eastern Mediterranean
+3/10/20,Italy,10149,631,724,8794,977,168,0,Europe
+3/10/20,Mexico,7,0,4,3,0,0,3,Americas
+3/10/20,Pakistan,19,0,2,17,3,0,1,Eastern Mediterranean
+3/10/20,Peru,11,0,0,11,4,0,0,Americas
+3/10/20,Russia,20,0,3,17,3,0,0,Europe
+3/10/20,Saudi Arabia,20,0,1,19,5,0,1,Eastern Mediterranean
+3/10/20,South Africa,7,0,0,7,4,0,0,Africa
+3/10/20,Spain,1695,35,32,1628,622,7,0,Europe
+3/10/20,US,711,28,8,675,192,6,1,Americas
+3/10/20,United Kingdom,889,7,19,863,259,4,1,Europe
+3/11/20,Argentina,19,1,0,18,2,0,0,Americas
+3/11/20,Bangladesh,3,0,0,3,0,0,0,South-East Asia
+3/11/20,Brazil,38,0,0,38,7,0,0,Americas
+3/11/20,Chile,35,0,0,35,10,0,0,Americas
+3/11/20,Colombia,9,0,0,9,6,0,0,Americas
+3/11/20,France,2293,48,12,2233,499,15,0,Europe
+3/11/20,Germany,1908,3,25,1880,451,1,7,Europe
+3/11/20,India,62,1,4,57,6,1,0,South-East Asia
+3/11/20,Iran,9000,354,2959,5687,958,63,228,Eastern Mediterranean
+3/11/20,Italy,12462,827,1045,10590,2313,196,321,Europe
+3/11/20,Mexico,8,0,4,4,1,0,0,Americas
+3/11/20,Pakistan,20,0,2,18,1,0,0,Eastern Mediterranean
+3/11/20,Peru,11,0,0,11,0,0,0,Americas
+3/11/20,Russia,20,0,3,17,0,0,0,Europe
+3/11/20,Saudi Arabia,21,0,1,20,1,0,0,Eastern Mediterranean
+3/11/20,South Africa,13,0,0,13,6,0,0,Africa
+3/11/20,Spain,2277,54,183,2040,582,19,151,Europe
+3/11/20,Turkey,1,0,0,1,1,0,0,Europe
+3/11/20,US,1109,33,8,1068,398,5,0,Americas
+3/11/20,United Kingdom,1301,7,19,1275,412,0,0,Europe
+3/12/20,Argentina,19,1,0,18,0,0,0,Americas
+3/12/20,Bangladesh,3,0,0,3,0,0,0,South-East Asia
+3/12/20,Brazil,52,0,0,52,14,0,0,Americas
+3/12/20,Chile,35,0,0,35,0,0,0,Americas
+3/12/20,Colombia,9,0,0,9,0,0,0,Americas
+3/12/20,France,2293,48,12,2233,0,0,0,Europe
+3/12/20,Germany,2078,3,25,2050,170,0,0,Europe
+3/12/20,India,73,1,4,68,11,0,0,South-East Asia
+3/12/20,Iran,10075,429,2959,6687,1075,75,0,Eastern Mediterranean
+3/12/20,Italy,15113,1016,1045,13052,2651,189,0,Europe
+3/12/20,Mexico,12,0,4,8,4,0,0,Americas
+3/12/20,Pakistan,28,0,2,26,8,0,0,Eastern Mediterranean
+3/12/20,Peru,15,0,0,15,4,0,0,Americas
+3/12/20,Russia,28,0,3,25,8,0,0,Europe
+3/12/20,Saudi Arabia,45,0,1,44,24,0,0,Eastern Mediterranean
+3/12/20,South Africa,17,0,0,17,4,0,0,Africa
+3/12/20,Spain,2277,55,183,2039,0,1,0,Europe
+3/12/20,Turkey,1,0,0,1,0,0,0,Europe
+3/12/20,US,1561,43,12,1506,452,10,4,Americas
+3/12/20,United Kingdom,1790,9,19,1762,489,2,0,Europe
+3/13/20,Argentina,31,2,0,29,12,1,0,Americas
+3/13/20,Bangladesh,3,0,0,3,0,0,0,South-East Asia
+3/13/20,Brazil,151,0,0,151,99,0,0,Americas
+3/13/20,Chile,55,0,0,55,20,0,0,Americas
+3/13/20,Colombia,13,0,0,13,4,0,0,Americas
+3/13/20,France,3681,79,12,3590,1388,31,0,Europe
+3/13/20,Germany,3675,7,46,3622,1597,4,21,Europe
+3/13/20,India,82,2,4,76,9,1,0,South-East Asia
+3/13/20,Iran,11364,514,2959,7891,1289,85,0,Eastern Mediterranean
+3/13/20,Italy,17660,1266,1439,14955,2547,250,394,Europe
+3/13/20,Mexico,26,0,4,22,14,0,0,Americas
+3/13/20,Pakistan,31,0,2,29,3,0,0,Eastern Mediterranean
+3/13/20,Peru,28,0,0,28,13,0,0,Americas
+3/13/20,Russia,45,0,3,42,17,0,0,Europe
+3/13/20,Saudi Arabia,86,0,1,85,41,0,0,Eastern Mediterranean
+3/13/20,South Africa,24,0,0,24,7,0,0,Africa
+3/13/20,Spain,5232,133,193,4906,2955,78,10,Europe
+3/13/20,Turkey,5,0,0,5,4,0,0,Europe
+3/13/20,US,2157,52,12,2093,596,9,0,Americas
+3/13/20,United Kingdom,2270,10,19,2241,480,1,0,Europe
+3/14/20,Argentina,34,2,1,31,3,0,1,Americas
+3/14/20,Bangladesh,3,0,0,3,0,0,0,South-East Asia
+3/14/20,Brazil,151,0,0,151,0,0,0,Americas
+3/14/20,Chile,88,0,0,88,33,0,0,Americas
+3/14/20,Colombia,22,0,0,22,9,0,0,Americas
+3/14/20,France,4496,91,12,4393,815,12,0,Europe
+3/14/20,Germany,4585,9,46,4530,910,2,0,Europe
+3/14/20,India,102,2,4,96,20,0,0,South-East Asia
+3/14/20,Iran,12729,611,2959,9159,1365,97,0,Eastern Mediterranean
+3/14/20,Italy,21157,1441,1966,17750,3497,175,527,Europe
+3/14/20,Mexico,41,0,4,37,15,0,0,Americas
+3/14/20,Pakistan,53,0,2,51,22,0,0,Eastern Mediterranean
+3/14/20,Peru,38,0,0,38,10,0,0,Americas
+3/14/20,Russia,59,0,8,51,14,0,5,Europe
+3/14/20,Saudi Arabia,103,0,1,102,17,0,0,Eastern Mediterranean
+3/14/20,South Africa,38,0,0,38,14,0,0,Africa
+3/14/20,Spain,6391,195,517,5679,1159,62,324,Europe
+3/14/20,Turkey,5,0,0,5,0,0,0,Europe
+3/14/20,US,2870,58,12,2800,713,6,0,Americas
+3/14/20,United Kingdom,2634,28,19,2587,364,18,0,Europe
+3/15/20,Argentina,45,2,1,42,11,0,0,Americas
+3/15/20,Bangladesh,5,0,0,5,2,0,0,South-East Asia
+3/15/20,Brazil,162,0,0,162,11,0,0,Americas
+3/15/20,Chile,101,0,0,101,13,0,0,Americas
+3/15/20,Colombia,34,0,0,34,12,0,0,Americas
+3/15/20,France,4532,91,12,4429,36,0,0,Europe
+3/15/20,Germany,5795,11,46,5738,1210,2,0,Europe
+3/15/20,India,113,2,13,98,11,0,9,South-East Asia
+3/15/20,Iran,13938,724,4590,8624,1209,113,1631,Eastern Mediterranean
+3/15/20,Italy,24747,1809,2335,20603,3590,368,369,Europe
+3/15/20,Mexico,53,0,4,49,12,0,0,Americas
+3/15/20,Pakistan,136,0,2,134,83,0,0,Eastern Mediterranean
+3/15/20,Peru,43,0,0,43,5,0,0,Americas
+3/15/20,Russia,63,0,8,55,4,0,0,Europe
+3/15/20,Saudi Arabia,103,0,1,102,0,0,0,Eastern Mediterranean
+3/15/20,South Africa,51,0,0,51,13,0,0,Africa
+3/15/20,Spain,7798,289,517,6992,1407,94,0,Europe
+3/15/20,Turkey,6,0,0,6,1,0,0,Europe
+3/15/20,US,2968,70,12,2886,98,12,0,Americas
+3/15/20,United Kingdom,3077,43,19,3015,443,15,0,Europe
+3/16/20,Argentina,56,2,1,53,11,0,0,Americas
+3/16/20,Bangladesh,8,0,2,6,3,0,2,South-East Asia
+3/16/20,Brazil,200,0,1,199,38,0,1,Americas
+3/16/20,Chile,182,0,0,182,81,0,0,Americas
+3/16/20,Colombia,57,0,0,57,23,0,0,Americas
+3/16/20,France,6683,149,12,6522,2151,58,0,Europe
+3/16/20,Germany,7272,17,67,7188,1477,6,21,Europe
+3/16/20,India,119,2,13,104,6,0,0,South-East Asia
+3/16/20,Iran,14991,853,4590,9548,1053,129,0,Eastern Mediterranean
+3/16/20,Italy,27980,2158,2749,23073,3233,349,414,Europe
+3/16/20,Mexico,82,0,4,78,29,0,0,Americas
+3/16/20,Pakistan,236,0,2,234,100,0,0,Eastern Mediterranean
+3/16/20,Peru,86,0,0,86,43,0,0,Americas
+3/16/20,Russia,90,0,8,82,27,0,0,Europe
+3/16/20,Saudi Arabia,118,0,2,116,15,0,1,Eastern Mediterranean
+3/16/20,South Africa,62,0,0,62,11,0,0,Africa
+3/16/20,Spain,9942,342,530,9070,2144,53,13,Europe
+3/16/20,Turkey,18,0,0,18,12,0,0,Europe
+3/16/20,US,4360,97,17,4246,1392,27,5,Americas
+3/16/20,United Kingdom,3692,66,21,3605,615,23,2,Europe
+3/17/20,Argentina,68,2,3,63,12,0,2,Americas
+3/17/20,Bangladesh,10,0,3,7,2,0,1,South-East Asia
+3/17/20,Brazil,321,1,2,318,121,1,1,Americas
+3/17/20,Chile,228,0,0,228,46,0,0,Americas
+3/17/20,Colombia,75,0,1,74,18,0,1,Americas
+3/17/20,France,7715,149,12,7554,1032,0,0,Europe
+3/17/20,Germany,9257,24,67,9166,1985,7,0,Europe
+3/17/20,India,142,3,14,125,23,1,1,South-East Asia
+3/17/20,Iran,16169,988,5389,9792,1178,135,799,Eastern Mediterranean
+3/17/20,Italy,31506,2503,2941,26062,3526,345,192,Europe
+3/17/20,Mexico,93,0,4,89,11,0,0,Americas
+3/17/20,Pakistan,299,0,2,297,63,0,0,Eastern Mediterranean
+3/17/20,Peru,117,0,1,116,31,0,1,Americas
+3/17/20,Russia,114,0,8,106,24,0,0,Europe
+3/17/20,Saudi Arabia,171,0,6,165,53,0,4,Eastern Mediterranean
+3/17/20,South Africa,62,0,0,62,0,0,0,Africa
+3/17/20,Spain,11748,533,1028,10187,1806,191,498,Europe
+3/17/20,Turkey,47,1,0,46,29,1,0,Europe
+3/17/20,US,6141,131,17,5993,1781,34,0,Americas
+3/17/20,United Kingdom,4462,82,53,4327,770,16,32,Europe
+3/18/20,Argentina,79,2,3,74,11,0,0,Americas
+3/18/20,Bangladesh,14,1,3,10,4,1,0,South-East Asia
+3/18/20,Brazil,372,3,2,367,51,2,0,Americas
+3/18/20,Chile,265,0,0,265,37,0,0,Americas
+3/18/20,Colombia,102,0,1,101,27,0,0,Americas
+3/18/20,France,9124,149,12,8963,1409,0,0,Europe
+3/18/20,Germany,12327,28,105,12194,3070,4,38,Europe
+3/18/20,India,156,3,14,139,14,0,0,South-East Asia
+3/18/20,Iran,17361,1135,5389,10837,1192,147,0,Eastern Mediterranean
+3/18/20,Italy,35713,2978,4025,28710,4207,475,1084,Europe
+3/18/20,Mexico,118,0,4,114,25,0,0,Americas
+3/18/20,Pakistan,454,2,13,439,155,2,11,Eastern Mediterranean
+3/18/20,Peru,145,0,1,144,28,0,0,Americas
+3/18/20,Russia,147,0,8,139,33,0,0,Europe
+3/18/20,Saudi Arabia,171,0,6,165,0,0,0,Eastern Mediterranean
+3/18/20,South Africa,116,0,0,116,54,0,0,Africa
+3/18/20,Spain,13910,623,1081,12206,2162,90,53,Europe
+3/18/20,Turkey,98,1,0,97,51,0,0,Europe
+3/18/20,US,8917,188,105,8624,2776,57,88,Americas
+3/18/20,United Kingdom,5467,116,67,5284,1005,34,14,Europe
+3/19/20,Argentina,97,3,3,91,18,1,0,Americas
+3/19/20,Bangladesh,17,1,3,13,3,0,0,South-East Asia
+3/19/20,Brazil,621,6,2,613,249,3,0,Americas
+3/19/20,Chile,265,0,0,265,0,0,0,Americas
+3/19/20,Colombia,108,0,1,107,6,0,0,Americas
+3/19/20,France,10970,244,12,10714,1846,95,0,Europe
+3/19/20,Germany,15320,44,113,15163,2993,16,8,Europe
+3/19/20,India,194,4,15,175,38,1,1,South-East Asia
+3/19/20,Iran,18407,1284,5710,11413,1046,149,321,Eastern Mediterranean
+3/19/20,Italy,41035,3405,4440,33190,5322,427,415,Europe
+3/19/20,Mexico,164,1,4,159,46,1,0,Americas
+3/19/20,Pakistan,501,3,13,485,47,1,0,Eastern Mediterranean
+3/19/20,Peru,234,0,1,233,89,0,0,Americas
+3/19/20,Russia,199,1,9,189,52,1,1,Europe
+3/19/20,Saudi Arabia,274,0,6,268,103,0,0,Eastern Mediterranean
+3/19/20,South Africa,150,0,0,150,34,0,0,Africa
+3/19/20,Spain,17963,830,1107,16026,4053,207,26,Europe
+3/19/20,Turkey,192,3,0,189,94,2,0,Europe
+3/19/20,US,14157,265,121,13771,5240,77,16,Americas
+3/19/20,United Kingdom,6533,159,67,6307,1066,43,0,Europe
+3/20/20,Argentina,128,3,3,122,31,0,0,Americas
+3/20/20,Bangladesh,20,1,3,16,3,0,0,South-East Asia
+3/20/20,Brazil,793,11,2,780,172,5,0,Americas
+3/20/20,Chile,461,0,6,455,196,0,6,Americas
+3/20/20,Colombia,158,0,1,157,50,0,0,Americas
+3/20/20,France,12758,451,12,12295,1788,207,0,Europe
+3/20/20,Germany,19848,67,180,19601,4528,23,67,Europe
+3/20/20,India,244,5,20,219,50,1,5,South-East Asia
+3/20/20,Iran,19644,1433,6745,11466,1237,149,1035,Eastern Mediterranean
+3/20/20,Italy,47021,4032,4440,38549,5986,627,0,Europe
+3/20/20,Mexico,203,2,4,197,39,1,0,Americas
+3/20/20,Pakistan,730,3,13,714,229,0,0,Eastern Mediterranean
+3/20/20,Peru,234,3,1,230,0,3,0,Americas
+3/20/20,Russia,253,1,9,243,54,0,0,Europe
+3/20/20,Saudi Arabia,344,0,8,336,70,0,2,Eastern Mediterranean
+3/20/20,South Africa,202,0,0,202,52,0,0,Africa
+3/20/20,Spain,20410,1043,1588,17779,2447,213,481,Europe
+3/20/20,Turkey,359,4,0,355,167,1,0,Europe
+3/20/20,US,19479,362,147,18970,5322,97,26,Americas
+3/20/20,United Kingdom,7791,195,67,7529,1258,36,0,Europe
+3/21/20,Argentina,158,4,3,151,30,1,0,Americas
+3/21/20,Bangladesh,25,2,3,20,5,1,0,South-East Asia
+3/21/20,Brazil,1021,15,2,1004,228,4,0,Americas
+3/21/20,Chile,592,0,6,586,131,0,0,Americas
+3/21/20,Colombia,196,0,1,195,38,0,0,Americas
+3/21/20,France,14463,563,12,13888,1705,112,0,Europe
+3/21/20,Germany,22213,84,233,21896,2365,17,53,Europe
+3/21/20,India,330,4,23,303,86,-1,3,South-East Asia
+3/21/20,Iran,20610,1556,7635,11419,966,123,890,Eastern Mediterranean
+3/21/20,Italy,53578,4825,6072,42681,6557,793,1632,Europe
+3/21/20,Mexico,251,2,4,245,48,0,0,Americas
+3/21/20,Pakistan,776,5,5,766,46,2,-8,Eastern Mediterranean
+3/21/20,Peru,318,5,1,312,84,2,0,Americas
+3/21/20,Russia,306,1,12,293,53,0,3,Europe
+3/21/20,Saudi Arabia,392,0,16,376,48,0,8,Eastern Mediterranean
+3/21/20,South Africa,240,0,0,240,38,0,0,Africa
+3/21/20,Spain,25374,1375,2125,21874,4964,332,537,Europe
+3/21/20,Turkey,670,9,0,661,311,5,0,Europe
+3/21/20,US,25825,456,176,25193,6346,94,29,Americas
+3/21/20,United Kingdom,9006,251,67,8688,1215,56,0,Europe
+3/22/20,Argentina,266,4,3,259,108,0,0,Americas
+3/22/20,Bangladesh,27,2,3,22,2,0,0,South-East Asia
+3/22/20,Brazil,1546,25,2,1519,525,10,0,Americas
+3/22/20,Chile,687,1,8,678,95,1,2,Americas
+3/22/20,Colombia,231,2,3,226,35,2,2,Americas
+3/22/20,France,16243,676,2206,13361,1780,113,2194,Europe
+3/22/20,Germany,24873,94,266,24513,2660,10,33,Europe
+3/22/20,India,396,7,27,362,66,3,4,South-East Asia
+3/22/20,Iran,21638,1685,7931,12022,1028,129,296,Eastern Mediterranean
+3/22/20,Italy,59138,5476,7024,46638,5560,651,952,Europe
+3/22/20,Mexico,316,3,4,309,65,1,0,Americas
+3/22/20,Pakistan,875,6,5,864,99,1,0,Eastern Mediterranean
+3/22/20,Peru,363,5,1,357,45,0,0,Americas
+3/22/20,Russia,367,1,16,350,61,0,4,Europe
+3/22/20,Saudi Arabia,511,0,16,495,119,0,0,Eastern Mediterranean
+3/22/20,South Africa,274,0,0,274,34,0,0,Africa
+3/22/20,Spain,28768,1772,2575,24421,3394,397,450,Europe
+3/22/20,Turkey,1236,30,0,1206,566,21,0,Europe
+3/22/20,US,33761,601,178,32982,7936,145,2,Americas
+3/22/20,United Kingdom,10395,286,67,10042,1389,35,0,Europe
+3/23/20,Argentina,301,4,3,294,35,0,0,Americas
+3/23/20,Bangladesh,33,3,3,27,6,1,0,South-East Asia
+3/23/20,Brazil,1924,34,2,1888,378,9,0,Americas
+3/23/20,Chile,801,2,8,791,114,1,0,Americas
+3/23/20,Colombia,277,3,3,271,46,1,0,Americas
+3/23/20,France,20123,862,2206,17055,3880,186,0,Europe
+3/23/20,Germany,29056,123,266,28667,4183,29,0,Europe
+3/23/20,India,499,10,27,462,103,3,0,South-East Asia
+3/23/20,Iran,23049,1812,7931,13306,1411,127,0,Eastern Mediterranean
+3/23/20,Italy,63927,6077,7024,50826,4789,601,0,Europe
+3/23/20,Mexico,367,4,4,359,51,1,0,Americas
+3/23/20,Pakistan,972,7,18,947,97,1,13,Eastern Mediterranean
+3/23/20,Peru,395,5,1,389,32,0,0,Americas
+3/23/20,Russia,438,1,16,421,71,0,0,Europe
+3/23/20,Saudi Arabia,562,0,16,546,51,0,0,Eastern Mediterranean
+3/23/20,South Africa,402,0,0,402,128,0,0,Africa
+3/23/20,Spain,35136,2311,2575,30250,6368,539,0,Europe
+3/23/20,Turkey,1529,37,0,1492,293,7,0,Europe
+3/23/20,US,43850,784,178,42888,10089,183,0,Americas
+3/23/20,United Kingdom,12744,360,67,12317,2349,74,0,Europe
+3/24/20,Argentina,387,6,52,329,86,2,49,Americas
+3/24/20,Bangladesh,39,4,5,30,6,1,2,South-East Asia
+3/24/20,Brazil,2247,46,2,2199,323,12,0,Americas
+3/24/20,Chile,977,2,17,958,176,0,9,Americas
+3/24/20,Colombia,378,3,6,369,101,0,3,Americas
+3/24/20,France,22622,1102,3250,18270,2499,240,1044,Europe
+3/24/20,Germany,32986,157,3243,29586,3930,34,2977,Europe
+3/24/20,India,536,10,40,486,37,0,13,South-East Asia
+3/24/20,Iran,24811,1934,8913,13964,1762,122,982,Eastern Mediterranean
+3/24/20,Italy,69176,6820,8326,54030,5249,743,1302,Europe
+3/24/20,Mexico,405,5,4,396,38,1,0,Americas
+3/24/20,Pakistan,1063,8,21,1034,91,1,3,Eastern Mediterranean
+3/24/20,Peru,416,7,1,408,21,2,0,Americas
+3/24/20,Russia,495,1,22,472,57,0,6,Europe
+3/24/20,Saudi Arabia,767,1,28,738,205,1,12,Eastern Mediterranean
+3/24/20,South Africa,554,0,4,550,152,0,4,Africa
+3/24/20,Spain,39885,2808,3794,33283,4749,497,1219,Europe
+3/24/20,Turkey,1872,44,0,1828,343,7,0,Europe
+3/24/20,US,54112,1021,348,52743,10262,237,170,Americas
+3/24/20,United Kingdom,15126,509,140,14477,2382,149,73,Europe
+3/25/20,Argentina,387,8,52,327,0,2,0,Americas
+3/25/20,Bangladesh,39,5,7,27,0,1,2,South-East Asia
+3/25/20,Brazil,2554,59,2,2493,307,13,0,Americas
+3/25/20,Chile,1197,3,22,1172,220,1,5,Americas
+3/25/20,Colombia,470,4,8,458,92,1,2,Americas
+3/25/20,France,25600,1333,3907,20360,2978,231,657,Europe
+3/25/20,Germany,37323,206,3547,33570,4337,49,304,Europe
+3/25/20,India,657,12,43,602,121,2,3,South-East Asia
+3/25/20,Iran,27017,2077,9625,15315,2206,143,712,Eastern Mediterranean
+3/25/20,Italy,74386,7503,9362,57521,5210,683,1036,Europe
+3/25/20,Mexico,475,6,4,465,70,1,0,Americas
+3/25/20,Pakistan,1201,9,21,1171,138,1,0,Eastern Mediterranean
+3/25/20,Peru,480,9,1,470,64,2,0,Americas
+3/25/20,Russia,658,3,29,626,163,2,7,Europe
+3/25/20,Saudi Arabia,900,2,29,869,133,1,1,Eastern Mediterranean
+3/25/20,South Africa,709,0,12,697,155,0,8,Africa
+3/25/20,Spain,49515,3647,5367,40501,9630,839,1573,Europe
+3/25/20,Turkey,2433,59,26,2348,561,15,26,Europe
+3/25/20,US,66055,1333,361,64361,11943,312,13,Americas
+3/25/20,United Kingdom,17843,696,140,17007,2717,187,0,Europe
+3/26/20,Argentina,502,9,63,430,115,1,11,Americas
+3/26/20,Bangladesh,44,5,11,28,5,0,4,South-East Asia
+3/26/20,Brazil,2985,77,6,2902,431,18,4,Americas
+3/26/20,Chile,1361,4,22,1335,164,1,0,Americas
+3/26/20,Colombia,491,6,8,477,21,2,0,Americas
+3/26/20,France,29551,1698,4955,22898,3951,365,1048,Europe
+3/26/20,Germany,43938,267,5673,37998,6615,61,2126,Europe
+3/26/20,India,727,20,45,662,70,8,2,South-East Asia
+3/26/20,Iran,29406,2234,10457,16715,2389,157,832,Eastern Mediterranean
+3/26/20,Italy,80589,8215,10361,62013,6203,712,999,Europe
+3/26/20,Mexico,585,8,4,573,110,2,0,Americas
+3/26/20,Pakistan,1373,11,23,1339,172,2,2,Eastern Mediterranean
+3/26/20,Peru,580,9,14,557,100,0,13,Americas
+3/26/20,Russia,840,3,38,799,182,0,9,Europe
+3/26/20,Saudi Arabia,1012,3,33,976,112,1,4,Eastern Mediterranean
+3/26/20,South Africa,927,0,12,915,218,0,0,Africa
+3/26/20,Spain,57786,4365,7015,46406,8271,718,1648,Europe
+3/26/20,Turkey,3629,75,26,3528,1196,16,0,Europe
+3/26/20,US,84091,1746,681,81664,18036,413,320,Americas
+3/26/20,United Kingdom,20970,880,150,19940,3127,184,10,Europe
+3/27/20,Argentina,589,13,72,504,87,4,9,Americas
+3/27/20,Bangladesh,48,5,11,32,4,0,0,South-East Asia
+3/27/20,Brazil,3417,92,6,3319,432,15,0,Americas
+3/27/20,Chile,1665,5,43,1617,304,1,21,Americas
+3/27/20,Colombia,539,6,10,523,48,0,2,Americas
+3/27/20,France,33402,1997,5707,25698,3851,299,752,Europe
+3/27/20,Germany,50871,342,6658,43871,6933,75,985,Europe
+3/27/20,India,887,20,73,794,160,0,28,South-East Asia
+3/27/20,Iran,32332,2378,11133,18821,2926,144,676,Eastern Mediterranean
+3/27/20,Italy,86498,9134,10950,66414,5909,919,589,Europe
+3/27/20,Mexico,717,12,4,701,132,4,0,Americas
+3/27/20,Pakistan,1495,12,29,1454,122,1,6,Eastern Mediterranean
+3/27/20,Peru,635,11,16,608,55,2,2,Americas
+3/27/20,Russia,1036,4,45,987,196,1,7,Europe
+3/27/20,Saudi Arabia,1104,3,35,1066,92,0,2,Eastern Mediterranean
+3/27/20,South Africa,1170,1,31,1138,243,1,19,Africa
+3/27/20,Spain,65719,5138,9357,51224,7933,773,2342,Europe
+3/27/20,Turkey,5698,92,42,5564,2069,17,16,Europe
+3/27/20,US,102276,2300,869,99107,18185,554,188,Americas
+3/27/20,United Kingdom,24219,1164,151,22904,3249,284,1,Europe
+3/28/20,Argentina,690,18,72,600,101,5,0,Americas
+3/28/20,Bangladesh,48,5,15,28,0,0,4,South-East Asia
+3/28/20,Brazil,3904,111,6,3787,487,19,0,Americas
+3/28/20,Chile,2015,6,61,1948,350,1,18,Americas
+3/28/20,Colombia,608,6,10,592,69,0,0,Americas
+3/28/20,France,38105,2317,5724,30064,4703,320,17,Europe
+3/28/20,Germany,57695,433,8481,48781,6824,91,1823,Europe
+3/28/20,India,987,24,84,879,100,4,11,South-East Asia
+3/28/20,Iran,35408,2517,11679,21212,3076,139,546,Eastern Mediterranean
+3/28/20,Italy,92472,10023,12384,70065,5974,889,1434,Europe
+3/28/20,Mexico,848,16,4,828,131,4,0,Americas
+3/28/20,Pakistan,1597,14,29,1554,102,2,0,Eastern Mediterranean
+3/28/20,Peru,671,16,16,639,36,5,0,Americas
+3/28/20,Russia,1264,4,49,1211,228,0,4,Europe
+3/28/20,Saudi Arabia,1203,4,37,1162,99,1,2,Eastern Mediterranean
+3/28/20,South Africa,1187,1,31,1155,17,0,0,Africa
+3/28/20,Spain,73235,5982,12285,54968,7516,844,2928,Europe
+3/28/20,Turkey,7402,108,70,7224,1704,16,28,Europe
+3/28/20,US,122069,2934,1072,118063,19793,634,203,Americas
+3/28/20,United Kingdom,27062,1458,151,25453,2843,294,0,Europe
+3/29/20,Argentina,745,19,72,654,55,1,0,Americas
+3/29/20,Bangladesh,48,5,15,28,0,0,0,South-East Asia
+3/29/20,Brazil,4256,136,6,4114,352,25,0,Americas
+3/29/20,Chile,2245,7,75,2163,230,1,14,Americas
+3/29/20,Colombia,702,10,10,682,94,4,0,Americas
+3/29/20,France,40708,2611,7226,30871,2603,294,1502,Europe
+3/29/20,Germany,62095,533,9211,52351,4400,100,730,Europe
+3/29/20,India,1024,27,95,902,37,3,11,South-East Asia
+3/29/20,Iran,38309,2640,12391,23278,2901,123,712,Eastern Mediterranean
+3/29/20,Italy,97689,10779,13030,73880,5217,756,646,Europe
+3/29/20,Mexico,993,20,4,969,145,4,0,Americas
+3/29/20,Pakistan,1717,21,76,1620,120,7,47,Eastern Mediterranean
+3/29/20,Peru,852,18,16,818,181,2,0,Americas
+3/29/20,Russia,1534,8,64,1462,270,4,15,Europe
+3/29/20,Saudi Arabia,1299,8,66,1225,96,4,29,Eastern Mediterranean
+3/29/20,South Africa,1280,2,31,1247,93,1,0,Africa
+3/29/20,Spain,80110,6803,14709,58598,6875,821,2424,Europe
+3/29/20,Turkey,9217,131,105,8981,1815,23,35,Europe
+3/29/20,US,141205,3561,2665,134979,19136,627,1593,Americas
+3/29/20,United Kingdom,29954,1673,151,28130,2892,215,0,Europe
+3/30/20,Argentina,820,23,228,569,75,4,156,Americas
+3/30/20,Bangladesh,49,5,19,25,1,0,4,South-East Asia
+3/30/20,Brazil,4579,159,120,4300,323,23,114,Americas
+3/30/20,Chile,2555,8,156,2391,310,1,81,Americas
+3/30/20,Colombia,798,12,15,771,96,2,5,Americas
+3/30/20,France,45170,3030,7964,34176,4462,419,738,Europe
+3/30/20,Germany,66885,645,13500,52740,4790,112,4289,Europe
+3/30/20,India,1251,32,102,1117,227,5,7,South-East Asia
+3/30/20,Iran,41495,2757,13911,24827,3186,117,1520,Eastern Mediterranean
+3/30/20,Italy,101739,11591,14620,75528,4050,812,1590,Europe
+3/30/20,Mexico,1094,28,35,1031,101,8,31,Americas
+3/30/20,Pakistan,1938,26,76,1836,221,5,0,Eastern Mediterranean
+3/30/20,Peru,950,24,53,873,98,6,37,Americas
+3/30/20,Russia,1836,9,66,1761,302,1,2,Europe
+3/30/20,Saudi Arabia,1453,8,115,1330,154,0,49,Eastern Mediterranean
+3/30/20,South Africa,1326,3,31,1292,46,1,0,Africa
+3/30/20,Spain,87956,7716,16780,63460,7846,913,2071,Europe
+3/30/20,Turkey,10827,168,162,10497,1610,37,57,Europe
+3/30/20,US,162707,4381,5644,152682,21502,820,2979,Americas
+3/30/20,United Kingdom,34281,2047,171,32063,4327,374,20,Europe
+3/31/20,Argentina,1054,27,240,787,234,4,12,Americas
+3/31/20,Bangladesh,51,5,25,21,2,0,6,South-East Asia
+3/31/20,Brazil,5717,201,127,5389,1138,42,7,Americas
+3/31/20,Chile,2844,12,156,2676,289,4,0,Americas
+3/31/20,Colombia,906,16,31,859,108,4,16,Americas
+3/31/20,France,52827,3532,9513,39782,7657,502,1549,Europe
+3/31/20,Germany,71808,775,16100,54933,4923,130,2600,Europe
+3/31/20,India,1397,35,123,1239,146,3,21,South-East Asia
+3/31/20,Iran,44605,2898,14656,27051,3110,141,745,Eastern Mediterranean
+3/31/20,Italy,105792,12428,15729,77635,4053,837,1109,Europe
+3/31/20,Mexico,1215,29,35,1151,121,1,0,Americas
+3/31/20,Pakistan,2118,27,94,1997,180,1,18,Eastern Mediterranean
+3/31/20,Peru,1065,30,394,641,115,6,341,Americas
+3/31/20,Russia,2337,17,121,2199,501,8,55,Europe
+3/31/20,Saudi Arabia,1563,10,165,1388,110,2,50,Eastern Mediterranean
+3/31/20,South Africa,1353,5,31,1317,27,2,0,Africa
+3/31/20,Spain,95923,8464,19259,68200,7967,748,2479,Europe
+3/31/20,Turkey,13531,214,243,13074,2704,46,81,Europe
+3/31/20,US,188724,5605,7024,176095,26017,1224,1380,Americas
+3/31/20,United Kingdom,38815,2430,179,36206,4534,383,8,Europe
+4/1/20,Argentina,1054,28,248,778,0,1,8,Americas
+4/1/20,Bangladesh,54,6,25,23,3,1,0,South-East Asia
+4/1/20,Brazil,6836,240,127,6469,1119,39,0,Americas
+4/1/20,Chile,3137,16,234,2887,293,4,78,Americas
+4/1/20,Colombia,1065,17,39,1009,159,1,8,Americas
+4/1/20,France,57749,4414,11053,42282,4922,882,1540,Europe
+4/1/20,Germany,77872,920,18700,58252,6064,145,2600,Europe
+4/1/20,India,1998,58,148,1792,601,23,25,South-East Asia
+4/1/20,Iran,47593,3036,15473,29084,2988,138,817,Eastern Mediterranean
+4/1/20,Italy,110574,13155,16847,80572,4782,727,1118,Europe
+4/1/20,Mexico,1378,37,35,1306,163,8,0,Americas
+4/1/20,Pakistan,2421,34,125,2262,303,7,31,Eastern Mediterranean
+4/1/20,Peru,1323,38,394,891,258,8,0,Americas
+4/1/20,Russia,2777,24,190,2563,440,7,69,Europe
+4/1/20,Saudi Arabia,1720,16,264,1440,157,6,99,Eastern Mediterranean
+4/1/20,South Africa,1380,5,50,1325,27,0,19,Africa
+4/1/20,Spain,104118,9387,22647,72084,8195,923,3388,Europe
+4/1/20,Turkey,15679,277,333,15069,2148,63,90,Europe
+4/1/20,US,214205,6846,8474,198885,25481,1241,1450,Americas
+4/1/20,United Kingdom,43789,3101,179,40509,4974,671,0,Europe
+4/2/20,Argentina,1133,36,256,841,79,8,8,Americas
+4/2/20,Bangladesh,56,6,25,25,2,0,0,South-East Asia
+4/2/20,Brazil,8044,324,127,7593,1208,84,0,Americas
+4/2/20,Chile,3510,18,335,3157,373,2,101,Americas
+4/2/20,Colombia,1161,19,55,1087,96,2,16,Americas
+4/2/20,France,59929,5398,12548,41983,2180,984,1495,Europe
+4/2/20,Germany,84794,1107,22440,61247,6922,187,3740,Europe
+4/2/20,India,2543,72,191,2280,545,14,43,South-East Asia
+4/2/20,Iran,50468,3160,16711,30597,2875,124,1238,Eastern Mediterranean
+4/2/20,Italy,115242,13915,18278,83049,4668,760,1431,Europe
+4/2/20,Mexico,1510,50,35,1425,132,13,0,Americas
+4/2/20,Pakistan,2686,40,126,2520,265,6,1,Eastern Mediterranean
+4/2/20,Peru,1414,55,537,822,91,17,143,Americas
+4/2/20,Russia,3548,30,235,3283,771,6,45,Europe
+4/2/20,Saudi Arabia,1885,21,328,1536,165,5,64,Eastern Mediterranean
+4/2/20,South Africa,1462,5,50,1407,82,0,0,Africa
+4/2/20,Spain,112065,10348,26743,74974,7947,961,4096,Europe
+4/2/20,Turkey,18135,356,415,17364,2456,79,82,Europe
+4/2/20,US,244610,8432,9001,227177,30405,1586,527,Americas
+4/2/20,United Kingdom,48718,3753,192,44773,4929,652,13,Europe
+4/3/20,Argentina,1265,39,266,960,132,3,10,Americas
+4/3/20,Bangladesh,61,6,26,29,5,0,1,South-East Asia
+4/3/20,Brazil,9056,359,127,8570,1012,35,0,Americas
+4/3/20,Chile,3843,22,427,3394,333,4,92,Americas
+4/3/20,Colombia,1267,25,55,1187,106,6,0,Americas
+4/3/20,France,65202,6520,14135,44547,5273,1122,1587,Europe
+4/3/20,Germany,91159,1275,24575,65309,6365,168,2135,Europe
+4/3/20,India,2567,72,192,2303,24,0,1,South-East Asia
+4/3/20,Iran,53183,3294,17935,31954,2715,134,1224,Eastern Mediterranean
+4/3/20,Italy,119827,14681,19758,85388,4585,766,1480,Europe
+4/3/20,Mexico,1688,60,633,995,178,10,598,Americas
+4/3/20,Pakistan,2818,41,131,2646,132,1,5,Eastern Mediterranean
+4/3/20,Peru,1595,61,537,997,181,6,0,Americas
+4/3/20,Russia,4149,34,281,3834,601,4,46,Europe
+4/3/20,Saudi Arabia,2039,25,351,1663,154,4,23,Eastern Mediterranean
+4/3/20,South Africa,1505,9,95,1401,43,4,45,Africa
+4/3/20,Spain,119199,11198,30513,77488,7134,850,3770,Europe
+4/3/20,Turkey,20921,425,484,20012,2786,69,69,Europe
+4/3/20,US,276547,9747,9707,257093,31937,1315,706,Americas
+4/3/20,United Kingdom,53699,4468,208,49023,4981,715,16,Europe
+4/4/20,Argentina,1451,43,279,1129,186,4,13,Americas
+4/4/20,Bangladesh,70,8,30,32,9,2,4,South-East Asia
+4/4/20,Brazil,10360,445,127,9788,1304,86,0,Americas
+4/4/20,Chile,4355,27,528,3800,512,5,101,Americas
+4/4/20,Colombia,1406,32,85,1289,139,7,30,Americas
+4/4/20,France,69500,7574,15572,46354,4298,1054,1437,Europe
+4/4/20,Germany,96092,1444,26400,68248,4933,169,1825,Europe
+4/4/20,India,3082,86,229,2767,515,14,37,South-East Asia
+4/4/20,Iran,55743,3452,19736,32555,2560,158,1801,Eastern Mediterranean
+4/4/20,Italy,124632,15362,20996,88274,4805,681,1238,Europe
+4/4/20,Mexico,1890,79,633,1178,202,19,0,Americas
+4/4/20,Pakistan,3157,47,211,2899,339,6,80,Eastern Mediterranean
+4/4/20,Peru,1746,73,914,759,151,12,377,Americas
+4/4/20,Russia,4731,43,333,4355,582,9,52,Europe
+4/4/20,Saudi Arabia,2179,29,420,1730,140,4,69,Eastern Mediterranean
+4/4/20,South Africa,1585,9,95,1481,80,0,0,Africa
+4/4/20,Spain,126168,11947,34219,80002,6969,749,3706,Europe
+4/4/20,Turkey,23934,501,786,22647,3013,76,302,Europe
+4/4/20,US,309699,11031,14652,284016,33152,1284,4945,Americas
+4/4/20,United Kingdom,57772,5229,215,52328,4073,761,7,Europe
+4/5/20,Argentina,1451,44,280,1127,0,1,1,Americas
+4/5/20,Bangladesh,88,9,33,46,18,1,3,South-East Asia
+4/5/20,Brazil,11130,486,127,10517,770,41,0,Americas
+4/5/20,Chile,4665,34,618,4013,310,7,90,Americas
+4/5/20,Colombia,1485,35,88,1362,79,3,3,Americas
+4/5/20,France,71412,8093,16349,46970,1912,519,777,Europe
+4/5/20,Germany,100123,1584,28700,69839,4031,140,2300,Europe
+4/5/20,India,3588,99,229,3260,506,13,0,South-East Asia
+4/5/20,Iran,58226,3603,19736,34887,2483,151,0,Eastern Mediterranean
+4/5/20,Italy,128948,15887,21815,91246,4316,525,819,Europe
+4/5/20,Mexico,2143,94,633,1416,253,15,0,Americas
+4/5/20,Pakistan,3766,53,259,3454,609,6,48,Eastern Mediterranean
+4/5/20,Peru,2281,83,989,1209,535,10,75,Americas
+4/5/20,Russia,5389,45,355,4989,658,2,22,Europe
+4/5/20,Saudi Arabia,2402,34,488,1880,223,5,68,Eastern Mediterranean
+4/5/20,South Africa,1655,11,95,1549,70,2,0,Africa
+4/5/20,Spain,131646,12641,38080,80925,5478,694,3861,Europe
+4/5/20,Turkey,27069,574,1042,25453,3135,73,256,Europe
+4/5/20,US,337573,12470,17448,307655,27874,1439,2796,Americas
+4/5/20,United Kingdom,61422,5875,229,55318,3650,646,14,Europe
+4/6/20,Argentina,1554,48,325,1181,103,4,45,Americas
+4/6/20,Bangladesh,123,12,33,78,35,3,0,South-East Asia
+4/6/20,Brazil,12161,564,127,11470,1031,78,0,Americas
+4/6/20,Chile,5009,37,728,4244,344,3,110,Americas
+4/6/20,Colombia,1579,46,88,1445,94,11,0,Americas
+4/6/20,France,75343,8926,17428,48989,3931,833,1079,Europe
+4/6/20,Germany,103374,1810,28700,72864,3251,226,0,Europe
+4/6/20,India,4778,136,375,4267,1190,37,146,South-East Asia
+4/6/20,Iran,60500,3739,24236,32525,2274,136,4500,Eastern Mediterranean
+4/6/20,Italy,132547,16523,22837,93187,3599,636,1022,Europe
+4/6/20,Mexico,2439,125,633,1681,296,31,0,Americas
+4/6/20,Pakistan,4035,57,429,3549,269,4,170,Eastern Mediterranean
+4/6/20,Peru,2561,92,997,1472,280,9,8,Americas
+4/6/20,Russia,6343,47,406,5890,954,2,51,Europe
+4/6/20,Saudi Arabia,2605,38,551,2016,203,4,63,Eastern Mediterranean
+4/6/20,South Africa,1686,12,95,1579,31,1,0,Africa
+4/6/20,Spain,136675,13341,40437,82897,5029,700,2357,Europe
+4/6/20,Turkey,30217,649,1326,28242,3148,75,284,Europe
+4/6/20,US,367215,14138,19581,333496,29642,1668,2133,Americas
+4/6/20,United Kingdom,66738,6446,287,60005,5316,571,58,Europe
+4/7/20,Argentina,1628,56,338,1234,74,8,13,Americas
+4/7/20,Bangladesh,164,17,33,114,41,5,0,South-East Asia
+4/7/20,Brazil,14034,686,127,13221,1873,122,0,Americas
+4/7/20,Chile,5310,43,898,4369,301,6,170,Americas
+4/7/20,Colombia,1780,50,100,1630,201,4,12,Americas
+4/7/20,France,79163,10343,19523,49297,3820,1417,2095,Europe
+4/7/20,Germany,107663,2016,36081,69566,4289,206,7381,Europe
+4/7/20,India,5311,150,421,4740,533,14,46,South-East Asia
+4/7/20,Iran,62589,3872,27039,31678,2089,133,2803,Eastern Mediterranean
+4/7/20,Italy,135586,17127,24392,94067,3039,604,1555,Europe
+4/7/20,Mexico,2785,141,633,2011,346,16,0,Americas
+4/7/20,Pakistan,4263,61,467,3735,228,4,38,Eastern Mediterranean
+4/7/20,Peru,2954,107,1301,1546,393,15,304,Americas
+4/7/20,Russia,7497,58,494,6945,1154,11,88,Europe
+4/7/20,Saudi Arabia,2795,41,615,2139,190,3,64,Eastern Mediterranean
+4/7/20,South Africa,1749,13,95,1641,63,1,0,Africa
+4/7/20,Spain,141942,14045,43208,84689,5267,704,2771,Europe
+4/7/20,Turkey,34109,725,1582,31802,3892,76,256,Europe
+4/7/20,US,397992,16447,21763,359782,30777,2309,2182,Americas
+4/7/20,United Kingdom,72224,7484,325,64415,5486,1038,38,Europe
+4/8/20,Argentina,1715,63,358,1294,87,7,20,Americas
+4/8/20,Bangladesh,218,20,33,165,54,3,0,South-East Asia
+4/8/20,Brazil,16170,819,127,15224,2136,133,0,Americas
+4/8/20,Chile,5740,48,1115,4577,430,5,217,Americas
+4/8/20,Colombia,2054,54,123,1877,274,4,23,Americas
+4/8/20,France,83057,10887,21452,50718,3894,544,1929,Europe
+4/8/20,Germany,113296,2349,46300,64647,5633,333,10219,Europe
+4/8/20,India,5916,178,506,5232,605,28,85,South-East Asia
+4/8/20,Iran,64586,3993,29812,30781,1997,121,2773,Eastern Mediterranean
+4/8/20,Italy,139422,17669,26491,95262,3836,542,2099,Europe
+4/8/20,Mexico,3181,174,633,2374,396,33,0,Americas
+4/8/20,Pakistan,4489,65,572,3852,226,4,105,Eastern Mediterranean
+4/8/20,Peru,4342,121,1333,2888,1388,14,32,Americas
+4/8/20,Russia,8672,63,580,8029,1175,5,86,Europe
+4/8/20,Saudi Arabia,2932,41,631,2260,137,0,16,Eastern Mediterranean
+4/8/20,South Africa,1845,18,95,1732,96,5,0,Africa
+4/8/20,Spain,148220,14792,48021,85407,6278,747,4813,Europe
+4/8/20,Turkey,38226,812,1846,35568,4117,87,264,Europe
+4/8/20,US,429686,18563,23559,387564,31694,2116,1796,Americas
+4/8/20,United Kingdom,77387,8520,345,68522,5163,1036,20,Europe
+4/9/20,Argentina,1795,72,365,1358,80,9,7,Americas
+4/9/20,Bangladesh,330,21,33,276,112,1,0,South-East Asia
+4/9/20,Brazil,18092,950,173,16969,1922,131,46,Americas
+4/9/20,Chile,6166,57,1274,4835,426,9,159,Americas
+4/9/20,Colombia,2223,69,174,1980,169,15,51,Americas
+4/9/20,France,87366,12228,23413,51725,4309,1341,1961,Europe
+4/9/20,Germany,118181,2607,52407,63167,4885,258,6107,Europe
+4/9/20,India,6725,226,620,5879,809,48,114,South-East Asia
+4/9/20,Iran,66220,4110,32309,29801,1634,117,2497,Eastern Mediterranean
+4/9/20,Italy,143626,18279,28470,96877,4204,610,1979,Europe
+4/9/20,Mexico,3441,194,633,2614,260,20,0,Americas
+4/9/20,Pakistan,4695,66,727,3902,206,1,155,Eastern Mediterranean
+4/9/20,Peru,5256,138,1438,3680,914,17,105,Americas
+4/9/20,Russia,10131,76,698,9357,1459,13,118,Europe
+4/9/20,Saudi Arabia,3287,44,666,2577,355,3,35,Eastern Mediterranean
+4/9/20,South Africa,1934,18,95,1821,89,0,0,Africa
+4/9/20,Spain,153222,15447,52165,85610,5002,655,4144,Europe
+4/9/20,Turkey,42282,908,2142,39232,4056,96,296,Europe
+4/9/20,US,464442,20638,25410,418394,34756,2075,1851,Americas
+4/9/20,United Kingdom,82293,9631,359,72303,4906,1111,14,Europe
+4/10/20,Argentina,1975,82,375,1518,180,10,10,Americas
+4/10/20,Bangladesh,424,27,33,364,94,6,0,South-East Asia
+4/10/20,Brazil,19638,1057,173,18408,1546,107,0,Americas
+4/10/20,Chile,6695,65,1571,5059,529,8,297,Americas
+4/10/20,Colombia,2473,80,197,2196,250,11,23,Americas
+4/10/20,France,91738,13215,25195,53328,4372,987,1782,Europe
+4/10/20,Germany,122171,2767,53913,65491,3990,160,1506,Europe
+4/10/20,India,7598,246,774,6578,873,20,154,South-East Asia
+4/10/20,Iran,68192,4232,35465,28495,1972,122,3156,Eastern Mediterranean
+4/10/20,Italy,147577,18849,30455,98273,3951,570,1985,Europe
+4/10/20,Mexico,3844,233,633,2978,403,39,0,Americas
+4/10/20,Pakistan,5011,86,762,4163,316,20,35,Eastern Mediterranean
+4/10/20,Peru,5897,169,1569,4159,641,31,131,Americas
+4/10/20,Russia,11917,94,795,11028,1786,18,97,Europe
+4/10/20,Saudi Arabia,3651,47,685,2919,364,3,19,Eastern Mediterranean
+4/10/20,South Africa,2003,24,410,1569,69,6,315,Africa
+4/10/20,Spain,158273,16081,55668,86524,5051,634,3503,Europe
+4/10/20,Turkey,47029,1006,2423,43600,4747,98,281,Europe
+4/10/20,US,497943,22731,28790,446422,33501,2093,3380,Americas
+4/10/20,United Kingdom,86660,10784,588,75288,4367,1153,229,Europe
+4/11/20,Argentina,1975,83,440,1452,0,1,65,Americas
+4/11/20,Bangladesh,482,30,36,416,58,3,3,South-East Asia
+4/11/20,Brazil,20727,1124,173,19430,1089,67,0,Americas
+4/11/20,Chile,7366,73,1864,5429,671,8,293,Americas
+4/11/20,Colombia,2709,100,214,2395,236,20,17,Americas
+4/11/20,France,94863,13851,26663,54349,3125,636,1468,Europe
+4/11/20,Germany,124908,2736,57400,64772,2737,-31,3487,Europe
+4/11/20,India,8446,288,969,7189,848,42,195,South-East Asia
+4/11/20,Iran,70029,4357,41947,23725,1837,125,6482,Eastern Mediterranean
+4/11/20,Italy,152271,19468,32534,100269,4694,619,2079,Europe
+4/11/20,Mexico,4219,273,633,3313,375,40,0,Americas
+4/11/20,Pakistan,5230,91,1028,4111,219,5,266,Eastern Mediterranean
+4/11/20,Peru,6848,181,1739,4928,951,12,170,Americas
+4/11/20,Russia,13584,106,1045,12433,1667,12,250,Europe
+4/11/20,Saudi Arabia,4033,52,720,3261,382,5,35,Eastern Mediterranean
+4/11/20,South Africa,2028,25,410,1593,25,1,0,Africa
+4/11/20,Spain,163027,16606,59109,87312,4754,525,3441,Europe
+4/11/20,Turkey,52167,1101,2965,48101,5138,95,542,Europe
+4/11/20,US,527969,24777,31270,471922,30026,2046,2480,Americas
+4/11/20,United Kingdom,90273,11625,622,78026,3613,841,34,Europe
+4/12/20,Argentina,2142,90,468,1584,167,7,28,Americas
+4/12/20,Bangladesh,621,34,39,548,139,4,3,South-East Asia
+4/12/20,Brazil,22192,1223,173,20796,1465,99,0,Americas
+4/12/20,Chile,7652,80,2059,5513,286,7,195,Americas
+4/12/20,Colombia,2776,109,270,2397,67,9,56,Americas
+4/12/20,France,121712,14412,27469,79831,26849,561,806,Europe
+4/12/20,Germany,127854,3022,60300,64532,2946,286,2900,Europe
+4/12/20,India,9205,331,1080,7794,759,43,111,South-East Asia
+4/12/20,Iran,71686,4474,43894,23318,1657,117,1947,Eastern Mediterranean
+4/12/20,Italy,156363,19899,34211,102253,4092,431,1677,Europe
+4/12/20,Mexico,4661,296,1772,2593,442,23,1139,Americas
+4/12/20,Pakistan,5496,93,1095,4308,266,2,67,Eastern Mediterranean
+4/12/20,Peru,7519,193,1798,5528,671,12,59,Americas
+4/12/20,Russia,15770,130,1291,14349,2186,24,246,Europe
+4/12/20,Saudi Arabia,4462,59,761,3642,429,7,41,Eastern Mediterranean
+4/12/20,South Africa,2173,25,410,1738,145,0,0,Africa
+4/12/20,Spain,166831,17209,62391,87231,3804,603,3282,Europe
+4/12/20,Turkey,56956,1198,3446,52312,4789,97,481,Europe
+4/12/20,US,556522,26548,32988,496986,28553,1771,1718,Americas
+4/12/20,United Kingdom,93812,12311,626,80875,3539,686,4,Europe
+4/13/20,Argentina,2208,97,515,1596,66,7,47,Americas
+4/13/20,Bangladesh,803,39,42,722,182,5,3,South-East Asia
+4/13/20,Brazil,23430,1328,173,21929,1238,105,0,Americas
+4/13/20,Chile,7964,82,2367,5515,312,2,308,Americas
+4/13/20,Colombia,2852,112,319,2421,76,3,49,Americas
+4/13/20,France,125394,14986,28001,82407,3682,574,532,Europe
+4/13/20,Germany,130072,3194,64300,62578,2218,172,4000,Europe
+4/13/20,India,10453,358,1181,8914,1248,27,101,South-East Asia
+4/13/20,Iran,73303,4585,45983,22735,1617,111,2089,Eastern Mediterranean
+4/13/20,Italy,159516,20465,35435,103616,3153,566,1224,Europe
+4/13/20,Mexico,5014,332,1843,2839,353,36,71,Americas
+4/13/20,Pakistan,5837,96,1378,4363,341,3,283,Eastern Mediterranean
+4/13/20,Peru,9784,216,2642,6926,2265,23,844,Americas
+4/13/20,Russia,18328,148,1470,16710,2558,18,179,Europe
+4/13/20,Saudi Arabia,4934,65,805,4064,472,6,44,Eastern Mediterranean
+4/13/20,South Africa,2272,27,410,1835,99,2,0,Africa
+4/13/20,Spain,170099,17756,64727,87616,3268,547,2336,Europe
+4/13/20,Turkey,61049,1296,3957,55796,4093,98,511,Europe
+4/13/20,US,581813,28376,43482,509955,25291,1828,10494,Americas
+4/13/20,United Kingdom,98017,13056,304,84657,4205,745,-322,Europe
+4/14/20,Argentina,2277,102,559,1616,69,5,44,Americas
+4/14/20,Bangladesh,1012,46,42,924,209,7,0,South-East Asia
+4/14/20,Brazil,25262,1532,3046,20684,1832,204,2873,Americas
+4/14/20,Chile,8356,92,2646,5618,392,10,279,Americas
+4/14/20,Colombia,2979,127,354,2498,127,15,35,Americas
+4/14/20,France,130365,15731,28805,85829,4971,745,804,Europe
+4/14/20,Germany,131359,3294,68200,59865,1287,100,3900,Europe
+4/14/20,India,11487,393,1359,9735,1034,35,178,South-East Asia
+4/14/20,Iran,74877,4683,48129,22065,1574,98,2146,Eastern Mediterranean
+4/14/20,Italy,162488,21067,37130,104291,2972,602,1695,Europe
+4/14/20,Mexico,5399,406,1964,3029,385,74,121,Americas
+4/14/20,Pakistan,6383,111,1446,4826,546,15,68,Eastern Mediterranean
+4/14/20,Peru,10303,230,2869,7204,519,14,227,Americas
+4/14/20,Russia,21102,170,1694,19238,2774,22,224,Europe
+4/14/20,Saudi Arabia,5369,73,889,4407,435,8,84,Eastern Mediterranean
+4/14/20,South Africa,2415,27,410,1978,143,0,0,Africa
+4/14/20,Spain,172541,18056,67504,86981,2442,300,2777,Europe
+4/14/20,Turkey,65111,1403,4799,58909,4062,107,842,Europe
+4/14/20,US,608878,30780,47763,530335,27065,2404,4281,Americas
+4/14/20,United Kingdom,102365,14107,323,87935,4348,1051,19,Europe
+4/15/20,Argentina,2443,111,596,1736,166,9,37,Americas
+4/15/20,Bangladesh,1231,50,49,1132,219,4,7,South-East Asia
+4/15/20,Brazil,28320,1736,14026,12558,3058,204,10980,Americas
+4/15/20,Chile,8712,94,2937,5681,356,2,291,Americas
+4/15/20,Colombia,3105,131,452,2522,126,4,98,Americas
+4/15/20,France,133585,17169,30955,85461,3220,1438,2150,Europe
+4/15/20,Germany,134753,3804,72600,58349,3394,510,4400,Europe
+4/15/20,India,12322,405,1432,10485,835,12,73,South-East Asia
+4/15/20,Iran,76389,4777,49933,21679,1512,94,1804,Eastern Mediterranean
+4/15/20,Italy,165155,21645,38092,105418,2667,578,962,Europe
+4/15/20,Mexico,5847,449,2125,3273,448,43,161,Americas
+4/15/20,Pakistan,6919,128,1645,5146,536,17,199,Eastern Mediterranean
+4/15/20,Peru,11475,254,3108,8113,1172,24,239,Americas
+4/15/20,Russia,24490,198,1986,22306,3388,28,292,Europe
+4/15/20,Saudi Arabia,5862,79,931,4852,493,6,42,Eastern Mediterranean
+4/15/20,South Africa,2506,34,410,2062,91,7,0,Africa
+4/15/20,Spain,177644,18708,70853,88083,5103,652,3349,Europe
+4/15/20,Turkey,69392,1518,5674,62200,4281,115,875,Europe
+4/15/20,US,637974,33329,52096,552549,29096,2549,4333,Americas
+4/15/20,United Kingdom,107465,14953,368,92144,5100,846,45,Europe
+4/16/20,Argentina,2571,115,631,1825,128,4,35,Americas
+4/16/20,Bangladesh,1572,60,49,1463,341,10,0,South-East Asia
+4/16/20,Brazil,30425,1924,14026,14475,2105,188,0,Americas
+4/16/20,Chile,9246,105,3299,5842,534,11,362,Americas
+4/16/20,Colombia,3233,144,550,2539,128,13,98,Americas
+4/16/20,France,146075,17922,32812,95341,12490,753,1857,Europe
+4/16/20,Germany,137698,4052,77000,56646,2945,248,4400,Europe
+4/16/20,India,13430,448,1768,11214,1108,43,336,South-East Asia
+4/16/20,Iran,77995,4869,52229,20897,1606,92,2296,Eastern Mediterranean
+4/16/20,Italy,168941,22170,40164,106607,3786,525,2072,Europe
+4/16/20,Mexico,6297,486,2125,3686,450,37,0,Americas
+4/16/20,Pakistan,7025,135,1765,5125,106,7,120,Eastern Mediterranean
+4/16/20,Peru,12491,274,6120,6097,1016,20,3012,Americas
+4/16/20,Russia,27938,232,2304,25402,3448,34,318,Europe
+4/16/20,Saudi Arabia,6380,83,990,5307,518,4,59,Eastern Mediterranean
+4/16/20,South Africa,2605,48,903,1654,99,14,493,Africa
+4/16/20,Spain,184948,19315,74797,90836,7304,607,3944,Europe
+4/16/20,Turkey,74193,1643,7089,65461,4801,125,1415,Europe
+4/16/20,US,669272,35442,54703,579127,31298,2113,2607,Americas
+4/16/20,United Kingdom,112808,15986,375,96447,5343,1033,7,Europe
+4/17/20,Argentina,2669,123,666,1880,98,8,35,Americas
+4/17/20,Bangladesh,1838,75,58,1705,266,15,9,South-East Asia
+4/17/20,Brazil,33682,2141,14026,17515,3257,217,0,Americas
+4/17/20,Chile,9691,116,3621,5954,445,11,322,Americas
+4/17/20,Colombia,3439,153,634,2652,206,9,84,Americas
+4/17/20,France,148084,18683,34420,94981,2009,761,1608,Europe
+4/17/20,Germany,141397,4352,83114,53931,3699,300,6114,Europe
+4/17/20,India,14352,486,2041,11825,922,38,273,South-East Asia
+4/17/20,Iran,79494,4958,54064,20472,1499,89,1835,Eastern Mediterranean
+4/17/20,Italy,172434,22745,42727,106962,3493,575,2563,Europe
+4/17/20,Mexico,6875,546,2125,4204,578,60,0,Americas
+4/17/20,Pakistan,7638,143,1832,5663,613,8,67,Eastern Mediterranean
+4/17/20,Peru,13489,300,6541,6648,998,26,421,Americas
+4/17/20,Russia,32008,273,2590,29145,4070,41,286,Europe
+4/17/20,Saudi Arabia,7142,87,1049,6006,762,4,59,Eastern Mediterranean
+4/17/20,South Africa,2783,50,903,1830,178,2,0,Africa
+4/17/20,Spain,190839,20002,74797,96040,5891,687,0,Europe
+4/17/20,Turkey,78546,1769,8631,68146,4353,126,1542,Europe
+4/17/20,US,701996,38056,58545,605395,32724,2614,3842,Americas
+4/17/20,United Kingdom,117798,16923,394,100481,4990,937,19,Europe
+4/18/20,Argentina,2758,129,685,1944,89,6,19,Americas
+4/18/20,Bangladesh,2144,84,66,1994,306,9,8,South-East Asia
+4/18/20,Brazil,36658,2354,14026,20278,2976,213,0,Americas
+4/18/20,Chile,10598,126,4035,6437,907,10,414,Americas
+4/18/20,Colombia,3621,166,634,2821,182,13,0,Americas
+4/18/20,France,148086,19325,35983,92778,2,642,1563,Europe
+4/18/20,Germany,143342,4459,85400,53483,1945,107,2286,Europe
+4/18/20,India,15722,521,2463,12738,1370,35,422,South-East Asia
+4/18/20,Iran,80868,5031,55987,19850,1374,73,1923,Eastern Mediterranean
+4/18/20,Italy,175925,23227,44927,107771,3491,482,2200,Europe
+4/18/20,Mexico,7497,650,2125,4722,622,104,0,Americas
+4/18/20,Pakistan,8348,168,1868,6312,710,25,36,Eastern Mediterranean
+4/18/20,Peru,14420,348,6684,7388,931,48,143,Americas
+4/18/20,Russia,36793,313,3057,33423,4785,40,467,Europe
+4/18/20,Saudi Arabia,8274,92,1329,6853,1132,5,280,Eastern Mediterranean
+4/18/20,South Africa,3034,52,903,2079,251,2,0,Africa
+4/18/20,Spain,191726,20043,74797,96886,887,41,0,Europe
+4/18/20,Turkey,82329,1890,10453,69986,3783,121,1822,Europe
+4/18/20,US,730337,40442,64840,625055,28341,2386,6295,Americas
+4/18/20,United Kingdom,122534,18041,414,104079,4736,1118,20,Europe
+4/19/20,Argentina,2839,132,709,1998,81,3,24,Americas
+4/19/20,Bangladesh,2456,91,75,2290,312,7,9,South-East Asia
+4/19/20,Brazil,38654,2462,22130,14062,1996,108,8104,Americas
+4/19/20,Chile,10956,133,4338,6485,358,7,303,Americas
+4/19/20,Colombia,3792,179,711,2902,171,13,77,Americas
+4/19/20,France,153011,19720,36578,96713,4925,395,595,Europe
+4/19/20,Germany,145184,4586,88000,52598,1842,127,2600,Europe
+4/19/20,India,17615,559,2854,14202,1893,38,391,South-East Asia
+4/19/20,Iran,82211,5118,57023,20070,1343,87,1036,Eastern Mediterranean
+4/19/20,Italy,178972,23660,47055,108257,3047,433,2128,Europe
+4/19/20,Mexico,8261,686,2627,4948,764,36,502,Americas
+4/19/20,Pakistan,8418,176,1970,6272,70,8,102,Eastern Mediterranean
+4/19/20,Peru,15628,400,6811,8417,1208,52,127,Americas
+4/19/20,Russia,42853,361,3291,39201,6060,48,234,Europe
+4/19/20,Saudi Arabia,9362,97,1398,7867,1088,5,69,Eastern Mediterranean
+4/19/20,South Africa,3158,54,903,2201,124,2,0,Africa
+4/19/20,Spain,198674,20453,77357,100864,6948,410,2560,Europe
+4/19/20,Turkey,86306,2017,11976,72313,3977,127,1523,Europe
+4/19/20,US,756375,41671,70337,644367,26038,1229,5497,Americas
+4/19/20,United Kingdom,126394,18540,436,107418,3860,499,22,Europe
+4/20/20,Argentina,2941,136,737,2068,102,4,28,Americas
+4/20/20,Bangladesh,2948,101,85,2762,492,10,10,South-East Asia
+4/20/20,Brazil,40743,2587,22130,16026,2089,125,0,Americas
+4/20/20,Chile,11375,139,4676,6560,419,6,338,Americas
+4/20/20,Colombia,3977,189,804,2984,185,10,93,Americas
+4/20/20,France,155393,20267,37409,97717,2382,547,831,Europe
+4/20/20,Germany,147065,4862,91500,50703,1881,276,3500,Europe
+4/20/20,India,18539,592,3273,14674,924,33,419,South-East Asia
+4/20/20,Iran,83505,5209,59273,19023,1294,91,2250,Eastern Mediterranean
+4/20/20,Italy,181228,24114,48877,108237,2256,454,1822,Europe
+4/20/20,Mexico,8772,712,2627,5433,511,26,0,Americas
+4/20/20,Pakistan,9565,201,2073,7291,1147,25,103,Eastern Mediterranean
+4/20/20,Peru,16325,445,6968,8912,697,45,157,Americas
+4/20/20,Russia,47121,405,3446,43270,4268,44,155,Europe
+4/20/20,Saudi Arabia,10484,103,1490,8891,1122,6,92,Eastern Mediterranean
+4/20/20,South Africa,3300,58,1055,2187,142,4,152,Africa
+4/20/20,Spain,200210,20852,80587,98771,1536,399,3230,Europe
+4/20/20,Turkey,90980,2140,13430,75410,4674,123,1454,Europe
+4/20/20,US,783716,43466,72329,667921,27341,1795,1992,Americas
+4/20/20,United Kingdom,131260,19105,446,111709,4866,565,10,Europe
+4/21/20,Argentina,3031,147,840,2044,90,11,103,Americas
+4/21/20,Bangladesh,3382,110,87,3185,434,9,2,South-East Asia
+4/21/20,Brazil,43079,2741,22991,17347,2336,154,861,Americas
+4/21/20,Chile,11700,147,4969,6584,325,8,293,Americas
+4/21/20,Colombia,4149,196,804,3149,172,7,0,Americas
+4/21/20,France,158168,20798,39181,98189,2775,531,1772,Europe
+4/21/20,Germany,148291,5033,95200,48058,1226,171,3700,Europe
+4/21/20,India,20080,645,3975,15460,1541,53,702,South-East Asia
+4/21/20,Iran,84802,5297,60965,18540,1297,88,1692,Eastern Mediterranean
+4/21/20,Italy,183957,24648,51600,107709,2729,534,2723,Europe
+4/21/20,Mexico,9501,857,2627,6017,729,145,0,Americas
+4/21/20,Pakistan,10076,212,2156,7708,511,11,83,Eastern Mediterranean
+4/21/20,Peru,17837,484,6982,10371,1512,39,14,Americas
+4/21/20,Russia,52763,456,3873,48434,5642,51,427,Europe
+4/21/20,Saudi Arabia,11631,109,1640,9882,1147,6,150,Eastern Mediterranean
+4/21/20,South Africa,3465,58,1055,2352,165,0,0,Africa
+4/21/20,Spain,204178,21282,82514,100382,3968,430,1927,Europe
+4/21/20,Turkey,95591,2259,14918,78414,4611,119,1488,Europe
+4/21/20,US,809318,45923,75204,688191,25602,2457,2875,Americas
+4/21/20,United Kingdom,136035,20278,638,115119,4775,1173,192,Europe
+4/22/20,Argentina,3144,152,872,2120,113,5,32,Americas
+4/22/20,Bangladesh,3772,120,92,3560,390,10,5,South-East Asia
+4/22/20,Brazil,45757,2906,25318,17533,2678,165,2327,Americas
+4/22/20,Chile,12164,160,5386,6618,464,13,417,Americas
+4/22/20,Colombia,4356,206,870,3280,207,10,66,Americas
+4/22/20,France,155980,21342,40657,93981,0,544,1476,Europe
+4/22/20,Germany,150648,5279,99400,45969,2357,246,4200,Europe
+4/22/20,India,21370,681,4370,16319,1290,36,395,South-East Asia
+4/22/20,Iran,85996,5391,63113,17492,1194,94,2148,Eastern Mediterranean
+4/22/20,Italy,187327,25085,54543,107699,3370,437,2943,Europe
+4/22/20,Mexico,10544,970,2627,6947,1043,113,0,Americas
+4/22/20,Pakistan,11155,237,2527,8391,1079,25,371,Eastern Mediterranean
+4/22/20,Peru,19250,530,7027,11693,1413,46,45,Americas
+4/22/20,Russia,57999,513,4420,53066,5236,57,547,Europe
+4/22/20,Saudi Arabia,12772,114,1812,10846,1141,5,172,Eastern Mediterranean
+4/22/20,South Africa,3635,65,1055,2515,170,7,0,Africa
+4/22/20,Spain,208389,21717,85915,100757,4211,435,3401,Europe
+4/22/20,Turkey,98674,2376,16477,79821,3083,117,1559,Europe
+4/22/20,US,837422,48312,77366,711744,28104,2389,2162,Americas
+4/22/20,United Kingdom,141540,21125,683,119732,5505,847,45,Europe
+4/23/20,Argentina,3435,165,919,2351,291,13,47,Americas
+4/23/20,Bangladesh,4186,127,108,3951,414,7,16,South-East Asia
+4/23/20,Brazil,50036,3331,26573,20132,4279,425,1255,Americas
+4/23/20,Chile,12680,168,5804,6708,516,8,418,Americas
+4/23/20,Colombia,4561,215,927,3419,205,9,57,Americas
+4/23/20,France,158303,21858,42088,94357,2323,516,1431,Europe
+4/23/20,Germany,153129,5575,103300,44254,2481,296,3900,Europe
+4/23/20,India,23077,721,5012,17344,1707,40,642,South-East Asia
+4/23/20,Iran,87026,5481,64843,16702,1030,90,1730,Eastern Mediterranean
+4/23/20,Italy,189973,25549,57576,106848,2646,464,3033,Europe
+4/23/20,Mexico,11633,1069,2627,7937,1089,99,0,Americas
+4/23/20,Pakistan,11940,253,2755,8932,785,16,228,Eastern Mediterranean
+4/23/20,Peru,20914,572,7422,12920,1664,42,395,Americas
+4/23/20,Russia,62773,555,4891,57327,4774,42,471,Europe
+4/23/20,Saudi Arabia,13930,121,1925,11884,1158,7,113,Eastern Mediterranean
+4/23/20,South Africa,3953,75,1473,2405,318,10,418,Africa
+4/23/20,Spain,213024,22157,89250,101617,4635,440,3335,Europe
+4/23/20,Turkey,101790,2491,18491,80808,3116,115,2014,Europe
+4/23/20,US,871617,50749,80203,740665,34195,2437,2837,Americas
+4/23/20,United Kingdom,146708,21854,712,124142,5168,729,29,Europe
+4/24/20,Argentina,3607,176,976,2455,172,11,57,Americas
+4/24/20,Bangladesh,4689,131,112,4446,503,4,4,South-East Asia
+4/24/20,Brazil,54043,3704,27655,22684,4007,373,1082,Americas
+4/24/20,Chile,13174,174,6327,6673,494,6,523,Americas
+4/24/20,Colombia,4881,225,1003,3653,320,10,76,Americas
+4/24/20,France,159952,22248,43493,94211,1649,390,1405,Europe
+4/24/20,Germany,154999,5760,109800,39439,1870,185,6500,Europe
+4/24/20,India,24530,780,5498,18252,1453,59,486,South-East Asia
+4/24/20,Iran,88194,5574,66599,16021,1168,93,1756,Eastern Mediterranean
+4/24/20,Italy,192994,25969,60498,106527,3021,420,2922,Europe
+4/24/20,Mexico,12872,1221,2627,9024,1239,152,0,Americas
+4/24/20,Pakistan,12723,269,2866,9588,783,16,111,Eastern Mediterranean
+4/24/20,Peru,21648,634,7496,13518,734,62,74,Americas
+4/24/20,Russia,68622,615,5568,62439,5849,60,677,Europe
+4/24/20,Saudi Arabia,15102,127,2049,12926,1172,6,124,Eastern Mediterranean
+4/24/20,South Africa,4220,79,1473,2668,267,4,0,Africa
+4/24/20,Spain,202990,22524,92355,88111,0,367,3105,Europe
+4/24/20,Turkey,104912,2600,21737,80575,3122,109,3246,Europe
+4/24/20,US,907908,52867,99079,755962,36291,2118,18876,Americas
+4/24/20,United Kingdom,151689,22868,724,128097,4981,1014,12,Europe
+4/25/20,Argentina,3780,185,1030,2565,173,9,54,Americas
+4/25/20,Bangladesh,4998,140,113,4745,309,9,1,South-East Asia
+4/25/20,Brazil,59324,4057,29160,26107,5281,353,1505,Americas
+4/25/20,Chile,14537,181,6746,7610,1363,7,419,Americas
+4/25/20,Colombia,5142,233,1067,3842,261,8,64,Americas
+4/25/20,France,161644,22617,44594,94433,1692,369,1101,Europe
+4/25/20,Germany,156513,5877,109800,40836,1514,117,0,Europe
+4/25/20,India,26283,825,5939,19519,1753,45,441,South-East Asia
+4/25/20,Iran,89328,5650,68193,15485,1134,76,1594,Eastern Mediterranean
+4/25/20,Italy,195351,26384,63120,105847,2357,415,2622,Europe
+4/25/20,Mexico,13842,1305,7149,5388,970,84,4522,Americas
+4/25/20,Pakistan,13328,281,2936,10111,605,12,70,Eastern Mediterranean
+4/25/20,Peru,25331,700,7797,16834,3683,66,301,Americas
+4/25/20,Russia,74588,681,6250,67657,5966,66,682,Europe
+4/25/20,Saudi Arabia,16299,136,2215,13948,1197,9,166,Eastern Mediterranean
+4/25/20,South Africa,4361,86,1473,2802,141,7,0,Africa
+4/25/20,Spain,205905,22902,95708,87295,2915,378,3353,Europe
+4/25/20,Turkey,107773,2706,25582,79485,2861,106,3845,Europe
+4/25/20,US,940829,54517,100372,785940,32921,1650,1293,Americas
+4/25/20,United Kingdom,155453,23712,774,130967,3764,844,50,Europe
+4/26/20,Argentina,3892,192,1107,2593,112,7,77,Americas
+4/26/20,Bangladesh,5416,145,122,5149,418,5,9,South-East Asia
+4/26/20,Brazil,63100,4286,30152,28662,3776,229,992,Americas
+4/26/20,Chile,15010,189,7024,7797,473,8,278,Americas
+4/26/20,Colombia,5379,244,1133,4002,237,11,66,Americas
+4/26/20,France,162220,22859,44903,94458,576,242,309,Europe
+4/26/20,Germany,157770,5976,112000,39794,1257,99,2200,Europe
+4/26/20,India,27890,881,6523,20486,1607,56,584,South-East Asia
+4/26/20,Iran,90481,5710,69657,15114,1153,60,1464,Eastern Mediterranean
+4/26/20,Italy,197675,26644,64928,106103,2324,260,1808,Europe
+4/26/20,Mexico,14677,1351,8354,4972,835,46,1205,Americas
+4/26/20,Pakistan,13915,292,3029,10594,587,11,93,Eastern Mediterranean
+4/26/20,Peru,27517,728,8088,18701,2186,28,291,Americas
+4/26/20,Russia,80949,747,6767,73435,6361,66,517,Europe
+4/26/20,Saudi Arabia,17522,139,2357,15026,1223,3,142,Eastern Mediterranean
+4/26/20,South Africa,4546,87,1473,2986,185,1,0,Africa
+4/26/20,Spain,207634,23190,98372,86072,1729,288,2664,Europe
+4/26/20,Turkey,110130,2805,29140,78185,2357,99,3558,Europe
+4/26/20,US,968518,55810,106988,805720,27689,1293,6616,Americas
+4/26/20,United Kingdom,158926,24132,778,134016,3473,420,4,Europe
+4/27/20,Argentina,4003,197,1140,2666,111,5,33,Americas
+4/27/20,Bangladesh,5913,152,131,5630,497,7,9,South-East Asia
+4/27/20,Brazil,67446,4603,31142,31701,4346,317,990,Americas
+4/27/20,Chile,15492,198,7327,7967,482,9,303,Americas
+4/27/20,Colombia,5597,253,1210,4134,218,9,77,Americas
+4/27/20,France,165963,23296,45513,97154,3743,437,610,Europe
+4/27/20,Germany,158758,6126,114500,38132,988,150,2500,Europe
+4/27/20,India,29451,939,7137,21375,1561,58,614,South-East Asia
+4/27/20,Iran,91472,5806,70933,14733,991,96,1276,Eastern Mediterranean
+4/27/20,Italy,199414,26977,66624,105813,1739,333,1696,Europe
+4/27/20,Mexico,15529,1434,9086,5009,852,83,732,Americas
+4/27/20,Pakistan,14612,312,3233,11067,697,20,204,Eastern Mediterranean
+4/27/20,Peru,28699,782,8425,19492,1182,54,337,Americas
+4/27/20,Russia,87147,794,7346,79007,6198,47,579,Europe
+4/27/20,Saudi Arabia,18811,144,2531,16136,1289,5,174,Eastern Mediterranean
+4/27/20,South Africa,4793,90,1473,3230,247,3,0,Africa
+4/27/20,Spain,209465,23521,100875,85069,1831,331,2503,Europe
+4/27/20,Turkey,112261,2900,33791,75570,2131,95,4651,Europe
+4/27/20,US,990983,57235,111424,822324,22465,1425,4436,Americas
+4/27/20,United Kingdom,163630,24473,807,138350,4704,341,29,Europe
+4/28/20,Argentina,4127,207,1162,2758,124,10,22,Americas
+4/28/20,Bangladesh,6462,155,139,6168,549,3,8,South-East Asia
+4/28/20,Brazil,73235,5083,32544,35608,5789,480,1402,Americas
+4/28/20,Chile,16044,207,7710,8127,552,9,383,Americas
+4/28/20,Colombia,5949,269,1268,4412,352,16,58,Americas
+4/28/20,France,169053,23663,46886,98504,3090,367,1373,Europe
+4/28/20,Germany,159912,6314,117400,36198,1154,188,2900,Europe
+4/28/20,India,31324,1008,7747,22569,1873,69,610,South-East Asia
+4/28/20,Iran,92584,5877,72439,14268,1112,71,1506,Eastern Mediterranean
+4/28/20,Italy,201505,27359,68941,105205,2091,382,2317,Europe
+4/28/20,Mexico,16752,1569,11423,3760,1223,135,2337,Americas
+4/28/20,Pakistan,15525,343,3425,11757,913,31,192,Eastern Mediterranean
+4/28/20,Peru,31190,854,9179,21157,2491,72,754,Americas
+4/28/20,Russia,93558,867,8456,84235,6411,73,1110,Europe
+4/28/20,Saudi Arabia,20077,152,2784,17141,1266,8,253,Eastern Mediterranean
+4/28/20,South Africa,4996,93,2073,2830,203,3,600,Africa
+4/28/20,Spain,210773,23822,102548,84403,1308,301,1673,Europe
+4/28/20,Turkey,114653,2992,38809,72852,2392,92,5018,Europe
+4/28/20,US,1015518,59454,115936,840128,24535,2219,4512,Americas
+4/28/20,United Kingdom,168357,25386,813,142158,4727,913,6,Europe
+4/29/20,Argentina,4285,214,1192,2879,158,7,30,Americas
+4/29/20,Bangladesh,7103,163,150,6790,641,8,11,South-East Asia
+4/29/20,Brazil,79685,5513,34132,40040,6450,430,1588,Americas
+4/29/20,Chile,16564,216,8057,8291,520,9,347,Americas
+4/29/20,Colombia,6207,278,1411,4518,258,9,143,Americas
+4/29/20,France,166543,24090,48228,94225,0,427,1342,Europe
+4/29/20,Germany,161539,6467,120400,34672,1627,153,3000,Europe
+4/29/20,India,33062,1079,8437,23546,1738,71,690,South-East Asia
+4/29/20,Iran,93657,5957,73791,13909,1073,80,1352,Eastern Mediterranean
+4/29/20,Italy,203591,27682,71252,104657,2086,323,2311,Europe
+4/29/20,Mexico,17799,1732,11423,4644,1047,163,0,Americas
+4/29/20,Pakistan,16817,385,4315,12117,1292,42,890,Eastern Mediterranean
+4/29/20,Peru,33931,943,10037,22951,2741,89,858,Americas
+4/29/20,Russia,99399,972,10286,88141,5841,105,1830,Europe
+4/29/20,Saudi Arabia,21402,157,2953,18292,1325,5,169,Eastern Mediterranean
+4/29/20,South Africa,5350,103,2073,3174,354,10,0,Africa
+4/29/20,Spain,212917,24275,108947,79695,2144,453,6399,Europe
+4/29/20,Turkey,117589,3081,44040,70468,2936,89,5231,Europe
+4/29/20,US,1043038,61960,120720,860358,27520,2506,4784,Americas
+4/29/20,United Kingdom,173807,26183,857,146767,5450,797,44,Europe
+4/30/20,Argentina,4428,218,1256,2954,143,4,64,Americas
+4/30/20,Bangladesh,7667,168,160,7339,564,5,10,South-East Asia
+4/30/20,Brazil,87187,6006,35935,45246,7502,493,1803,Americas
+4/30/20,Chile,17702,227,8580,8895,1138,11,523,Americas
+4/30/20,Colombia,6507,293,1439,4775,300,15,28,Americas
+4/30/20,France,167299,24379,49476,93444,756,289,1248,Europe
+4/30/20,Germany,163009,6623,123500,32886,1470,156,3100,Europe
+4/30/20,India,34863,1154,9068,24641,1801,75,631,South-East Asia
+4/30/20,Iran,94640,6028,75103,13509,983,71,1312,Eastern Mediterranean
+4/30/20,Italy,205463,27967,75945,101551,1872,285,4693,Europe
+4/30/20,Mexico,19224,1859,11423,5942,1425,127,0,Americas
+4/30/20,Pakistan,18114,417,4715,12982,1297,32,400,Eastern Mediterranean
+4/30/20,Peru,36976,1051,10405,25520,3045,108,368,Americas
+4/30/20,Russia,106498,1073,11619,93806,7099,101,1333,Europe
+4/30/20,Saudi Arabia,22753,162,3163,19428,1351,5,210,Eastern Mediterranean
+4/30/20,South Africa,5647,103,2073,3471,297,0,0,Africa
+4/30/20,Spain,213435,24543,112050,76842,518,268,3103,Europe
+4/30/20,Turkey,120204,3174,48886,68144,2615,93,4846,Europe
+4/30/20,US,1072667,64256,153947,854464,29629,2296,33227,Americas
+4/30/20,United Kingdom,178771,26859,859,151053,4964,676,2,Europe
+5/1/20,Argentina,4532,225,1292,3015,104,7,36,Americas
+5/1/20,Bangladesh,8238,170,174,7894,571,2,14,South-East Asia
+5/1/20,Brazil,92202,6412,38039,47751,5015,406,2104,Americas
+5/1/20,Chile,18687,234,9018,9435,985,7,438,Americas
+5/1/20,Colombia,7006,314,1551,5141,499,21,112,Americas
+5/1/20,France,167305,24597,50212,92496,6,218,736,Europe
+5/1/20,Germany,164077,6736,126900,30441,1068,113,3400,Europe
+5/1/20,India,37257,1223,10007,26027,2394,69,939,South-East Asia
+5/1/20,Iran,95646,6091,76318,13237,1006,63,1215,Eastern Mediterranean
+5/1/20,Italy,207428,28236,78249,100943,1965,269,2304,Europe
+5/1/20,Mexico,20739,1972,12377,6390,1515,113,954,Americas
+5/1/20,Pakistan,19103,440,4817,13846,989,23,102,Eastern Mediterranean
+5/1/20,Peru,40459,1124,11129,28206,3483,73,724,Americas
+5/1/20,Russia,114431,1169,13220,100042,7933,96,1601,Europe
+5/1/20,Saudi Arabia,24097,169,3555,20373,1344,7,392,Eastern Mediterranean
+5/1/20,South Africa,5951,116,2382,3453,304,13,309,Africa
+5/1/20,Spain,215216,24543,112050,78623,1781,0,0,Europe
+5/1/20,Turkey,122392,3258,53808,65326,2188,84,4922,Europe
+5/1/20,US,1106829,66125,164015,876689,34162,1869,10068,Americas
+5/1/20,United Kingdom,183501,27601,892,155008,4730,742,33,Europe
+5/2/20,Argentina,4681,237,1320,3124,149,12,28,Americas
+5/2/20,Bangladesh,8790,175,177,8438,552,5,3,South-East Asia
+5/2/20,Brazil,97100,6761,40937,49402,4898,349,2898,Americas
+5/2/20,Chile,21213,247,9572,11394,2526,13,554,Americas
+5/2/20,Colombia,7285,324,1666,5295,279,10,115,Americas
+5/2/20,France,168518,24763,50663,93092,1213,166,451,Europe
+5/2/20,Germany,164967,6812,129000,29155,890,76,2100,Europe
+5/2/20,India,39699,1323,10819,27557,2442,100,812,South-East Asia
+5/2/20,Iran,96448,6156,77350,12942,802,65,1032,Eastern Mediterranean
+5/2/20,Italy,209328,28710,79914,100704,1900,474,1665,Europe
+5/2/20,Mexico,22088,2061,12377,7650,1349,89,0,Americas
+5/2/20,Pakistan,20084,457,5114,14513,981,17,297,Eastern Mediterranean
+5/2/20,Peru,42534,1200,12434,28900,2075,76,1305,Americas
+5/2/20,Russia,124054,1222,15013,107819,9623,53,1793,Europe
+5/2/20,Saudi Arabia,25459,176,3765,21518,1362,7,210,Eastern Mediterranean
+5/2/20,South Africa,6336,123,2549,3664,385,7,167,Africa
+5/2/20,Spain,216582,25100,117248,74234,1366,557,5198,Europe
+5/2/20,Turkey,124375,3336,58259,62780,1983,78,4451,Europe
+5/2/20,US,1136024,67681,175382,892961,29195,1556,11367,Americas
+5/2/20,United Kingdom,186731,28223,896,157612,3230,622,4,Europe
+5/3/20,Argentina,4783,246,1354,3183,102,9,34,Americas
+5/3/20,Bangladesh,9455,177,1063,8215,665,2,886,South-East Asia
+5/3/20,Brazil,101826,7051,42991,51784,4726,290,2054,Americas
+5/3/20,Chile,22441,260,10041,12140,1228,13,469,Americas
+5/3/20,Colombia,7668,340,1722,5606,383,16,56,Americas
+5/3/20,France,168925,24900,50885,93140,407,137,222,Europe
+5/3/20,Germany,165664,6866,130600,28198,697,54,1600,Europe
+5/3/20,India,42505,1391,11775,29339,2806,68,956,South-East Asia
+5/3/20,Iran,97424,6203,78422,12799,976,47,1072,Eastern Mediterranean
+5/3/20,Italy,210717,28884,81654,100179,1389,174,1740,Europe
+5/3/20,Mexico,23471,2154,13447,7870,1383,93,1070,Americas
+5/3/20,Pakistan,20941,476,5635,14830,857,19,521,Eastern Mediterranean
+5/3/20,Peru,45928,1286,13550,31092,3394,86,1116,Americas
+5/3/20,Russia,134687,1280,16639,116768,10633,58,1626,Europe
+5/3/20,Saudi Arabia,27011,184,4134,22693,1552,8,369,Eastern Mediterranean
+5/3/20,South Africa,6783,131,2549,4103,447,8,0,Africa
+5/3/20,Spain,217466,25264,118902,73300,884,164,1654,Europe
+5/3/20,Turkey,126045,3397,63151,59497,1670,61,4892,Europe
+5/3/20,US,1161611,68777,180152,912682,25587,1096,4770,Americas
+5/3/20,United Kingdom,189708,28538,901,160269,2977,315,5,Europe
+5/4/20,Argentina,4887,260,1442,3185,104,14,88,Americas
+5/4/20,Bangladesh,10143,182,1209,8752,688,5,146,South-East Asia
+5/4/20,Brazil,108620,7367,45815,55438,6794,316,2824,Americas
+5/4/20,Chile,23421,270,10415,12736,980,10,374,Americas
+5/4/20,Colombia,7973,358,1807,5808,305,18,85,Americas
+5/4/20,France,169583,25204,51476,92903,658,304,591,Europe
+5/4/20,Germany,166152,6993,132700,26459,488,127,2100,Europe
+5/4/20,India,46437,1566,12847,32024,3932,175,1072,South-East Asia
+5/4/20,Iran,98647,6277,79379,12991,1223,74,957,Eastern Mediterranean
+5/4/20,Italy,211938,29079,82879,99980,1221,195,1225,Europe
+5/4/20,Mexico,24905,2271,13447,9187,1434,117,0,Americas
+5/4/20,Pakistan,22049,514,5801,15734,1108,38,166,Eastern Mediterranean
+5/4/20,Peru,47372,1344,14427,31601,1444,58,877,Americas
+5/4/20,Russia,145268,1356,18095,125817,10581,76,1456,Europe
+5/4/20,Saudi Arabia,28656,191,4476,23989,1645,7,342,Eastern Mediterranean
+5/4/20,South Africa,7220,138,2746,4336,437,7,197,Africa
+5/4/20,Spain,218011,25428,121343,71240,545,164,2441,Europe
+5/4/20,Turkey,127659,3461,68166,56032,1614,64,5015,Europe
+5/4/20,US,1184086,70086,187180,926820,22475,1309,7028,Americas
+5/4/20,United Kingdom,193091,28827,910,163354,3383,289,9,Europe
+5/5/20,Argentina,5020,264,1472,3284,133,4,30,Americas
+5/5/20,Bangladesh,10929,183,1403,9343,786,1,194,South-East Asia
+5/5/20,Brazil,115455,7938,48221,59296,6835,571,2406,Americas
+5/5/20,Chile,24794,275,10710,13809,1373,5,295,Americas
+5/5/20,Colombia,8613,378,2013,6222,640,20,206,Americas
+5/5/20,France,170687,25537,52842,92308,1104,333,1366,Europe
+5/5/20,Germany,167007,6993,135100,24914,855,0,2400,Europe
+5/5/20,India,49400,1693,14142,33565,2963,127,1295,South-East Asia
+5/5/20,Iran,99970,6340,80475,13155,1323,63,1096,Eastern Mediterranean
+5/5/20,Italy,213013,29315,85231,98467,1075,236,2352,Europe
+5/5/20,Mexico,26025,2507,16810,6708,1120,236,3363,Americas
+5/5/20,Pakistan,24073,564,6464,17045,2024,50,663,Eastern Mediterranean
+5/5/20,Peru,51189,1444,15413,34332,3817,100,986,Americas
+5/5/20,Russia,155370,1451,19865,134054,10102,95,1770,Europe
+5/5/20,Saudi Arabia,30251,200,5431,24620,1595,9,955,Eastern Mediterranean
+5/5/20,South Africa,7572,148,2746,4678,352,10,0,Africa
+5/5/20,Spain,219329,25613,123486,70230,1318,185,2143,Europe
+5/5/20,Turkey,129491,3520,73285,52686,1832,59,5119,Europe
+5/5/20,US,1208271,72393,189791,946087,24185,2307,2611,Americas
+5/5/20,United Kingdom,196780,29520,926,166334,3689,693,16,Europe
+5/6/20,Argentina,5208,273,1524,3411,188,9,52,Americas
+5/6/20,Bangladesh,11719,186,1403,10130,790,3,0,South-East Asia
+5/6/20,Brazil,126611,8588,51370,66653,11156,650,3149,Americas
+5/6/20,Chile,25826,281,11189,14356,1032,6,479,Americas
+5/6/20,Colombia,8959,397,2148,6414,346,19,135,Americas
+5/6/20,France,174224,25812,54079,94333,3537,275,1237,Europe
+5/6/20,Germany,168162,7275,139900,20987,1155,282,4800,Europe
+5/6/20,India,52987,1785,15331,35871,3587,92,1189,South-East Asia
+5/6/20,Iran,101650,6418,81587,13645,1680,78,1112,Eastern Mediterranean
+5/6/20,Italy,214457,29684,93245,91528,1444,369,8014,Europe
+5/6/20,Mexico,27634,2704,17781,7149,1609,197,971,Americas
+5/6/20,Pakistan,24644,585,6464,17595,571,21,0,Eastern Mediterranean
+5/6/20,Peru,54817,1533,17527,35757,3628,89,2114,Americas
+5/6/20,Russia,165929,1537,21327,143065,10559,86,1462,Europe
+5/6/20,Saudi Arabia,31938,209,6783,24946,1687,9,1352,Eastern Mediterranean
+5/6/20,South Africa,7808,153,3153,4502,236,5,407,Africa
+5/6/20,Spain,220325,25857,126002,68466,996,244,2516,Europe
+5/6/20,Turkey,131744,3584,78202,49958,2253,64,4917,Europe
+5/6/20,US,1233527,74851,189910,968766,25256,2458,119,Americas
+5/6/20,United Kingdom,200616,30172,934,169510,3836,652,8,Europe
+5/7/20,Argentina,5371,282,1601,3488,163,9,77,Americas
+5/7/20,Bangladesh,12425,199,1910,10316,706,13,507,South-East Asia
+5/7/20,Brazil,135773,9190,55350,71233,9162,602,3980,Americas
+5/7/20,Chile,27359,285,11664,15410,1533,4,475,Americas
+5/7/20,Colombia,9456,407,2300,6749,497,10,152,Americas
+5/7/20,France,174918,25990,55191,93737,694,178,1112,Europe
+5/7/20,Germany,169430,7392,141700,20338,1268,117,1800,Europe
+5/7/20,India,56351,1889,16776,37686,3364,104,1445,South-East Asia
+5/7/20,Iran,103135,6486,82744,13905,1485,68,1157,Eastern Mediterranean
+5/7/20,Italy,215858,29958,96276,89624,1401,274,3031,Europe
+5/7/20,Mexico,29616,2961,17781,8874,1982,257,0,Americas
+5/7/20,Pakistan,26435,599,7530,18306,1791,14,1066,Eastern Mediterranean
+5/7/20,Peru,58526,1627,18388,38511,3709,94,861,Americas
+5/7/20,Russia,177160,1625,23803,151732,11231,88,2476,Europe
+5/7/20,Saudi Arabia,33731,219,7798,25714,1793,10,1015,Eastern Mediterranean
+5/7/20,South Africa,8232,161,3153,4918,424,8,0,Africa
+5/7/20,Spain,221447,26070,128511,66866,1122,213,2509,Europe
+5/7/20,Turkey,133721,3641,82984,47096,1977,57,4782,Europe
+5/7/20,US,1261409,76770,195036,989603,27882,1919,5126,Americas
+5/7/20,United Kingdom,204387,30712,970,172705,3771,540,36,Europe
+5/8/20,Argentina,5611,293,1659,3659,240,11,58,Americas
+5/8/20,Bangladesh,13134,206,2101,10827,709,7,191,South-East Asia
+5/8/20,Brazil,146894,10017,59297,77580,11121,827,3947,Americas
+5/8/20,Chile,28750,294,12160,16296,1391,9,496,Americas
+5/8/20,Colombia,10051,428,2424,7199,595,21,124,Americas
+5/8/20,France,176202,26233,55892,94077,1284,243,701,Europe
+5/8/20,Germany,170588,7510,141700,21378,1158,118,0,Europe
+5/8/20,India,59695,1985,17887,39823,3344,96,1111,South-East Asia
+5/8/20,Iran,104691,6541,83837,14313,1556,55,1093,Eastern Mediterranean
+5/8/20,Italy,217185,30201,99023,87961,1327,243,2747,Europe
+5/8/20,Mexico,31522,3160,20314,8048,1906,199,2533,Americas
+5/8/20,Pakistan,28736,636,7809,20291,2301,37,279,Eastern Mediterranean
+5/8/20,Peru,61847,1714,19012,41121,3321,87,624,Americas
+5/8/20,Russia,187859,1723,26608,159528,10699,98,2805,Europe
+5/8/20,Saudi Arabia,35432,229,9120,26083,1701,10,1322,Eastern Mediterranean
+5/8/20,South Africa,8895,178,3153,5564,663,17,0,Africa
+5/8/20,Spain,222857,26299,131148,65410,1410,229,2637,Europe
+5/8/20,Turkey,135569,3689,86396,45484,1848,48,3412,Europe
+5/8/20,US,1288587,78497,198993,1011097,27178,1727,3957,Americas
+5/8/20,United Kingdom,207439,31340,997,175102,3052,628,27,Europe
+5/9/20,Argentina,5776,300,1728,3748,165,7,69,Americas
+5/9/20,Bangladesh,13770,214,2414,11142,636,8,313,South-East Asia
+5/9/20,Brazil,156061,10656,61685,83720,9167,639,2388,Americas
+5/9/20,Chile,32208,304,12667,19237,3458,10,507,Americas
+5/9/20,Colombia,10495,445,2569,7481,444,17,145,Americas
+5/9/20,France,176782,26313,56148,94321,580,80,256,Europe
+5/9/20,Germany,171324,7549,143300,20475,736,39,1600,Europe
+5/9/20,India,62808,2101,19301,41406,3113,116,1414,South-East Asia
+5/9/20,Iran,106220,6589,85064,14567,1529,48,1227,Eastern Mediterranean
+5/9/20,Italy,218268,30395,103031,84842,1083,194,4008,Europe
+5/9/20,Mexico,33460,3353,21824,8283,1938,193,1510,Americas
+5/9/20,Pakistan,30334,659,8063,21612,1598,23,254,Eastern Mediterranean
+5/9/20,Peru,65015,1814,20246,42955,3168,100,1234,Americas
+5/9/20,Russia,198676,1827,31916,164933,10817,104,5308,Europe
+5/9/20,Saudi Arabia,37136,239,10144,26753,1704,10,1024,Eastern Mediterranean
+5/9/20,South Africa,9420,186,3983,5251,525,8,830,Africa
+5/9/20,Spain,223578,26478,133952,63148,721,179,2804,Europe
+5/9/20,Turkey,137115,3739,89480,43896,1546,50,3084,Europe
+5/9/20,US,1314320,79976,212534,1021810,25733,1479,13541,Americas
+5/9/20,United Kingdom,209589,31685,1001,176903,2150,345,4,Europe
+5/10/20,Argentina,6034,305,1757,3972,258,5,29,Americas
+5/10/20,Bangladesh,14657,228,2650,11779,887,14,236,South-East Asia
+5/10/20,Brazil,162699,11123,64957,86619,6638,467,3272,Americas
+5/10/20,Chile,33855,312,13112,20431,1647,8,445,Americas
+5/10/20,Colombia,11063,463,2705,7895,568,18,136,Americas
+5/10/20,France,177094,26383,56327,94384,312,70,179,Europe
+5/10/20,Germany,171879,7569,144400,19910,555,20,1100,Europe
+5/10/20,India,67161,2212,20969,43980,4353,111,1668,South-East Asia
+5/10/20,Iran,107603,6640,86143,14820,1383,51,1079,Eastern Mediterranean
+5/10/20,Italy,219070,30560,105186,83324,802,165,2155,Europe
+5/10/20,Mexico,35022,3465,21824,9733,1562,112,0,Americas
+5/10/20,Pakistan,32081,706,8555,22820,1747,47,492,Eastern Mediterranean
+5/10/20,Peru,67307,1889,21349,44069,2292,75,1103,Americas
+5/10/20,Russia,209688,1915,34306,173467,11012,88,2390,Europe
+5/10/20,Saudi Arabia,39048,246,11457,27345,1912,7,1313,Eastern Mediterranean
+5/10/20,South Africa,10015,194,4173,5648,595,8,190,Africa
+5/10/20,Spain,224350,26621,136166,61563,772,143,2214,Europe
+5/10/20,Turkey,138657,3786,92691,42180,1542,47,3211,Europe
+5/10/20,US,1334084,80855,216169,1037060,19764,879,3635,Americas
+5/10/20,United Kingdom,211911,31954,1002,178955,2322,269,1,Europe
+5/11/20,Argentina,6278,314,1837,4127,244,9,80,Americas
+5/11/20,Bangladesh,15691,239,2902,12550,1034,11,252,South-East Asia
+5/11/20,Brazil,169594,11653,67384,90557,6895,530,2427,Americas
+5/11/20,Chile,35052,323,13605,21124,1197,11,493,Americas
+5/11/20,Colombia,11613,479,2825,8309,550,16,120,Americas
+5/11/20,France,177547,26646,56835,94066,453,263,508,Europe
+5/11/20,Germany,172576,7661,145617,19298,697,92,1217,Europe
+5/11/20,India,70768,2294,22549,45925,3607,82,1580,South-East Asia
+5/11/20,Iran,109286,6685,87422,15179,1683,45,1279,Eastern Mediterranean
+5/11/20,Italy,219814,30739,106587,82488,744,179,1401,Europe
+5/11/20,Mexico,36327,3573,23100,9654,1305,108,1276,Americas
+5/11/20,Pakistan,34336,737,8812,24787,2255,31,257,Eastern Mediterranean
+5/11/20,Peru,68822,1961,22406,44455,1515,72,1057,Americas
+5/11/20,Russia,221344,2009,39801,179534,11656,94,5495,Europe
+5/11/20,Saudi Arabia,41014,255,12737,28022,1966,9,1280,Eastern Mediterranean
+5/11/20,South Africa,10652,206,4357,6089,637,12,184,Africa
+5/11/20,Spain,227436,26744,137139,63553,3086,123,973,Europe
+5/11/20,Turkey,139771,3841,95780,40150,1114,55,3089,Europe
+5/11/20,US,1352962,81868,232733,1038361,18878,1013,16564,Americas
+5/11/20,United Kingdom,215500,32166,1015,182319,3589,212,13,Europe
+5/12/20,Argentina,6563,319,1862,4382,285,5,25,Americas
+5/12/20,Bangladesh,16660,250,3147,13263,969,11,245,South-East Asia
+5/12/20,Brazil,178214,12461,72597,93156,8620,808,5213,Americas
+5/12/20,Chile,36710,335,14125,22250,1658,12,520,Americas
+5/12/20,Colombia,12272,493,2971,8808,659,14,146,Americas
+5/12/20,France,178349,26994,57898,93457,802,348,1063,Europe
+5/12/20,Germany,173171,7738,147200,18233,595,77,1583,Europe
+5/12/20,India,74292,2415,24420,47457,3524,121,1871,South-East Asia
+5/12/20,Iran,110767,6733,88357,15677,1481,48,935,Eastern Mediterranean
+5/12/20,Italy,221216,30911,109039,81266,1402,172,2452,Europe
+5/12/20,Mexico,38324,3926,25935,8463,1997,353,2835,Americas
+5/12/20,Pakistan,35298,761,8899,25638,962,24,87,Eastern Mediterranean
+5/12/20,Peru,72059,2057,23324,46678,3237,96,918,Americas
+5/12/20,Russia,232243,2116,43512,186615,10899,107,3711,Europe
+5/12/20,Saudi Arabia,42925,264,15257,27404,1911,9,2520,Eastern Mediterranean
+5/12/20,South Africa,11350,206,4357,6787,698,0,0,Africa
+5/12/20,Spain,228030,26920,138980,62130,594,176,1841,Europe
+5/12/20,Turkey,141475,3894,98889,38692,1704,53,3109,Europe
+5/12/20,US,1375152,83483,230287,1061382,22190,1615,-2446,Americas
+5/12/20,United Kingdom,218895,32797,1023,185075,3395,631,8,Europe
+5/13/20,Argentina,6879,329,2266,4284,316,10,404,Americas
+5/13/20,Bangladesh,17822,269,3361,14192,1162,19,214,South-East Asia
+5/13/20,Brazil,190137,13240,78424,98473,11923,779,5827,Americas
+5/13/20,Chile,39370,346,14865,24159,2660,11,740,Americas
+5/13/20,Colombia,12930,509,3133,9288,658,16,162,Americas
+5/13/20,France,178184,27077,58786,92321,0,83,888,Europe
+5/13/20,Germany,174098,7861,148700,17537,927,123,1500,Europe
+5/13/20,India,78055,2551,26400,49104,3763,136,1980,South-East Asia
+5/13/20,Iran,112725,6783,89428,16514,1958,50,1071,Eastern Mediterranean
+5/13/20,Italy,222104,31106,112541,78457,888,195,3502,Europe
+5/13/20,Mexico,40186,4220,26990,8976,1862,294,1055,Americas
+5/13/20,Pakistan,35788,770,9695,25323,490,9,796,Eastern Mediterranean
+5/13/20,Peru,76306,2169,24324,49813,4247,112,1000,Americas
+5/13/20,Russia,242271,2212,48003,192056,10028,96,4491,Europe
+5/13/20,Saudi Arabia,44830,273,17622,26935,1905,9,2365,Eastern Mediterranean
+5/13/20,South Africa,12074,219,4745,7110,724,13,388,Africa
+5/13/20,Spain,228691,27104,140823,60764,661,184,1843,Europe
+5/13/20,Turkey,143114,3952,101715,37447,1639,58,2826,Europe
+5/13/20,US,1396110,85234,243430,1067446,20958,1751,13143,Americas
+5/13/20,United Kingdom,222195,33294,1032,187869,3300,497,9,Europe
+5/14/20,Argentina,7134,353,2385,4396,255,24,119,Americas
+5/14/20,Bangladesh,18863,283,3361,15219,1041,14,0,South-East Asia
+5/14/20,Brazil,203165,13999,79479,109687,13028,759,1055,Americas
+5/14/20,Chile,42029,368,15655,26006,2659,22,790,Americas
+5/14/20,Colombia,13610,525,3358,9727,680,16,225,Americas
+5/14/20,France,178994,27428,59719,91847,810,351,933,Europe
+5/14/20,Germany,174478,7884,150300,16294,380,23,1600,Europe
+5/14/20,India,81997,2649,27969,51379,3942,98,1569,South-East Asia
+5/14/20,Iran,114533,6854,90539,17140,1808,71,1111,Eastern Mediterranean
+5/14/20,Italy,223096,31368,115288,76440,992,262,2747,Europe
+5/14/20,Mexico,42595,4477,28475,9643,2409,257,1485,Americas
+5/14/20,Pakistan,38799,834,10880,27085,3011,64,1185,Eastern Mediterranean
+5/14/20,Peru,80604,2267,25151,53186,4298,98,827,Americas
+5/14/20,Russia,252245,2305,53530,196410,9974,93,5527,Europe
+5/14/20,Saudi Arabia,46869,283,19051,27535,2039,10,1429,Eastern Mediterranean
+5/14/20,South Africa,12739,238,5676,6825,665,19,931,Africa
+5/14/20,Spain,229540,27321,143374,58845,849,217,2551,Europe
+5/14/20,Turkey,144749,4007,104030,36712,1635,55,2315,Europe
+5/14/20,US,1423727,87008,246414,1090305,27617,1774,2984,Americas
+5/14/20,United Kingdom,224813,33723,1043,190047,2618,429,11,Europe
+5/15/20,Argentina,7479,356,2497,4626,345,3,112,Americas
+5/15/20,Bangladesh,20065,298,3882,15885,1202,15,521,South-East Asia
+5/15/20,Brazil,220291,14962,84970,120359,17126,963,5491,Americas
+5/15/20,Chile,44531,394,16614,27523,2502,26,959,Americas
+5/15/20,Colombia,14216,546,3460,10210,606,21,102,Americas
+5/15/20,France,179630,27532,60562,91536,636,104,843,Europe
+5/15/20,Germany,175233,7897,151597,15739,755,13,1297,Europe
+5/15/20,India,85784,2753,30258,52773,3787,104,2289,South-East Asia
+5/15/20,Iran,116635,6902,91836,17897,2102,48,1297,Eastern Mediterranean
+5/15/20,Italy,223885,31610,120205,72070,789,242,4917,Europe
+5/15/20,Mexico,45032,4767,30451,9814,2437,290,1976,Americas
+5/15/20,Pakistan,38799,834,10880,27085,0,0,0,Eastern Mediterranean
+5/15/20,Peru,84495,2392,27147,54956,3891,125,1996,Americas
+5/15/20,Russia,262843,2418,58226,202199,10598,113,4696,Europe
+5/15/20,Saudi Arabia,49176,292,21869,27015,2307,9,2818,Eastern Mediterranean
+5/15/20,South Africa,13524,247,6083,7194,785,9,407,Africa
+5/15/20,Spain,230183,27459,144783,57941,643,138,1409,Europe
+5/15/20,Turkey,146457,4055,106133,36269,1708,48,2103,Europe
+5/15/20,US,1449027,88669,250747,1109611,25300,1661,4333,Americas
+5/15/20,United Kingdom,227334,34108,1047,192179,2521,385,4,Europe
+5/16/20,Argentina,7805,363,2534,4908,326,7,37,Americas
+5/16/20,Bangladesh,20995,314,4117,16564,930,16,235,South-East Asia
+5/16/20,Brazil,233511,15662,89672,128177,13220,700,4702,Americas
+5/16/20,Chile,50016,421,18014,31581,5485,27,1400,Americas
+5/16/20,Colombia,14939,562,3587,10790,723,16,127,Americas
+5/16/20,France,179630,27532,60562,91536,0,0,0,Europe
+5/16/20,Germany,175752,7938,152600,15214,519,41,1003,Europe
+5/16/20,India,90648,2871,34224,53553,4864,118,3966,South-East Asia
+5/16/20,Iran,118392,6937,93147,18308,1757,35,1311,Eastern Mediterranean
+5/16/20,Italy,224760,31763,122810,70187,875,153,2605,Europe
+5/16/20,Mexico,47144,5045,31848,10251,2112,278,1397,Americas
+5/16/20,Pakistan,40151,873,11341,27937,1352,39,461,Eastern Mediterranean
+5/16/20,Peru,88541,2523,28272,57746,4046,131,1125,Americas
+5/16/20,Russia,272043,2537,63166,206340,9200,119,4940,Europe
+5/16/20,Saudi Arabia,52016,302,23666,28048,2840,10,1797,Eastern Mediterranean
+5/16/20,South Africa,14355,261,6478,7616,831,14,395,Africa
+5/16/20,Spain,230698,27563,146446,56689,515,104,1663,Europe
+5/16/20,Turkey,148067,4096,108137,35834,1610,41,2004,Europe
+5/16/20,US,1474128,89892,268376,1115860,25101,1223,17629,Americas
+5/16/20,United Kingdom,229406,34588,1058,193760,2072,480,11,Europe
+5/17/20,Argentina,8068,373,2569,5126,263,10,35,Americas
+5/17/20,Bangladesh,22268,328,4373,17567,1273,14,256,South-East Asia
+5/17/20,Brazil,241080,16118,94122,130840,7569,456,4450,Americas
+5/17/20,Chile,52369,450,19213,32706,2353,29,1199,Americas
+5/17/20,Colombia,15574,574,3751,11249,635,12,164,Americas
+5/17/20,France,179693,28111,61327,90255,63,579,765,Europe
+5/17/20,Germany,176369,7962,154011,14396,617,24,1411,Europe
+5/17/20,India,95698,3025,36795,55878,5050,154,2571,South-East Asia
+5/17/20,Iran,120198,6988,94464,18746,1806,51,1317,Eastern Mediterranean
+5/17/20,Italy,225435,31908,125176,68351,675,145,2366,Europe
+5/17/20,Mexico,49219,5177,33329,10713,2075,132,1481,Americas
+5/17/20,Pakistan,42125,903,11922,29300,1974,30,581,Eastern Mediterranean
+5/17/20,Peru,92273,2648,28621,61004,3732,125,349,Americas
+5/17/20,Russia,281752,2631,67373,211748,9709,94,4207,Europe
+5/17/20,Saudi Arabia,54752,312,25722,28718,2736,10,2056,Eastern Mediterranean
+5/17/20,South Africa,15515,264,7006,8245,1160,3,528,Africa
+5/17/20,Spain,230698,27563,146446,56689,0,0,0,Europe
+5/17/20,Turkey,149435,4140,109962,35333,1368,44,1825,Europe
+5/17/20,US,1493132,90644,272265,1130223,19004,752,3889,Americas
+5/17/20,United Kingdom,231232,34758,1058,195416,1826,170,0,Europe
+5/18/20,Argentina,8371,382,2625,5364,303,9,56,Americas
+5/18/20,Bangladesh,23870,349,4585,18936,1602,21,212,South-East Asia
+5/18/20,Brazil,255368,16853,100459,138056,14288,735,6337,Americas
+5/18/20,Chile,54647,478,20165,34004,2278,28,952,Americas
+5/18/20,Colombia,16295,592,3903,11800,721,18,152,Americas
+5/18/20,France,180051,28242,61843,89966,358,131,516,Europe
+5/18/20,Germany,176551,8003,155041,13507,182,41,1030,Europe
+5/18/20,India,100328,3156,39233,57939,4630,131,2438,South-East Asia
+5/18/20,Iran,122492,7057,95661,19774,2294,69,1197,Eastern Mediterranean
+5/18/20,Italy,225886,32007,127326,66553,451,99,2150,Europe
+5/18/20,Mexico,51633,5332,35388,10913,2414,155,2059,Americas
+5/18/20,Pakistan,43966,939,12489,30538,1841,36,567,Eastern Mediterranean
+5/18/20,Peru,94933,2789,30306,61838,2660,141,1685,Americas
+5/18/20,Russia,290678,2722,70209,217747,8926,91,2836,Europe
+5/18/20,Saudi Arabia,57345,320,28748,28277,2593,8,3026,Eastern Mediterranean
+5/18/20,South Africa,16433,286,7298,8849,918,22,292,Africa
+5/18/20,Spain,231606,27709,150376,53521,908,146,3930,Europe
+5/18/20,Turkey,150593,4171,111577,34845,1158,31,1615,Europe
+5/18/20,US,1514901,91414,283178,1140309,21769,770,10913,Americas
+5/18/20,United Kingdom,233809,34918,1090,197801,2577,160,32,Europe
+5/19/20,Argentina,8809,393,2872,5544,438,11,247,Americas
+5/19/20,Bangladesh,25121,370,4993,19758,1251,21,408,South-East Asia
+5/19/20,Brazil,271885,17983,106794,147108,16517,1130,6335,Americas
+5/19/20,Chile,58167,509,21507,36151,3520,31,1342,Americas
+5/19/20,Colombia,16935,613,4050,12272,640,21,147,Americas
+5/19/20,France,180933,28025,62678,90230,882,-217,835,Europe
+5/19/20,Germany,177778,8081,155681,14016,1227,78,640,Europe
+5/19/20,India,106475,3302,42309,60864,6147,146,3076,South-East Asia
+5/19/20,Iran,124603,7119,97173,20311,2111,62,1512,Eastern Mediterranean
+5/19/20,Italy,226699,32169,129401,65129,813,162,2075,Europe
+5/19/20,Mexico,54346,5666,37325,11355,2713,334,1937,Americas
+5/19/20,Pakistan,45898,985,13101,31812,1932,46,612,Eastern Mediterranean
+5/19/20,Peru,99483,2914,36524,60045,4550,125,6218,Americas
+5/19/20,Russia,299941,2837,76130,220974,9263,115,5921,Europe
+5/19/20,Saudi Arabia,59854,329,31634,27891,2509,9,2886,Eastern Mediterranean
+5/19/20,South Africa,17200,312,7960,8928,767,26,662,Africa
+5/19/20,Spain,232037,27778,150376,53883,431,69,0,Europe
+5/19/20,Turkey,151615,4199,112895,34521,1022,28,1318,Europe
+5/19/20,US,1535350,92965,289392,1152993,20449,1551,6214,Americas
+5/19/20,United Kingdom,236867,35467,1099,200301,3058,549,9,Europe
+5/20/20,Argentina,9283,403,2933,5947,474,10,61,Americas
+5/20/20,Bangladesh,26738,386,5207,21145,1617,16,214,South-East Asia
+5/20/20,Brazil,291579,18859,116683,156037,19694,876,9889,Americas
+5/20/20,Chile,62205,544,22504,39157,4038,35,997,Americas
+5/20/20,Colombia,17687,630,4256,12801,752,17,206,Americas
+5/20/20,France,181700,28135,63472,90093,767,110,794,Europe
+5/20/20,Germany,178473,8144,156966,13363,695,63,1285,Europe
+5/20/20,India,112028,3434,45422,63172,5553,132,3113,South-East Asia
+5/20/20,Iran,126949,7183,98808,20958,2346,64,1635,Eastern Mediterranean
+5/20/20,Italy,227364,32330,132282,62752,665,161,2881,Europe
+5/20/20,Mexico,56594,6090,38419,12085,2248,424,1094,Americas
+5/20/20,Pakistan,48091,1017,14155,32919,2193,32,1054,Eastern Mediterranean
+5/20/20,Peru,104020,3024,41968,59028,4537,110,5444,Americas
+5/20/20,Russia,308705,2972,85392,220341,8764,135,9262,Europe
+5/20/20,Saudi Arabia,62545,339,33478,28728,2691,10,1844,Eastern Mediterranean
+5/20/20,South Africa,18003,339,8950,8714,803,27,990,Africa
+5/20/20,Spain,232555,27888,150376,54291,518,110,0,Europe
+5/20/20,Turkey,152587,4222,113987,34378,972,23,1092,Europe
+5/20/20,US,1559157,94533,294312,1170312,23807,1568,4920,Americas
+5/20/20,United Kingdom,239579,35837,1116,202626,2712,370,17,Europe
+5/21/20,Argentina,9931,416,3032,6483,648,13,99,Americas
+5/21/20,Bangladesh,28511,408,5602,22501,1773,22,395,South-East Asia
+5/21/20,Brazil,310087,20047,125960,164080,18508,1188,9277,Americas
+5/21/20,Chile,66169,589,23992,41588,3964,45,1488,Americas
+5/21/20,Colombia,18330,652,4431,13247,643,22,175,Americas
+5/21/20,France,181951,28218,63976,89757,251,83,504,Europe
+5/21/20,Germany,179021,8203,158087,12731,548,59,1121,Europe
+5/21/20,India,118226,3584,48553,66089,6198,150,3131,South-East Asia
+5/21/20,Iran,129341,7249,100564,21528,2392,66,1756,Eastern Mediterranean
+5/21/20,Italy,228006,32486,134560,60960,642,156,2278,Europe
+5/21/20,Mexico,59567,6510,40152,12905,2973,420,1733,Americas
+5/21/20,Pakistan,50694,1067,15201,34426,2603,50,1046,Eastern Mediterranean
+5/21/20,Peru,108769,3148,43587,62034,4749,124,1619,Americas
+5/21/20,Russia,317554,3099,92681,221774,8849,127,7289,Europe
+5/21/20,Saudi Arabia,65077,351,36040,28686,2532,12,2562,Eastern Mediterranean
+5/21/20,South Africa,19137,369,8950,9818,1134,30,0,Africa
+5/21/20,Spain,233037,27940,150376,54721,482,52,0,Europe
+5/21/20,Turkey,153548,4249,114990,34309,961,27,1003,Europe
+5/21/20,US,1584512,95756,298418,1190338,25355,1223,4106,Americas
+5/21/20,United Kingdom,242133,36175,1134,204824,2554,338,18,Europe
+5/22/20,Argentina,10649,433,3062,7154,718,17,30,Americas
+5/22/20,Bangladesh,30205,432,6190,23583,1694,24,588,South-East Asia
+5/22/20,Brazil,330890,21048,135430,174412,20803,1001,9470,Americas
+5/22/20,Chile,70445,630,25342,44473,4276,41,1350,Americas
+5/22/20,Colombia,19131,682,4575,13874,801,30,144,Americas
+5/22/20,France,182354,28292,64327,89735,403,74,351,Europe
+5/22/20,Germany,179710,8228,159064,12418,689,25,977,Europe
+5/22/20,India,124794,3726,51824,69244,6568,142,3271,South-East Asia
+5/22/20,Iran,131652,7300,102276,22076,2311,51,1712,Eastern Mediterranean
+5/22/20,Italy,228658,32616,136720,59322,652,130,2160,Europe
+5/22/20,Mexico,62527,6989,42191,13347,2960,479,2039,Americas
+5/22/20,Pakistan,52437,1101,16653,34683,1743,34,1452,Eastern Mediterranean
+5/22/20,Peru,111698,3244,44848,63606,2929,96,1261,Americas
+5/22/20,Russia,326448,3249,99825,223374,8894,150,7144,Europe
+5/22/20,Saudi Arabia,67719,364,39003,28352,2642,13,2963,Eastern Mediterranean
+5/22/20,South Africa,20125,397,10104,9624,988,28,1154,Africa
+5/22/20,Spain,234824,28628,150376,55820,1787,688,0,Europe
+5/22/20,Turkey,154500,4276,116111,34113,952,27,1121,Europe
+5/22/20,US,1608653,97025,350135,1161493,24141,1269,51717,Americas
+5/22/20,United Kingdom,244174,36533,1142,206499,2041,358,8,Europe
+5/23/20,Argentina,11353,445,3530,7378,704,12,468,Americas
+5/23/20,Bangladesh,32078,452,6486,25140,1873,20,296,South-East Asia
+5/23/20,Brazil,347398,22013,142587,182798,16508,965,7157,Americas
+5/23/20,Chile,80287,673,26546,53068,9842,43,1204,Americas
+5/23/20,Colombia,20177,705,4718,14754,1046,23,143,Americas
+5/23/20,France,182694,28335,64665,89694,340,43,338,Europe
+5/23/20,Germany,179986,8261,159716,12009,276,33,652,Europe
+5/23/20,India,131423,3868,54385,73170,6629,142,2561,South-East Asia
+5/23/20,Iran,133521,7359,104072,22090,1869,59,1796,Eastern Mediterranean
+5/23/20,Italy,229327,32735,138840,57752,669,119,2120,Europe
+5/23/20,Mexico,65856,7179,44424,14253,3329,190,2233,Americas
+5/23/20,Pakistan,54601,1133,17198,36270,2164,32,545,Eastern Mediterranean
+5/23/20,Peru,115754,3373,47915,64466,4056,129,3067,Americas
+5/23/20,Russia,335882,3388,107936,224558,9434,139,8111,Europe
+5/23/20,Saudi Arabia,70161,379,41236,28546,2442,15,2233,Eastern Mediterranean
+5/23/20,South Africa,21343,407,10104,10832,1218,10,0,Africa
+5/23/20,Spain,235290,28678,150376,56236,466,50,0,Europe
+5/23/20,Turkey,155686,4308,117602,33776,1186,32,1491,Europe
+5/23/20,US,1630476,98146,361239,1171091,21823,1121,11104,Americas
+5/23/20,United Kingdom,245682,36816,1149,207717,1508,283,7,Europe
+5/24/20,Argentina,12076,452,3732,7892,723,7,202,Americas
+5/24/20,Bangladesh,33610,480,6901,26229,1532,28,415,South-East Asia
+5/24/20,Brazil,363211,22666,149911,190634,15813,653,7324,Americas
+5/24/20,Chile,83996,718,28148,55130,3709,45,1602,Americas
+5/24/20,Colombia,21175,727,5016,15432,998,22,298,Americas
+5/24/20,France,182709,28370,64735,89604,15,35,70,Europe
+5/24/20,Germany,180328,8283,160281,11764,342,22,565,Europe
+5/24/20,India,138536,4024,57692,76820,7113,156,3307,South-East Asia
+5/24/20,Iran,135701,7417,105801,22483,2180,58,1729,Eastern Mediterranean
+5/24/20,Italy,229858,32785,140479,56594,531,50,1639,Europe
+5/24/20,Mexico,68620,7394,46979,14247,2764,215,2555,Americas
+5/24/20,Pakistan,56349,1167,17482,37700,1748,34,284,Eastern Mediterranean
+5/24/20,Peru,119959,3456,49795,66708,4205,83,1880,Americas
+5/24/20,Russia,344481,3541,113299,227641,8599,153,5363,Europe
+5/24/20,Saudi Arabia,72560,390,43520,28650,2399,11,2284,Eastern Mediterranean
+5/24/20,South Africa,22583,429,11100,11054,1240,22,996,Africa
+5/24/20,Spain,235772,28752,150376,56644,482,74,0,Europe
+5/24/20,Turkey,156827,4340,118694,33793,1141,32,1092,Europe
+5/24/20,US,1651289,98754,366736,1185799,20813,608,5497,Americas
+5/24/20,United Kingdom,247037,37257,1151,208629,1355,441,2,Europe
+5/25/20,Argentina,12628,467,3999,8162,552,15,267,Americas
+5/25/20,Bangladesh,35585,501,7334,27750,1975,21,433,South-East Asia
+5/25/20,Brazil,374898,23473,153833,197592,11687,807,3922,Americas
+5/25/20,Chile,88891,761,29302,58828,4895,43,1154,Americas
+5/25/20,Colombia,21981,750,5265,15966,806,23,249,Americas
+5/25/20,France,183067,28460,65317,89290,358,90,582,Europe
+5/25/20,Germany,180600,8309,161199,11092,272,26,918,Europe
+5/25/20,India,144950,4172,60706,80072,6414,148,3014,South-East Asia
+5/25/20,Iran,137724,7451,107713,22560,2023,34,1912,Eastern Mediterranean
+5/25/20,Italy,230158,32877,141981,55300,300,92,1502,Europe
+5/25/20,Mexico,71105,7633,49452,14020,2485,239,2473,Americas
+5/25/20,Pakistan,57705,1197,18314,38194,1356,30,832,Eastern Mediterranean
+5/25/20,Peru,123979,3629,50949,69401,4020,173,1154,Americas
+5/25/20,Russia,353427,3633,118798,230996,8946,92,5499,Europe
+5/25/20,Saudi Arabia,74795,399,45668,28728,2235,9,2148,Eastern Mediterranean
+5/25/20,South Africa,23615,481,11917,11217,1032,52,817,Africa
+5/25/20,Spain,235400,26834,150376,58190,0,-1918,0,Europe
+5/25/20,Turkey,157814,4369,120015,33430,987,29,1321,Europe
+5/25/20,US,1670280,99267,379157,1191856,18991,513,12421,Americas
+5/25/20,United Kingdom,248650,37379,1161,210110,1613,122,10,Europe
+5/26/20,Argentina,13228,484,4167,8577,600,17,168,Americas
+5/26/20,Bangladesh,36751,522,7579,28650,1166,21,245,South-East Asia
+5/26/20,Brazil,391222,24512,158593,208117,16324,1039,4760,Americas
+5/26/20,Chile,92855,806,30915,61134,3964,45,1613,Americas
+5/26/20,Colombia,23003,776,5511,16716,1022,26,246,Americas
+5/26/20,France,182847,28533,65997,88317,0,73,680,Europe
+5/26/20,Germany,181200,8372,161967,10861,600,63,768,Europe
+5/26/20,India,150793,4344,64277,82172,5843,172,3571,South-East Asia
+5/26/20,Iran,139511,7508,109437,22566,1787,57,1724,Eastern Mediterranean
+5/26/20,Italy,230555,32955,144658,52942,397,78,2677,Europe
+5/26/20,Mexico,74560,8134,51708,14718,3455,501,2256,Americas
+5/26/20,Pakistan,59151,1225,19142,38784,1446,28,828,Eastern Mediterranean
+5/26/20,Peru,129751,3788,52906,73057,5772,159,1957,Americas
+5/26/20,Russia,362342,3807,131129,227406,8915,174,12331,Europe
+5/26/20,Saudi Arabia,76726,411,48450,27865,1931,12,2782,Eastern Mediterranean
+5/26/20,South Africa,24264,524,12741,10999,649,43,824,Africa
+5/26/20,Spain,236259,27117,150376,58766,859,283,0,Europe
+5/26/20,Turkey,158762,4397,121507,32858,948,28,1492,Europe
+5/26/20,US,1689163,99952,384902,1204309,18883,685,5745,Americas
+5/26/20,United Kingdom,250309,37515,1161,211633,1659,136,0,Europe
+5/27/20,Argentina,13933,500,4349,9084,705,16,182,Americas
+5/27/20,Bangladesh,38292,544,7925,29823,1541,22,346,South-East Asia
+5/27/20,Brazil,411821,25598,166647,219576,20599,1086,8054,Americas
+5/27/20,Chile,97183,841,33540,62802,4328,35,2625,Americas
+5/27/20,Colombia,24104,803,6111,17190,1101,27,600,Americas
+5/27/20,France,183038,28599,66702,87737,191,66,705,Europe
+5/27/20,Germany,181524,8428,162820,10276,324,56,853,Europe
+5/27/20,India,158086,4534,67749,85803,7293,190,3472,South-East Asia
+5/27/20,Iran,141591,7564,111176,22851,2080,56,1739,Eastern Mediterranean
+5/27/20,Italy,231139,33072,147101,50966,584,117,2443,Europe
+5/27/20,Mexico,78023,8597,53834,15592,3463,463,2126,Americas
+5/27/20,Pakistan,61227,1260,20231,39736,2076,35,1089,Eastern Mediterranean
+5/27/20,Peru,135905,3983,56169,75753,6154,195,3263,Americas
+5/27/20,Russia,370680,3968,142208,224504,8338,161,11079,Europe
+5/27/20,Saudi Arabia,78541,425,51022,27094,1815,14,2572,Eastern Mediterranean
+5/27/20,South Africa,25937,552,13451,11934,1673,28,710,Africa
+5/27/20,Spain,236259,27117,150376,58766,0,0,0,Europe
+5/27/20,Turkey,159797,4431,122793,32573,1035,34,1286,Europe
+5/27/20,US,1707445,101461,391508,1214476,18282,1509,6606,Americas
+5/27/20,United Kingdom,252118,37958,1166,212994,1809,443,5,Europe
+5/28/20,Argentina,14702,508,4617,9577,769,8,268,Americas
+5/28/20,Bangladesh,40321,559,8425,31337,2029,15,500,South-East Asia
+5/28/20,Brazil,438238,26754,177604,233880,26417,1156,10957,Americas
+5/28/20,Chile,101837,890,36115,64832,4654,49,2575,Americas
+5/28/20,Colombia,25366,822,6132,18412,1262,19,21,Americas
+5/28/20,France,186364,28665,67309,90390,3326,66,607,Europe
+5/28/20,Germany,182196,8470,163360,10366,672,42,540,Europe
+5/28/20,India,165386,4711,70920,89755,7300,177,3171,South-East Asia
+5/28/20,Iran,143849,7627,112988,23234,2258,63,1812,Eastern Mediterranean
+5/28/20,Italy,231732,33142,150604,47986,593,70,3503,Europe
+5/28/20,Mexico,81400,9044,56041,16315,3377,447,2207,Americas
+5/28/20,Pakistan,64028,1317,22305,40406,2801,57,2074,Eastern Mediterranean
+5/28/20,Peru,141779,4099,59442,78238,5874,116,3273,Americas
+5/28/20,Russia,379051,4142,150993,223916,8371,174,8785,Europe
+5/28/20,Saudi Arabia,80185,441,54553,25191,1644,16,3531,Eastern Mediterranean
+5/28/20,South Africa,27403,577,14370,12456,1466,25,919,Africa
+5/28/20,Spain,237906,27119,150376,60411,1647,2,0,Europe
+5/28/20,Turkey,160979,4461,124369,32149,1182,30,1576,Europe
+5/28/20,US,1730260,102643,399991,1227626,22815,1182,8483,Americas
+5/28/20,United Kingdom,253854,38374,1167,214313,1736,416,1,Europe
+5/29/20,Argentina,15419,520,4788,10111,717,12,171,Americas
+5/29/20,Bangladesh,42844,582,9015,33247,2523,23,590,South-East Asia
+5/29/20,Brazil,465166,27878,189476,247812,26928,1124,11872,Americas
+5/29/20,Chile,105532,944,38598,65990,3695,54,2483,Americas
+5/29/20,Colombia,26688,853,6687,19148,1322,31,555,Americas
+5/29/20,France,186923,28717,67921,90285,559,52,612,Europe
+5/29/20,Germany,182922,8504,164245,10173,726,34,885,Europe
+5/29/20,India,173491,4980,82627,85884,8105,269,11707,South-East Asia
+5/29/20,Iran,146668,7677,114931,24060,2819,50,1943,Eastern Mediterranean
+5/29/20,Italy,232248,33229,152844,46175,516,87,2240,Europe
+5/29/20,Mexico,84627,9415,59003,16209,3227,371,2962,Americas
+5/29/20,Pakistan,66457,1395,24131,40931,2429,78,1826,Eastern Mediterranean
+5/29/20,Peru,148285,4230,62791,81264,6506,131,3349,Americas
+5/29/20,Russia,387623,4374,159257,223992,8572,232,8264,Europe
+5/29/20,Saudi Arabia,81766,458,57013,24295,1581,17,2460,Eastern Mediterranean
+5/29/20,South Africa,29240,611,15093,13536,1837,34,723,Africa
+5/29/20,Spain,238564,27121,150376,61067,658,2,0,Europe
+5/29/20,Turkey,162120,4489,125963,31668,1141,28,1594,Europe
+5/29/20,US,1754764,103809,406446,1244509,24504,1166,6455,Americas
+5/29/20,United Kingdom,255362,38747,1172,215443,1508,373,5,Europe
+5/30/20,Argentina,16214,528,4788,10898,795,8,0,Americas
+5/30/20,Bangladesh,44608,610,9375,34623,1764,28,360,South-East Asia
+5/30/20,Brazil,498440,28834,200892,268714,33274,956,11416,Americas
+5/30/20,Chile,118720,997,40431,77292,13188,53,1833,Americas
+5/30/20,Colombia,28236,890,6935,20411,1548,37,248,Americas
+5/30/20,France,188752,28774,68386,91592,1829,57,465,Europe
+5/30/20,Germany,183189,8530,164908,9751,267,26,663,Europe
+5/30/20,India,181827,5185,86936,89706,8336,205,4309,South-East Asia
+5/30/20,Iran,148950,7734,116827,24389,2282,57,1896,Eastern Mediterranean
+5/30/20,Italy,232664,33340,155633,43691,416,111,2789,Europe
+5/30/20,Mexico,87512,9779,61247,16486,2885,364,2244,Americas
+5/30/20,Pakistan,69496,1483,25271,42742,3039,88,1140,Eastern Mediterranean
+5/30/20,Peru,155671,4371,66447,84853,7386,141,3656,Americas
+5/30/20,Russia,396575,4555,167469,224551,8952,181,8212,Europe
+5/30/20,Saudi Arabia,83384,480,58883,24021,1618,22,1870,Eastern Mediterranean
+5/30/20,South Africa,30967,643,16116,14208,1727,32,1023,Africa
+5/30/20,Spain,239228,27125,150376,61727,664,4,0,Europe
+5/30/20,Turkey,163103,4515,126984,31604,983,26,1021,Europe
+5/30/20,US,1779214,104778,416461,1257975,24450,969,10015,Americas
+5/30/20,United Kingdom,256469,38977,1187,216305,1107,230,15,Europe
+5/31/20,Argentina,16851,539,5336,10976,637,11,548,Americas
+5/31/20,Bangladesh,47153,650,9781,36722,2545,40,406,South-East Asia
+5/31/20,Brazil,514849,29314,206555,278980,16409,480,5663,Americas
+5/31/20,Chile,123550,1054,42727,79769,4830,57,2296,Americas
+5/31/20,Colombia,29383,939,7032,21412,1147,49,97,Americas
+5/31/20,France,189009,28805,68473,91731,257,31,87,Europe
+5/31/20,Germany,183410,8540,165352,9518,221,10,444,Europe
+5/31/20,India,190609,5408,91852,93349,8782,223,4916,South-East Asia
+5/31/20,Iran,151466,7797,118848,24821,2516,63,2021,Eastern Mediterranean
+5/31/20,Italy,232997,33415,157507,42075,333,75,1874,Europe
+5/31/20,Mexico,90664,9930,63772,16962,3152,151,2525,Americas
+5/31/20,Pakistan,72460,1543,26083,44834,2964,60,812,Eastern Mediterranean
+5/31/20,Peru,164476,4506,67208,92762,8805,135,761,Americas
+5/31/20,Russia,405843,4693,171883,229267,9268,138,4414,Europe
+5/31/20,Saudi Arabia,85261,503,62442,22316,1877,23,3559,Eastern Mediterranean
+5/31/20,South Africa,32683,683,16809,15191,1716,40,693,Africa
+5/31/20,Spain,239479,27127,150376,61976,251,2,0,Europe
+5/31/20,Turkey,163942,4540,127973,31429,839,25,989,Europe
+5/31/20,US,1799124,105364,444758,1249002,19910,586,28297,Americas
+5/31/20,United Kingdom,257539,39092,1190,217257,1070,115,3,Europe
+6/1/20,Argentina,17415,556,5521,11338,564,17,185,Americas
+6/1/20,Bangladesh,49534,672,10597,38265,2381,22,816,South-East Asia
+6/1/20,Brazil,526447,29937,211080,285430,11598,623,4525,Americas
+6/1/20,Chile,129020,1113,44946,82961,5470,59,2219,Americas
+6/1/20,Colombia,30493,969,8384,21140,1110,30,1352,Americas
+6/1/20,France,189348,28836,68558,91954,339,31,85,Europe
+6/1/20,Germany,183594,8555,165632,9407,184,15,280,Europe
+6/1/20,India,198370,5608,95754,97008,7761,200,3902,South-East Asia
+6/1/20,Iran,154445,7878,121004,25563,2979,81,2156,Eastern Mediterranean
+6/1/20,Italy,233197,33475,158355,41367,200,60,848,Europe
+6/1/20,Mexico,93435,10167,66965,16303,2771,237,3193,Americas
+6/1/20,Pakistan,76398,1621,27110,47667,3938,78,1027,Eastern Mediterranean
+6/1/20,Peru,170039,4634,68507,96898,5563,128,1299,Americas
+6/1/20,Russia,414328,4849,175514,233965,8485,156,3631,Europe
+6/1/20,Saudi Arabia,87142,525,64306,22311,1881,22,1864,Eastern Mediterranean
+6/1/20,South Africa,34357,705,17291,16361,1674,22,482,Africa
+6/1/20,Spain,239638,27127,150376,62135,159,0,0,Europe
+6/1/20,Turkey,164769,4563,128947,31259,827,23,974,Europe
+6/1/20,US,1816479,106136,458231,1252112,17355,772,13473,Americas
+6/1/20,United Kingdom,258983,39203,1221,218559,1444,111,31,Europe
+6/2/20,Argentina,18319,569,5709,12041,904,13,188,Americas
+6/2/20,Bangladesh,52445,709,11120,40616,2911,37,523,South-East Asia
+6/2/20,Brazil,555383,31199,223638,300546,28936,1262,12558,Americas
+6/2/20,Chile,132548,1188,86173,45187,3528,75,41227,Americas
+6/2/20,Colombia,31833,1009,9689,21135,1340,40,1305,Americas
+6/2/20,France,188582,28943,68930,90709,0,107,372,Europe
+6/2/20,Germany,183879,8563,166609,8707,285,8,977,Europe
+6/2/20,India,207191,5829,100285,101077,8821,221,4531,South-East Asia
+6/2/20,Iran,157562,7942,123077,26543,3117,64,2073,Eastern Mediterranean
+6/2/20,Italy,233515,33530,160092,39893,318,55,1737,Europe
+6/2/20,Mexico,97326,10637,69749,16940,3891,470,2784,Americas
+6/2/20,Pakistan,80463,1688,28923,49852,4065,67,1813,Eastern Mediterranean
+6/2/20,Peru,178165,4767,69257,104141,8126,133,750,Americas
+6/2/20,Russia,423186,5031,186602,231553,8858,182,11088,Europe
+6/2/20,Saudi Arabia,89011,549,65790,22672,1869,24,1484,Eastern Mediterranean
+6/2/20,South Africa,35812,755,18313,16744,1455,50,1022,Africa
+6/2/20,Spain,239932,27127,150376,62429,294,0,0,Europe
+6/2/20,Turkey,165555,4585,129921,31049,786,22,974,Europe
+6/2/20,US,1837374,107169,463868,1266337,20895,1033,5637,Americas
+6/2/20,United Kingdom,260453,39530,1224,219699,1470,327,3,Europe
+6/3/20,Argentina,19268,583,5896,12789,949,14,187,Americas
+6/3/20,Bangladesh,55140,746,11590,42804,2695,37,470,South-East Asia
+6/3/20,Brazil,584016,32548,238617,312851,28633,1349,14979,Americas
+6/3/20,Chile,137490,1275,90748,45467,4942,87,4575,Americas
+6/3/20,Colombia,33354,1045,11171,21138,1521,36,1482,Americas
+6/3/20,France,188934,29024,69573,90337,352,81,643,Europe
+6/3/20,Germany,184121,8602,167453,8066,242,39,844,Europe
+6/3/20,India,216824,6088,104071,106665,9633,259,3786,South-East Asia
+6/3/20,Iran,160696,8012,125206,27478,3134,70,2129,Eastern Mediterranean
+6/3/20,Italy,233836,33601,160938,39297,321,71,846,Europe
+6/3/20,Mexico,101238,11729,72680,16829,3912,1092,2931,Americas
+6/3/20,Pakistan,85264,1770,30128,53366,4801,82,1205,Eastern Mediterranean
+6/3/20,Peru,178914,4894,72319,101701,749,127,3062,Americas
+6/3/20,Russia,431715,5208,195559,230948,8529,177,8957,Europe
+6/3/20,Saudi Arabia,91182,579,68159,22444,2171,30,2369,Eastern Mediterranean
+6/3/20,South Africa,37525,792,19682,17051,1713,37,1369,Africa
+6/3/20,Spain,240326,27128,150376,62822,394,1,0,Europe
+6/3/20,Turkey,166422,4609,130852,30961,867,24,931,Europe
+6/3/20,US,1857332,108159,479258,1269915,19958,990,15390,Americas
+6/3/20,United Kingdom,261802,39895,1212,220695,1349,365,-12,Europe
+6/4/20,Argentina,20197,608,5993,13596,929,25,97,Americas
+6/4/20,Bangladesh,57563,781,12161,44621,2423,35,571,South-East Asia
+6/4/20,Brazil,614941,34021,254963,325957,30925,1473,16346,Americas
+6/4/20,Chile,142154,1356,95631,45167,4664,81,4883,Americas
+6/4/20,Colombia,35120,1087,12319,21714,1766,42,1148,Americas
+6/4/20,France,189701,29068,70094,90539,767,44,521,Europe
+6/4/20,Germany,184472,8635,167909,7928,351,33,456,Europe
+6/4/20,India,226713,6363,108450,111900,9889,275,4379,South-East Asia
+6/4/20,Iran,164270,8071,127485,28714,3574,59,2279,Eastern Mediterranean
+6/4/20,Italy,234013,33689,161895,38429,177,88,957,Europe
+6/4/20,Mexico,105680,12545,74758,18377,4442,816,2078,Americas
+6/4/20,Pakistan,89249,1838,31198,56213,3985,68,1070,Eastern Mediterranean
+6/4/20,Peru,183198,5031,76228,101939,4284,137,3909,Americas
+6/4/20,Russia,440538,5376,204197,230965,8823,168,8638,Europe
+6/4/20,Saudi Arabia,93157,611,68965,23581,1975,32,806,Eastern Mediterranean
+6/4/20,South Africa,40792,848,21311,18633,3267,56,1629,Africa
+6/4/20,Spain,240660,27133,150376,63151,334,5,0,Europe
+6/4/20,Turkey,167410,4630,131778,31002,988,21,926,Europe
+6/4/20,US,1878683,109168,485002,1284513,21351,1009,5744,Americas
+6/4/20,United Kingdom,263040,40072,1219,221749,1238,177,7,Europe
+6/5/20,Argentina,21037,632,6088,14317,840,24,95,Americas
+6/5/20,Bangladesh,60391,811,12804,46776,2828,30,643,South-East Asia
+6/5/20,Brazil,645771,35026,266940,343805,30830,1005,11977,Americas
+6/5/20,Chile,146361,1448,99358,45555,4207,92,3727,Americas
+6/5/20,Colombia,36635,1145,13670,21820,1515,58,1351,Americas
+6/5/20,France,190312,29114,70622,90576,611,46,528,Europe
+6/5/20,Germany,184924,8658,168480,7786,452,23,571,Europe
+6/5/20,India,236184,6649,113233,116302,9471,286,4783,South-East Asia
+6/5/20,Iran,167156,8134,129741,29281,2886,63,2256,Eastern Mediterranean
+6/5/20,Italy,234531,33774,163781,36976,518,85,1886,Europe
+6/5/20,Mexico,110026,13170,77841,19015,4346,625,3083,Americas
+6/5/20,Pakistan,93983,1935,32581,59467,4734,97,1383,Eastern Mediterranean
+6/5/20,Peru,187400,5162,79214,103024,4202,131,2986,Americas
+6/5/20,Russia,449256,5520,212237,231499,8718,144,8040,Europe
+6/5/20,Saudi Arabia,95748,642,70616,24490,2591,31,1651,Eastern Mediterranean
+6/5/20,South Africa,43434,908,23088,19438,2642,60,1777,Africa
+6/5/20,Spain,240978,27134,150376,63468,318,1,0,Europe
+6/5/20,Turkey,168340,4648,133400,30292,930,18,1622,Europe
+6/5/20,US,1903907,110138,491706,1302063,25224,970,6704,Americas
+6/5/20,United Kingdom,264150,40430,1228,222492,1110,358,9,Europe
+6/6/20,Argentina,22020,648,6180,15192,983,16,92,Americas
+6/6/20,Bangladesh,63026,846,13325,48855,2635,35,521,South-East Asia
+6/6/20,Brazil,672846,35930,277149,359767,27075,904,10209,Americas
+6/6/20,Chile,160351,1541,103817,54993,13990,93,4459,Americas
+6/6/20,Colombia,38027,1205,13670,23152,1392,60,0,Americas
+6/6/20,France,190891,29145,70924,90822,579,31,302,Europe
+6/6/20,Germany,185450,8673,168958,7819,526,15,478,Europe
+6/6/20,India,246622,6946,118695,120981,10438,297,5462,South-East Asia
+6/6/20,Iran,169425,8209,132038,29178,2269,75,2297,Eastern Mediterranean
+6/6/20,Italy,234801,33846,165078,35877,270,72,1297,Europe
+6/6/20,Mexico,113619,13511,80830,19278,3593,341,2989,Americas
+6/6/20,Pakistan,98943,2002,33465,63476,4960,67,884,Eastern Mediterranean
+6/6/20,Peru,191758,5301,82731,103726,4358,139,3517,Americas
+6/6/20,Russia,458102,5717,220935,231450,8846,197,8698,Europe
+6/6/20,Saudi Arabia,98869,676,71791,26402,3121,34,1175,Eastern Mediterranean
+6/6/20,South Africa,45973,952,24258,20763,2539,44,1170,Africa
+6/6/20,Spain,241310,27135,150376,63799,332,1,0,Europe
+6/6/20,Turkey,169218,4669,135322,29227,878,21,1922,Europe
+6/6/20,US,1926639,110818,500849,1314972,22732,680,9143,Americas
+6/6/20,United Kingdom,264944,40637,1230,223077,794,207,2,Europe
+6/7/20,Argentina,22794,664,6909,15221,774,16,729,Americas
+6/7/20,Bangladesh,65769,888,13903,50978,2743,42,578,South-East Asia
+6/7/20,Brazil,691758,36455,283952,371351,18912,525,6803,Americas
+6/7/20,Chile,166756,1637,108150,56969,6405,96,4333,Americas
+6/7/20,Colombia,39236,1259,14414,23563,1209,54,744,Americas
+6/7/20,France,191234,29158,70961,91115,343,13,37,Europe
+6/7/20,Germany,185750,8685,169224,7841,300,12,266,Europe
+6/7/20,India,257486,7207,123848,126431,10864,261,5153,South-East Asia
+6/7/20,Iran,171789,8281,134349,29159,2364,72,2311,Eastern Mediterranean
+6/7/20,Italy,234998,33899,165837,35262,197,53,759,Europe
+6/7/20,Mexico,117103,13699,83775,19629,3484,188,2945,Americas
+6/7/20,Pakistan,103671,2067,34355,67249,4728,65,890,Eastern Mediterranean
+6/7/20,Peru,196515,5465,86219,104831,4757,164,3488,Americas
+6/7/20,Russia,467073,5851,226272,234950,8971,134,5337,Europe
+6/7/20,Saudi Arabia,101914,712,72817,28385,3045,36,1026,Eastern Mediterranean
+6/7/20,South Africa,48285,998,24364,22923,2312,46,106,Africa
+6/7/20,Spain,241550,27136,150376,64038,240,1,0,Europe
+6/7/20,Turkey,170132,4692,137969,27471,914,23,2647,Europe
+6/7/20,US,1944370,111269,506367,1326734,17731,451,5518,Americas
+6/7/20,United Kingdom,265662,40714,1239,223709,718,77,9,Europe
+6/8/20,Argentina,23620,693,7305,15622,826,29,396,Americas
+6/8/20,Bangladesh,68504,930,14560,53014,2735,42,657,South-East Asia
+6/8/20,Brazil,707412,37134,378257,292021,15654,679,94305,Americas
+6/8/20,Chile,171452,2264,112248,56940,4696,627,4098,Americas
+6/8/20,Colombia,40719,1308,16459,22952,1483,49,2045,Americas
+6/8/20,France,191445,29212,71182,91051,211,54,221,Europe
+6/8/20,Germany,186109,8695,169556,7858,359,10,332,Europe
+6/8/20,India,265928,7473,129095,129360,8442,266,5247,South-East Asia
+6/8/20,Iran,173832,8351,136360,29121,2043,70,2011,Eastern Mediterranean
+6/8/20,Italy,235278,33964,166584,34730,280,65,747,Europe
+6/8/20,Mexico,120102,14053,87633,18416,2999,354,3858,Americas
+6/8/20,Pakistan,108317,2172,35018,71127,4646,105,663,Eastern Mediterranean
+6/8/20,Peru,199696,5571,89556,104569,3181,106,3337,Americas
+6/8/20,Russia,476043,5963,230226,239854,8970,112,3954,Europe
+6/8/20,Saudi Arabia,105283,746,74524,30013,3369,34,1707,Eastern Mediterranean
+6/8/20,South Africa,50879,1080,26099,23700,2594,82,1735,Africa
+6/8/20,Spain,241717,27136,150376,64205,167,0,0,Europe
+6/8/20,Turkey,171121,4711,141380,25030,989,19,3411,Europe
+6/8/20,US,1961785,111774,518522,1331489,17415,505,12155,Americas
+6/8/20,United Kingdom,266756,40769,1255,224732,1094,55,16,Europe
+6/9/20,Argentina,24761,717,7568,16476,1141,24,263,Americas
+6/9/20,Bangladesh,71675,975,15337,55363,3171,45,777,South-East Asia
+6/9/20,Brazil,739503,38406,396737,304360,32091,1272,18480,Americas
+6/9/20,Chile,175365,2283,117361,55721,3913,19,5113,Americas
+6/9/20,Colombia,42078,1372,16459,24247,1359,64,0,Americas
+6/9/20,France,191849,29299,71626,90924,404,87,444,Europe
+6/9/20,Germany,186506,8736,170129,7641,397,41,573,Europe
+6/9/20,India,276146,7750,134670,133726,10218,277,5575,South-East Asia
+6/9/20,Iran,175927,8425,138457,29045,2095,74,2097,Eastern Mediterranean
+6/9/20,Italy,235561,34043,168646,32872,283,79,2062,Europe
+6/9/20,Mexico,124301,14649,90748,18904,4199,596,3115,Americas
+6/9/20,Pakistan,113702,2255,36308,75139,5385,83,1290,Eastern Mediterranean
+6/9/20,Peru,203736,5738,92929,105069,4040,167,3373,Americas
+6/9/20,Russia,484630,6134,241917,236579,8587,171,11691,Europe
+6/9/20,Saudi Arabia,108571,783,76339,31449,3288,37,1815,Eastern Mediterranean
+6/9/20,South Africa,52991,1162,29006,22823,2112,82,2907,Africa
+6/9/20,Spain,241966,27136,150376,64454,249,0,0,Europe
+6/9/20,Turkey,172114,4729,144598,22787,993,18,3218,Europe
+6/9/20,US,1979912,112714,524855,1342343,18127,940,6333,Americas
+6/9/20,United Kingdom,267915,41060,1257,225598,1159,291,2,Europe
+6/10/20,Argentina,25987,735,7991,17261,1226,18,423,Americas
+6/10/20,Bangladesh,74865,1012,15900,57953,3190,37,563,South-East Asia
+6/10/20,Brazil,772416,39680,413916,318820,32913,1274,17179,Americas
+6/10/20,Chile,181062,2475,121780,56807,5697,192,4419,Americas
+6/10/20,Colombia,43682,1433,16566,25683,1604,61,107,Americas
+6/10/20,France,192394,29322,71952,91120,545,23,326,Europe
+6/10/20,Germany,186522,8752,170630,7140,16,16,501,Europe
+6/10/20,India,286605,8102,135206,143297,10459,352,536,South-East Asia
+6/10/20,Iran,177938,8506,140590,28842,2011,81,2133,Eastern Mediterranean
+6/10/20,Italy,235763,34114,169939,31710,202,71,1293,Europe
+6/10/20,Mexico,129184,15357,93930,19897,4883,708,3182,Americas
+6/10/20,Pakistan,119536,2356,36308,80872,5834,101,0,Eastern Mediterranean
+6/10/20,Peru,208823,5903,98031,104889,5087,165,5102,Americas
+6/10/20,Russia,493023,6350,252295,234378,8393,216,10378,Europe
+6/10/20,Saudi Arabia,112288,819,77954,33515,3717,36,1615,Eastern Mediterranean
+6/10/20,South Africa,55421,1210,31505,22706,2430,48,2499,Africa
+6/10/20,Spain,242280,27136,150376,64768,314,0,0,Europe
+6/10/20,Turkey,173036,4746,146839,21451,922,17,2241,Europe
+6/10/20,US,2000706,113631,533504,1353571,20794,917,8649,Americas
+6/10/20,United Kingdom,269101,41310,1269,226522,1186,250,12,Europe
+6/11/20,Argentina,27373,765,8332,18276,1386,30,341,Americas
+6/11/20,Bangladesh,78052,1049,16747,60256,3187,37,847,South-East Asia
+6/11/20,Brazil,802828,40919,429965,331944,30412,1239,16049,Americas
+6/11/20,Chile,186698,2648,126444,57606,5636,173,4664,Americas
+6/11/20,Colombia,45212,1488,17366,26358,1530,55,800,Americas
+6/11/20,France,192819,29349,72269,91201,425,27,317,Europe
+6/11/20,Germany,186691,8772,170961,6958,169,20,331,Europe
+6/11/20,India,297535,8498,147195,141842,10930,396,11989,South-East Asia
+6/11/20,Iran,180156,8584,142663,28909,2218,78,2073,Eastern Mediterranean
+6/11/20,Italy,236142,34167,171338,30637,379,53,1399,Europe
+6/11/20,Mexico,133974,15944,97198,20832,4790,587,3268,Americas
+6/11/20,Pakistan,125933,2463,40247,83223,6397,107,3939,Eastern Mediterranean
+6/11/20,Peru,214788,6088,102429,106271,5965,185,4398,Americas
+6/11/20,Russia,501800,6522,260649,234629,8777,172,8354,Europe
+6/11/20,Saudi Arabia,116021,857,80019,35145,3733,38,2065,Eastern Mediterranean
+6/11/20,South Africa,58568,1284,33252,24032,3147,74,1747,Africa
+6/11/20,Spain,242707,27136,150376,65195,427,0,0,Europe
+6/11/20,Turkey,174023,4763,147860,21400,987,17,1021,Europe
+6/11/20,US,2023656,114512,540292,1368852,22950,881,6788,Americas
+6/11/20,United Kingdom,270108,41462,1278,227368,1007,152,9,Europe
+6/12/20,Argentina,28764,785,8743,19236,1391,20,411,Americas
+6/12/20,Bangladesh,81523,1095,17249,63179,3471,46,502,South-East Asia
+6/12/20,Brazil,828810,41828,445123,341859,25982,909,15158,Americas
+6/12/20,Chile,193452,2870,131358,59224,6754,222,4914,Americas
+6/12/20,Colombia,46858,1545,17823,27490,1646,57,457,Americas
+6/12/20,France,193546,29377,72695,91474,727,28,426,Europe
+6/12/20,Germany,187226,8783,171535,6908,535,11,574,Europe
+6/12/20,India,308993,8884,154330,145779,11458,386,7135,South-East Asia
+6/12/20,Iran,182525,8659,144649,29217,2369,75,1986,Eastern Mediterranean
+6/12/20,Italy,236305,34223,173085,28997,163,56,1747,Europe
+6/12/20,Mexico,139196,16448,100876,21872,5222,504,3678,Americas
+6/12/20,Pakistan,125933,2463,40247,83223,0,0,0,Eastern Mediterranean
+6/12/20,Peru,214788,6088,107133,101567,0,0,4704,Americas
+6/12/20,Russia,510761,6705,268862,235194,8961,183,8213,Europe
+6/12/20,Saudi Arabia,119942,893,81029,38020,3921,36,1010,Eastern Mediterranean
+6/12/20,South Africa,61927,1354,35006,25567,3359,70,1754,Africa
+6/12/20,Spain,243209,27136,150376,65697,502,0,0,Europe
+6/12/20,Turkey,175218,4778,149102,21338,1195,15,1242,Europe
+6/12/20,US,2048986,115334,547386,1386266,25330,822,7094,Americas
+6/12/20,United Kingdom,271162,41666,1282,228214,1054,204,4,Europe
+6/13/20,Argentina,30295,815,9083,20397,1531,30,340,Americas
+6/13/20,Bangladesh,84379,1139,17828,65412,2856,44,579,South-East Asia
+6/13/20,Brazil,850514,42720,459436,348358,21704,892,14313,Americas
+6/13/20,Chile,201634,3101,137296,61237,8182,231,5938,Americas
+6/13/20,Colombia,48746,1592,18749,28405,1888,47,926,Americas
+6/13/20,France,194072,29401,72931,91740,526,24,236,Europe
+6/13/20,Germany,187267,8793,171970,6504,41,10,435,Europe
+6/13/20,India,320922,9195,162379,149348,11929,311,8049,South-East Asia
+6/13/20,Iran,184955,8730,146748,29477,2430,71,2099,Eastern Mediterranean
+6/13/20,Italy,236651,34301,174865,27485,346,78,1780,Europe
+6/13/20,Mexico,142690,16872,104078,21740,3494,424,3202,Americas
+6/13/20,Pakistan,132405,2551,50056,79798,6472,88,9809,Eastern Mediterranean
+6/13/20,Peru,220749,6308,111724,102717,5961,220,4591,Americas
+6/13/20,Russia,519458,6819,274128,238511,8697,114,5266,Europe
+6/13/20,Saudi Arabia,123308,932,82548,39828,3366,39,1519,Eastern Mediterranean
+6/13/20,South Africa,65736,1423,36850,27463,3809,69,1844,Africa
+6/13/20,Spain,243605,27136,150376,66093,396,0,0,Europe
+6/13/20,Turkey,176677,4792,150087,21798,1459,14,985,Europe
+6/13/20,US,2074542,116084,556606,1401852,25556,750,9220,Americas
+6/13/20,United Kingdom,272050,41849,1283,228918,888,183,1,Europe
+6/14/20,Argentina,31577,833,9564,21180,1282,18,481,Americas
+6/14/20,Bangladesh,87520,1171,18730,67619,3141,32,902,South-East Asia
+6/14/20,Brazil,867624,43332,469141,355151,17110,612,9705,Americas
+6/14/20,Chile,208572,3323,143704,61545,6938,222,6408,Americas
+6/14/20,Colombia,50939,1667,19460,29812,2193,75,711,Americas
+6/14/20,France,194479,29410,72982,92087,407,9,51,Europe
+6/14/20,Germany,187518,8801,172089,6628,251,8,119,Europe
+6/14/20,India,332424,9520,169798,153106,11502,325,7419,South-East Asia
+6/14/20,Iran,187427,8837,148674,29916,2472,107,1926,Eastern Mediterranean
+6/14/20,Italy,236989,34345,176370,26274,338,44,1505,Europe
+6/14/20,Mexico,146837,17141,107298,22398,4147,269,3220,Americas
+6/14/20,Pakistan,144478,2729,53721,88028,12073,178,3665,Eastern Mediterranean
+6/14/20,Peru,229736,6688,115579,107469,8987,380,3855,Americas
+6/14/20,Russia,528267,6938,279536,241793,8809,119,5408,Europe
+6/14/20,Saudi Arabia,127541,972,84720,41849,4233,40,2172,Eastern Mediterranean
+6/14/20,South Africa,70038,1480,38531,30027,4302,57,1681,Africa
+6/14/20,Spain,243928,27136,150376,66416,323,0,0,Europe
+6/14/20,Turkey,178239,4807,151417,22015,1562,15,1330,Europe
+6/14/20,US,2094366,116382,561816,1416168,19824,298,5210,Americas
+6/14/20,United Kingdom,272857,41885,1283,229689,807,36,0,Europe
+6/15/20,Argentina,32785,854,9891,22040,1208,21,327,Americas
+6/15/20,Bangladesh,90619,1209,18731,70679,3099,38,1,South-East Asia
+6/15/20,Brazil,888271,43959,477709,366603,20647,627,8568,Americas
+6/15/20,Chile,213715,3362,148792,61561,5143,39,5088,Americas
+6/15/20,Colombia,53063,1726,19985,31352,2124,59,525,Americas
+6/15/20,France,194631,29439,73168,92024,152,29,186,Europe
+6/15/20,Germany,187682,8807,172692,6183,164,6,603,Europe
+6/15/20,India,343091,9900,180013,153178,10667,380,10215,South-East Asia
+6/15/20,Iran,189876,8950,150590,30336,2449,113,1916,Eastern Mediterranean
+6/15/20,Italy,237290,34371,177010,25909,301,26,640,Europe
+6/15/20,Mexico,150264,17580,112292,20392,3427,439,4994,Americas
+6/15/20,Pakistan,148921,2839,56390,89692,4443,110,2669,Eastern Mediterranean
+6/15/20,Peru,232992,6860,119409,106723,3256,172,3830,Americas
+6/15/20,Russia,536484,7081,284021,245382,8217,143,4485,Europe
+6/15/20,Saudi Arabia,132048,1011,87890,43147,4507,39,3170,Eastern Mediterranean
+6/15/20,South Africa,73533,1568,39867,32098,3495,88,1336,Africa
+6/15/20,Spain,244109,27136,150376,66597,181,0,0,Europe
+6/15/20,Turkey,179831,4825,152364,22642,1592,18,947,Europe
+6/15/20,US,2114026,116773,576334,1420919,19660,391,14518,Americas
+6/15/20,United Kingdom,273888,41923,1284,230681,1031,38,1,Europe
+6/16/20,Argentina,34159,878,10174,23107,1374,24,283,Americas
+6/16/20,Bangladesh,94481,1262,36264,56955,3862,53,17533,South-East Asia
+6/16/20,Brazil,923189,45241,490005,387943,34918,1282,12296,Americas
+6/16/20,Chile,218728,3383,156232,59113,5013,21,7440,Americas
+6/16/20,Colombia,54931,1801,19986,33144,1868,75,1,Americas
+6/16/20,France,194975,29550,73459,91966,344,111,291,Europe
+6/16/20,Germany,188252,8820,172842,6590,570,13,150,Europe
+6/16/20,India,354065,11903,186935,155227,10974,2003,6922,South-East Asia
+6/16/20,Iran,192439,9065,152675,30699,2563,115,2085,Eastern Mediterranean
+6/16/20,Italy,237500,34405,178526,24569,210,34,1516,Europe
+6/16/20,Mexico,154863,18310,115394,21159,4599,730,3102,Americas
+6/16/20,Pakistan,154760,2975,58437,93348,5839,136,2047,Eastern Mediterranean
+6/16/20,Peru,237156,7056,125205,104895,4164,196,5796,Americas
+6/16/20,Russia,544725,7274,293780,243671,8241,193,9759,Europe
+6/16/20,Saudi Arabia,136315,1052,89540,45723,4267,41,1650,Eastern Mediterranean
+6/16/20,South Africa,76334,1625,42063,32646,2801,57,2196,Africa
+6/16/20,Spain,244328,27136,150376,66816,219,0,0,Europe
+6/16/20,Turkey,181298,4842,153379,23077,1467,17,1015,Europe
+6/16/20,US,2137731,117612,583503,1436616,23705,839,7169,Americas
+6/16/20,United Kingdom,274971,42159,1293,231519,1083,236,9,Europe
+6/17/20,Argentina,35552,913,10512,24127,1393,35,338,Americas
+6/17/20,Bangladesh,98489,1305,38189,58995,4008,43,1925,South-East Asia
+6/17/20,Brazil,955377,46510,521046,387821,32188,1269,31041,Americas
+6/17/20,Chile,220628,3615,181931,35082,1900,232,25699,Americas
+6/17/20,Colombia,57046,1864,20400,34782,2115,63,414,Americas
+6/17/20,France,195433,29578,73791,92064,458,28,332,Europe
+6/17/20,Germany,188604,8851,173599,6154,352,31,757,Europe
+6/17/20,India,366946,12237,194325,160384,12881,334,7390,South-East Asia
+6/17/20,Iran,195051,9185,154812,31054,2612,120,2137,Eastern Mediterranean
+6/17/20,Italy,237828,34448,179455,23925,328,43,929,Europe
+6/17/20,Mexico,159793,19080,118504,22209,4930,770,3110,Americas
+6/17/20,Pakistan,160118,3093,59215,97810,5358,118,778,Eastern Mediterranean
+6/17/20,Peru,240908,7257,128622,105029,3752,201,3417,Americas
+6/17/20,Russia,552549,7468,303800,241281,7824,194,10020,Europe
+6/17/20,Saudi Arabia,141234,1091,91662,48481,4919,39,2122,Eastern Mediterranean
+6/17/20,South Africa,80412,1674,44331,34407,4078,49,2268,Africa
+6/17/20,Spain,244683,27136,150376,67171,355,0,0,Europe
+6/17/20,Turkey,182727,4861,154640,23226,1429,19,1261,Europe
+6/17/20,US,2163290,118363,592191,1452736,25559,751,8688,Americas
+6/17/20,United Kingdom,275970,42343,1304,232323,999,184,11,Europe
+6/18/20,Argentina,37510,948,10721,25841,1958,35,209,Americas
+6/18/20,Bangladesh,102292,1343,40164,60785,3803,38,1975,South-East Asia
+6/18/20,Brazil,978142,47748,534580,395814,22765,1238,13534,Americas
+6/18/20,Chile,225103,3841,186441,34821,4475,226,4510,Americas
+6/18/20,Colombia,60217,1950,21361,36906,3171,86,961,Americas
+6/18/20,France,195900,29606,74011,92283,467,28,220,Europe
+6/18/20,Germany,189817,8875,173847,7095,1213,24,248,Europe
+6/18/20,India,380532,12573,204711,163248,13586,336,10386,South-East Asia
+6/18/20,Iran,197647,9272,156991,31384,2596,87,2179,Eastern Mediterranean
+6/18/20,Italy,238159,34514,180544,23101,331,66,1089,Europe
+6/18/20,Mexico,165455,19747,122180,23528,5662,667,3676,Americas
+6/18/20,Pakistan,165062,3229,61383,100450,4944,136,2168,Eastern Mediterranean
+6/18/20,Peru,244388,7461,131190,105737,3480,204,2568,Americas
+6/18/20,Russia,560321,7650,313409,239262,7772,182,9609,Europe
+6/18/20,Saudi Arabia,145991,1139,93915,50937,4757,48,2253,Eastern Mediterranean
+6/18/20,South Africa,83890,1737,44920,37233,3478,63,589,Africa
+6/18/20,Spain,245268,27136,150376,67756,585,0,0,Europe
+6/18/20,Turkey,184031,4882,156022,23127,1304,21,1382,Europe
+6/18/20,US,2191099,119067,599115,1472917,27809,704,6924,Americas
+6/18/20,United Kingdom,276990,42480,1313,233197,1020,137,9,Europe
+6/19/20,Argentina,39570,979,11851,26740,2060,31,1130,Americas
+6/19/20,Bangladesh,105535,1388,42945,61202,3243,45,2781,South-East Asia
+6/19/20,Brazil,1032913,48954,551631,432328,54771,1206,17051,Americas
+6/19/20,Chile,231393,4093,191491,35809,6290,252,5050,Americas
+6/19/20,Colombia,63276,2045,22726,38505,3059,95,1365,Americas
+6/19/20,France,196711,29620,74241,92850,811,14,230,Europe
+6/19/20,Germany,190299,8887,173972,7440,482,12,125,Europe
+6/19/20,India,395048,12948,213831,168269,14516,375,9120,South-East Asia
+6/19/20,Iran,200262,9392,159192,31678,2615,120,2201,Eastern Mediterranean
+6/19/20,Italy,238011,34561,181907,21543,0,47,1363,Europe
+6/19/20,Mexico,170485,20394,126438,23653,5030,647,4258,Americas
+6/19/20,Pakistan,171666,3382,63504,104780,6604,153,2121,Eastern Mediterranean
+6/19/20,Peru,247925,7660,135520,104745,3537,199,4330,Americas
+6/19/20,Russia,568292,7831,323851,236610,7971,181,10442,Europe
+6/19/20,Saudi Arabia,150292,1184,95764,53344,4301,45,1849,Eastern Mediterranean
+6/19/20,South Africa,87715,1831,47825,38059,3825,94,2905,Africa
+6/19/20,Spain,245575,28315,150376,66884,307,1179,0,Europe
+6/19/20,Turkey,185245,4905,157516,22824,1214,23,1494,Europe
+6/19/20,US,2222579,119739,606715,1496125,31480,672,7600,Americas
+6/19/20,United Kingdom,277974,42653,1319,234002,984,173,6,Europe
+6/20/20,Argentina,41204,992,12206,28006,1634,13,355,Americas
+6/20/20,Bangladesh,108775,1425,43993,63357,3240,37,1048,South-East Asia
+6/20/20,Brazil,1067579,49976,576779,440824,34666,1022,25148,Americas
+6/20/20,Chile,236748,4295,196609,35844,5355,202,5118,Americas
+6/20/20,Colombia,65633,2126,24035,39472,2357,81,1309,Americas
+6/20/20,France,197352,29636,74436,93280,641,16,195,Europe
+6/20/20,Germany,190670,8895,174609,7166,371,8,637,Europe
+6/20/20,India,410451,13254,227728,169469,15403,306,13897,South-East Asia
+6/20/20,Iran,202584,9507,161384,31693,2322,115,2192,Eastern Mediterranean
+6/20/20,Italy,238275,34610,182453,21212,264,49,546,Europe
+6/20/20,Mexico,175202,20781,130854,23567,4717,387,4416,Americas
+6/20/20,Pakistan,176617,3501,67892,105224,4951,119,4388,Eastern Mediterranean
+6/20/20,Peru,251338,7861,143017,100460,3413,201,7497,Americas
+6/20/20,Russia,576162,7992,334024,234146,7870,161,10173,Europe
+6/20/20,Saudi Arabia,154233,1230,98917,54086,3941,46,3153,Eastern Mediterranean
+6/20/20,South Africa,92681,1877,50326,40478,4966,46,2501,Africa
+6/20/20,Spain,245938,28322,150376,67240,363,7,0,Europe
+6/20/20,Turkey,186493,4927,158828,22738,1248,22,1312,Europe
+6/20/20,US,2255328,120349,617460,1517519,32749,610,10745,Americas
+6/20/20,United Kingdom,278640,42783,1319,234538,666,130,0,Europe
+6/21/20,Argentina,42785,1011,12728,29046,1581,19,522,Americas
+6/21/20,Bangladesh,112306,1464,45077,65765,3531,39,1084,South-East Asia
+6/21/20,Brazil,1083341,50591,588118,444632,15762,615,11339,Americas
+6/21/20,Chile,242355,4479,200569,37307,5607,184,3960,Americas
+6/21/20,Colombia,68652,2237,27412,39003,3019,111,3377,Americas
+6/21/20,France,197636,29643,74496,93497,284,7,60,Europe
+6/21/20,Germany,191272,8895,174740,7637,602,0,131,Europe
+6/21/20,India,425282,13699,237196,174387,14831,445,9468,South-East Asia
+6/21/20,Iran,204952,9623,163591,31738,2368,116,2207,Eastern Mediterranean
+6/21/20,Italy,238499,34634,182893,20972,224,24,440,Europe
+6/21/20,Mexico,180545,21825,134495,24225,5343,1044,3641,Americas
+6/21/20,Pakistan,181088,3590,71458,106040,4471,89,3566,Eastern Mediterranean
+6/21/20,Peru,254936,8045,141967,104924,3598,184,-1050,Americas
+6/21/20,Russia,583879,8101,339142,236636,7717,109,5118,Europe
+6/21/20,Saudi Arabia,157612,1267,101130,55215,3379,37,2213,Eastern Mediterranean
+6/21/20,South Africa,97302,1930,51608,43764,4621,53,1282,Africa
+6/21/20,Spain,246272,28323,150376,67573,334,1,0,Europe
+6/21/20,Turkey,187685,4950,160240,22495,1192,23,1412,Europe
+6/21/20,US,2281767,120604,622133,1539030,26439,255,4673,Americas
+6/21/20,United Kingdom,279264,42826,1319,235119,624,43,0,Europe
+6/22/20,Argentina,44931,1043,13153,30735,2146,32,425,Americas
+6/22/20,Bangladesh,115786,1502,46755,67529,3480,38,1678,South-East Asia
+6/22/20,Brazil,1106470,51271,601736,453463,23129,680,13618,Americas
+6/22/20,Chile,246963,4502,205397,37064,4608,23,4828,Americas
+6/22/20,Colombia,71183,2310,29024,39849,2531,73,1612,Americas
+6/22/20,France,198009,29666,74736,93607,373,23,240,Europe
+6/22/20,Germany,191768,8899,175143,7726,496,4,403,Europe
+6/22/20,India,440215,14011,248190,178014,14933,312,10994,South-East Asia
+6/22/20,Iran,207525,9742,166427,31356,2573,119,2836,Eastern Mediterranean
+6/22/20,Italy,238720,34657,183426,20637,221,23,533,Europe
+6/22/20,Mexico,185122,22584,139383,23155,4577,759,4888,Americas
+6/22/20,Pakistan,185034,3695,73471,107868,3946,105,2013,Eastern Mediterranean
+6/22/20,Peru,257447,8223,145320,103904,2511,178,3353,Americas
+6/22/20,Russia,591465,8196,343847,239422,7586,95,4705,Europe
+6/22/20,Saudi Arabia,161005,1307,105175,54523,3393,40,4045,Eastern Mediterranean
+6/22/20,South Africa,101590,1991,53444,46155,4288,61,1836,Africa
+6/22/20,Spain,246504,28324,150376,67804,232,1,0,Europe
+6/22/20,Turkey,188897,4974,161533,22390,1212,24,1293,Europe
+6/22/20,US,2312303,121010,640198,1551095,30536,406,18065,Americas
+6/22/20,United Kingdom,280156,42840,1322,235994,892,14,3,Europe
+6/23/20,Argentina,47203,1078,13576,32549,2272,35,423,Americas
+6/23/20,Bangladesh,119198,1545,47635,70018,3412,43,880,South-East Asia
+6/23/20,Brazil,1145906,52645,627963,465298,39436,1374,26227,Americas
+6/23/20,Chile,250767,4505,210570,35692,3804,3,5173,Americas
+6/23/20,Colombia,73572,2404,30517,40651,2389,94,1493,Americas
+6/23/20,France,198526,29723,74995,93808,517,57,259,Europe
+6/23/20,Germany,192480,8914,175825,7741,712,15,682,Europe
+6/23/20,India,456183,14476,258685,183022,15968,465,10495,South-East Asia
+6/23/20,Iran,209970,9863,169160,30947,2445,121,2733,Eastern Mediterranean
+6/23/20,Italy,238833,34675,184585,19573,113,18,1159,Europe
+6/23/20,Mexico,191410,23377,143646,24387,6288,793,4263,Americas
+6/23/20,Pakistan,188926,3755,77754,107417,3892,60,4283,Eastern Mediterranean
+6/23/20,Peru,260810,8404,148437,103969,3363,181,3117,Americas
+6/23/20,Russia,598878,8349,355847,234682,7413,153,12000,Europe
+6/23/20,Saudi Arabia,164144,1346,109885,52913,3139,39,4710,Eastern Mediterranean
+6/23/20,South Africa,106108,2102,55045,48961,4518,111,1601,Africa
+6/23/20,Spain,246752,28325,150376,68051,248,1,0,Europe
+6/23/20,Turkey,190165,5001,162848,22316,1268,27,1315,Europe
+6/23/20,US,2347491,121847,647548,1578096,35188,837,7350,Americas
+6/23/20,United Kingdom,281038,43011,1330,236697,882,171,8,Europe
+6/24/20,Argentina,49851,1116,13816,34919,2648,38,240,Americas
+6/24/20,Bangladesh,122660,1582,49666,71412,3462,37,2031,South-East Asia
+6/24/20,Brazil,1188631,53830,660469,474332,42725,1185,32506,Americas
+6/24/20,Chile,254416,4731,215093,34592,3649,226,4523,Americas
+6/24/20,Colombia,77113,2491,30517,44105,3541,87,0,Americas
+6/24/20,France,198607,29734,75251,93622,81,11,256,Europe
+6/24/20,Germany,192871,8928,176422,7521,391,14,597,Europe
+6/24/20,India,473105,14894,271697,186514,16922,418,13012,South-East Asia
+6/24/20,Iran,212501,9996,172096,30409,2531,133,2936,Eastern Mediterranean
+6/24/20,Italy,239410,34644,186111,18655,577,-31,1526,Europe
+6/24/20,Mexico,196847,24324,148487,24036,5437,947,4841,Americas
+6/24/20,Pakistan,192970,3903,81307,107760,4044,148,3553,Eastern Mediterranean
+6/24/20,Peru,264689,8586,151589,104514,3879,182,3152,Americas
+6/24/20,Russia,606043,8503,368222,229318,7165,154,12375,Europe
+6/24/20,Saudi Arabia,167267,1387,112797,53083,3123,41,2912,Eastern Mediterranean
+6/24/20,South Africa,111796,2205,56874,52717,5688,103,1829,Africa
+6/24/20,Spain,247086,28327,150376,68383,334,2,0,Europe
+6/24/20,Turkey,191657,5025,164234,22398,1492,24,1386,Europe
+6/24/20,US,2382426,122604,656161,1603661,34935,757,8613,Americas
+6/24/20,United Kingdom,281815,43165,1345,237305,777,154,15,Europe
+6/25/20,Argentina,52457,1150,14788,36519,2606,34,972,Americas
+6/25/20,Bangladesh,126606,1621,51495,73490,3946,39,1829,South-East Asia
+6/25/20,Brazil,1228114,54971,679524,493619,39483,1141,19055,Americas
+6/25/20,Chile,259064,4903,219327,34834,4648,172,4234,Americas
+6/25/20,Colombia,80599,2654,31729,46216,3486,163,1212,Americas
+6/25/20,France,198607,29755,75475,93377,0,21,224,Europe
+6/25/20,Germany,193371,8940,176764,7667,500,12,342,Europe
+6/25/20,India,490401,15301,285637,189463,17296,407,13940,South-East Asia
+6/25/20,Iran,215096,10130,175103,29863,2595,134,3007,Eastern Mediterranean
+6/25/20,Italy,239706,34678,186725,18303,296,34,614,Europe
+6/25/20,Mexico,202951,25060,152362,25529,6104,736,3875,Americas
+6/25/20,Pakistan,195745,3962,84168,107615,2775,59,2861,Eastern Mediterranean
+6/25/20,Peru,268602,8761,151225,108616,3913,175,-364,Americas
+6/25/20,Russia,613148,8594,374557,229997,7105,91,6335,Europe
+6/25/20,Saudi Arabia,170639,1428,117882,51329,3372,41,5085,Eastern Mediterranean
+6/25/20,South Africa,118375,2292,59974,56109,6579,87,3100,Africa
+6/25/20,Spain,247486,28330,150376,68780,400,3,0,Europe
+6/25/20,Turkey,193115,5046,165706,22363,1458,21,1472,Europe
+6/25/20,US,2422299,125026,663562,1633711,39873,2422,7401,Americas
+6/25/20,United Kingdom,282512,43314,1361,237837,697,149,16,Europe
+6/26/20,Argentina,55343,1184,18416,35743,2886,34,3628,Americas
+6/26/20,Bangladesh,130474,1661,53133,75680,3868,40,1638,South-East Asia
+6/26/20,Brazil,1274974,55961,702399,516614,46860,990,22875,Americas
+6/26/20,Chile,263360,5068,223431,34861,4296,165,4104,Americas
+6/26/20,Colombia,84442,2811,33410,48221,3843,157,1681,Americas
+6/26/20,France,200195,29781,75773,94641,1588,26,298,Europe
+6/26/20,Germany,194036,8965,177149,7922,665,25,385,Europe
+6/26/20,India,508953,15685,295881,197387,18552,384,10244,South-East Asia
+6/26/20,Iran,217724,10239,177852,29633,2628,109,2749,Eastern Mediterranean
+6/26/20,Italy,239961,34708,187615,17638,255,30,890,Europe
+6/26/20,Mexico,208392,25779,156827,25786,5441,719,4465,Americas
+6/26/20,Pakistan,198883,4035,86906,107942,3138,73,2738,Eastern Mediterranean
+6/26/20,Peru,272364,8939,159806,103619,3762,178,8581,Americas
+6/26/20,Russia,619936,8770,383524,227642,6788,176,8967,Europe
+6/26/20,Saudi Arabia,174577,1474,120471,52632,3938,46,2589,Eastern Mediterranean
+6/26/20,South Africa,124590,2340,64111,58139,6215,48,4137,Africa
+6/26/20,Spain,247905,28338,150376,69191,419,8,0,Europe
+6/26/20,Turkey,194511,5065,167198,22248,1396,19,1492,Europe
+6/26/20,US,2467554,125631,670809,1671114,45255,605,7247,Americas
+6/26/20,United Kingdom,283151,43498,1363,238290,639,184,2,Europe
+6/27/20,Argentina,57744,1207,19143,37394,2401,23,727,Americas
+6/27/20,Bangladesh,133978,1695,54318,77965,3504,34,1185,South-East Asia
+6/27/20,Brazil,1313667,57070,727715,528882,38693,1109,25316,Americas
+6/27/20,Chile,267766,5347,228055,34364,4406,279,4624,Americas
+6/27/20,Colombia,88591,2939,34999,50653,4149,128,1589,Americas
+6/27/20,France,200195,29781,75773,94641,0,0,0,Europe
+6/27/20,Germany,194458,8968,177518,7972,422,3,369,Europe
+6/27/20,India,528859,16095,309713,203051,19906,410,13832,South-East Asia
+6/27/20,Iran,220180,10364,180661,29155,2456,125,2809,Eastern Mediterranean
+6/27/20,Italy,240136,34716,188584,16836,175,8,969,Europe
+6/27/20,Mexico,212802,26381,160721,25700,4410,602,3894,Americas
+6/27/20,Pakistan,202955,4118,92624,106213,4072,83,5718,Eastern Mediterranean
+6/27/20,Peru,275989,9135,164024,102830,3625,196,4218,Americas
+6/27/20,Russia,626779,8958,392703,225118,6843,188,9179,Europe
+6/27/20,Saudi Arabia,178504,1511,122128,54865,3927,37,1657,Eastern Mediterranean
+6/27/20,South Africa,131800,2413,67094,62293,7210,73,2983,Africa
+6/27/20,Spain,248469,28341,150376,69752,564,3,0,Europe
+6/27/20,Turkey,195883,5082,169182,21619,1372,17,1984,Europe
+6/27/20,US,2510259,126120,679308,1704831,42705,489,8499,Americas
+6/27/20,United Kingdom,283785,43598,1364,238823,634,100,1,Europe
+6/28/20,Argentina,59933,1232,20134,38567,2189,25,991,Americas
+6/28/20,Bangladesh,137787,1738,55727,80322,3809,43,1409,South-East Asia
+6/28/20,Brazil,1344143,57622,746018,540503,30476,552,18303,Americas
+6/28/20,Chile,271982,5509,232210,34263,4216,162,4155,Americas
+6/28/20,Colombia,91769,3178,38345,50246,3178,239,3346,Americas
+6/28/20,France,199476,29781,75774,93921,0,0,1,Europe
+6/28/20,Germany,194693,8968,177657,8068,235,0,139,Europe
+6/28/20,India,548318,16475,321723,210120,19459,380,12010,South-East Asia
+6/28/20,Iran,222669,10508,183310,28851,2489,144,2649,Eastern Mediterranean
+6/28/20,Italy,240310,34738,188891,16681,174,22,307,Europe
+6/28/20,Mexico,216852,26648,164646,25558,4050,267,3925,Americas
+6/28/20,Pakistan,206512,4167,95407,106938,3557,49,2783,Eastern Mediterranean
+6/28/20,Peru,279419,9317,167998,102104,3430,182,3974,Americas
+6/28/20,Russia,633563,9060,398436,226067,6784,102,5733,Europe
+6/28/20,Saudi Arabia,182493,1551,124755,56187,3989,40,2627,Eastern Mediterranean
+6/28/20,South Africa,138134,2456,68925,66753,6334,43,1831,Africa
+6/28/20,Spain,248770,28343,150376,70051,301,2,0,Europe
+6/28/20,Turkey,197239,5097,170595,21547,1356,15,1413,Europe
+6/28/20,US,2549864,126361,685164,1738339,39605,241,5856,Americas
+6/28/20,United Kingdom,284192,43634,1364,239194,407,36,0,Europe
+6/29/20,Argentina,62268,1280,21138,39850,2335,48,1004,Americas
+6/29/20,Bangladesh,141801,1783,57780,82238,4014,45,2053,South-East Asia
+6/29/20,Brazil,1368195,58314,757811,552070,24052,692,11793,Americas
+6/29/20,Chile,275999,5575,236154,34270,4017,66,3944,Americas
+6/29/20,Colombia,95043,3274,38345,53424,3274,96,0,Americas
+6/29/20,France,201522,29816,76124,95582,2046,35,350,Europe
+6/29/20,Germany,195042,8976,177770,8296,349,8,113,Europe
+6/29/20,India,566840,16893,334822,215125,18522,418,13099,South-East Asia
+6/29/20,Iran,225205,10670,186180,28355,2536,162,2870,Eastern Mediterranean
+6/29/20,Italy,240436,34744,189196,16496,126,6,305,Europe
+6/29/20,Mexico,220657,27121,170147,23389,3805,473,5501,Americas
+6/29/20,Pakistan,209337,4304,98503,106530,2825,137,3096,Eastern Mediterranean
+6/29/20,Peru,282365,9504,171159,101702,2946,187,3161,Americas
+6/29/20,Russia,640246,9152,402778,228316,6683,92,4342,Europe
+6/29/20,Saudi Arabia,186436,1599,127118,57719,3943,48,2363,Eastern Mediterranean
+6/29/20,South Africa,144264,2529,70614,71121,6130,73,1689,Africa
+6/29/20,Spain,248970,28346,150376,70248,200,3,0,Europe
+6/29/20,Turkey,198613,5115,171809,21689,1374,18,1214,Europe
+6/29/20,US,2590668,126711,705203,1758754,40804,350,20039,Americas
+6/29/20,United Kingdom,284812,43659,1368,239785,620,25,4,Europe
+6/30/20,Argentina,64530,1307,22028,41195,2262,27,890,Americas
+6/30/20,Bangladesh,145483,1847,59624,84012,3682,64,1844,South-East Asia
+6/30/20,Brazil,1402041,59594,788318,554129,33846,1280,30507,Americas
+6/30/20,Chile,279393,5688,241229,32476,3394,113,5075,Americas
+6/30/20,Colombia,97846,3334,40021,54491,2803,60,1676,Americas
+6/30/20,France,202063,29846,76399,95818,541,30,275,Europe
+6/30/20,Germany,195418,8990,178100,8328,376,14,330,Europe
+6/30/20,India,585481,17400,347912,220169,18641,507,13090,South-East Asia
+6/30/20,Iran,227662,10817,188758,28087,2457,147,2578,Eastern Mediterranean
+6/30/20,Italy,240578,34767,190248,15563,142,23,1052,Europe
+6/30/20,Mexico,226089,27769,174538,23782,5432,648,4391,Americas
+6/30/20,Pakistan,213470,4395,100802,108273,4133,91,2299,Eastern Mediterranean
+6/30/20,Peru,285213,9677,174535,101001,2848,173,3376,Americas
+6/30/20,Russia,646929,9306,411973,225650,6683,154,9195,Europe
+6/30/20,Saudi Arabia,190823,1649,130766,58408,4387,50,3648,Eastern Mediterranean
+6/30/20,South Africa,151209,2657,73543,75009,6945,128,2929,Africa
+6/30/20,Spain,249271,28355,150376,70540,301,9,0,Europe
+6/30/20,Turkey,199906,5131,173111,21664,1293,16,1302,Europe
+6/30/20,US,2636414,127432,720631,1788351,45746,721,15428,Americas
+6/30/20,United Kingdom,285216,43815,1370,240031,404,156,2,Europe
+7/1/20,Argentina,67197,1351,23040,42806,2667,44,1012,Americas
+7/1/20,Bangladesh,149258,1888,62108,85262,3775,41,2484,South-East Asia
+7/1/20,Brazil,1448753,60632,817642,570479,46712,1038,29324,Americas
+7/1/20,Chile,282043,5753,245443,30847,2650,65,4214,Americas
+7/1/20,Colombia,102009,3470,42143,56396,4163,136,2122,Americas
+7/1/20,France,202981,29864,76674,96443,918,18,275,Europe
+7/1/20,Germany,195893,8995,179100,7798,475,5,1000,Europe
+7/1/20,India,604641,17834,359860,226947,19160,434,11948,South-East Asia
+7/1/20,Iran,230211,10958,191487,27766,2549,141,2729,Eastern Mediterranean
+7/1/20,Italy,240760,34788,190717,15255,182,21,469,Europe
+7/1/20,Mexico,231770,28510,178526,24734,5681,741,3988,Americas
+7/1/20,Pakistan,217809,4473,104694,108642,4339,78,3892,Eastern Mediterranean
+7/1/20,Peru,288477,9860,178245,100372,3264,183,3710,Americas
+7/1/20,Russia,653479,9521,422235,221723,6550,215,10262,Europe
+7/1/20,Saudi Arabia,194225,1698,132760,59767,3402,49,1994,Eastern Mediterranean
+7/1/20,South Africa,159333,2749,76025,80559,8124,92,2482,Africa
+7/1/20,Spain,249659,28364,150376,70919,388,9,0,Europe
+7/1/20,Turkey,201098,5150,175422,20526,1192,19,2311,Europe
+7/1/20,US,2687588,128105,729994,1829489,51174,673,9363,Americas
+7/1/20,United Kingdom,285279,43991,1372,239916,63,176,2,Europe
+7/2/20,Argentina,69941,1385,24186,44370,2744,34,1146,Americas
+7/2/20,Bangladesh,153277,1926,66442,84909,4019,38,4334,South-East Asia
+7/2/20,Brazil,1496858,61884,957692,477282,48105,1252,140050,Americas
+7/2/20,Chile,284541,5920,249247,29374,2498,167,3804,Americas
+7/2/20,Colombia,106110,3641,43481,58988,4101,171,1338,Americas
+7/2/20,France,203640,29878,76927,96835,659,14,253,Europe
+7/2/20,Germany,196370,9006,179800,7564,477,11,700,Europe
+7/2/20,India,625544,18213,379892,227439,20903,379,20032,South-East Asia
+7/2/20,Iran,232863,11106,194098,27659,2652,148,2611,Eastern Mediterranean
+7/2/20,Italy,240961,34818,191083,15060,201,30,366,Europe
+7/2/20,Mexico,238511,29189,183757,25565,6741,679,5231,Americas
+7/2/20,Pakistan,221896,4551,113623,103722,4087,78,8929,Eastern Mediterranean
+7/2/20,Peru,292004,10045,182097,99862,3527,185,3852,Americas
+7/2/20,Russia,660231,9668,428276,222287,6752,147,6041,Europe
+7/2/20,Saudi Arabia,197608,1752,137669,58187,3383,54,4909,Eastern Mediterranean
+7/2/20,South Africa,168061,2844,81999,83218,8728,95,5974,Africa
+7/2/20,Spain,250103,28368,150376,71359,444,4,0,Europe
+7/2/20,Turkey,202284,5167,176965,20152,1186,17,1543,Europe
+7/2/20,US,2742049,128803,781970,1831276,54461,698,51976,Americas
+7/2/20,United Kingdom,285285,44080,1373,239832,6,89,1,Europe
+7/3/20,Argentina,72786,1437,25224,46125,2845,52,1038,Americas
+7/3/20,Bangladesh,156391,1968,68048,86375,3114,42,1606,South-East Asia
+7/3/20,Brazil,1539081,63174,984615,491292,42223,1290,26923,Americas
+7/3/20,Chile,288089,6051,253343,28695,3548,131,4096,Americas
+7/3/20,Colombia,109505,3777,44606,61122,3395,136,1125,Americas
+7/3/20,France,204222,29896,77185,97141,582,18,258,Europe
+7/3/20,Germany,196780,9010,180300,7470,410,4,500,Europe
+7/3/20,India,648315,18655,394227,235433,22771,442,14335,South-East Asia
+7/3/20,Iran,235429,11260,196446,27723,2566,154,2348,Eastern Mediterranean
+7/3/20,Italy,241184,34833,191467,14884,223,15,384,Europe
+7/3/20,Mexico,245251,29843,189345,26063,6740,654,5588,Americas
+7/3/20,Pakistan,221896,4551,113623,103722,0,0,0,Eastern Mediterranean
+7/3/20,Peru,295599,10226,185852,99521,3595,181,3755,Americas
+7/3/20,Russia,666941,9844,437155,219942,6710,176,8879,Europe
+7/3/20,Saudi Arabia,201801,1802,140614,59385,4193,50,2945,Eastern Mediterranean
+7/3/20,South Africa,177124,2952,86298,87874,9063,108,4299,Africa
+7/3/20,Spain,250545,28385,150376,71784,442,17,0,Europe
+7/3/20,Turkey,203456,5186,178278,19992,1172,19,1313,Europe
+7/3/20,US,2795361,129442,790404,1875515,53312,639,8434,Americas
+7/3/20,United Kingdom,285787,44216,1375,240196,502,136,2,Europe
+7/4/20,Argentina,75376,1481,25930,47965,2590,44,706,Americas
+7/4/20,Bangladesh,159679,1997,70721,86961,3288,29,2673,South-East Asia
+7/4/20,Brazil,1577004,64265,990731,522008,37923,1091,6116,Americas
+7/4/20,Chile,291847,6192,257451,28204,3758,141,4108,Americas
+7/4/20,Colombia,113389,3942,45409,64038,3884,165,803,Americas
+7/4/20,France,204222,29896,77185,97141,0,0,0,Europe
+7/4/20,Germany,197198,9020,181000,7178,418,10,700,Europe
+7/4/20,India,673165,19268,409083,244814,24850,613,14856,South-East Asia
+7/4/20,Iran,237878,11408,198949,27521,2449,148,2503,Eastern Mediterranean
+7/4/20,Italy,241419,34854,191944,14621,235,21,477,Europe
+7/4/20,Mexico,252165,30366,195724,26075,6914,523,6379,Americas
+7/4/20,Pakistan,225283,4619,125094,95570,3387,68,11471,Eastern Mediterranean
+7/4/20,Peru,299080,10412,189621,99047,3481,186,3769,Americas
+7/4/20,Russia,673564,10011,446127,217426,6623,167,8972,Europe
+7/4/20,Saudi Arabia,205929,1858,143256,60815,4128,56,2642,Eastern Mediterranean
+7/4/20,South Africa,187977,3026,91227,93724,10853,74,4929,Africa
+7/4/20,Spain,250545,28385,150376,71784,0,0,0,Europe
+7/4/20,Turkey,204610,5206,179492,19912,1154,20,1214,Europe
+7/4/20,US,2841241,129689,894325,1817227,45880,247,103921,Americas
+7/4/20,United Kingdom,286412,44283,1375,240754,625,67,0,Europe
+7/5/20,Argentina,77815,1507,27597,48711,2439,26,1667,Americas
+7/5/20,Bangladesh,162417,2052,72625,87740,2738,55,1904,South-East Asia
+7/5/20,Brazil,1603055,64867,1029045,509143,26051,602,38314,Americas
+7/5/20,Chile,295532,6308,261039,28185,3685,116,3588,Americas
+7/5/20,Colombia,117110,4064,46643,66403,3721,122,1234,Americas
+7/5/20,France,204222,29896,77185,97141,0,0,0,Europe
+7/5/20,Germany,197523,9023,181719,6781,325,3,719,Europe
+7/5/20,India,697413,19693,424433,253287,24248,425,15350,South-East Asia
+7/5/20,Iran,240438,11571,201330,27537,2560,163,2381,Eastern Mediterranean
+7/5/20,Italy,241611,34861,192108,14642,192,7,164,Europe
+7/5/20,Mexico,256848,30639,199914,26295,4683,273,4190,Americas
+7/5/20,Pakistan,231818,4762,131649,95407,6535,143,6555,Eastern Mediterranean
+7/5/20,Peru,302718,10589,193957,98172,3638,177,4336,Americas
+7/5/20,Russia,680283,10145,449995,220143,6719,134,3868,Europe
+7/5/20,Saudi Arabia,209509,1916,145236,62357,3580,58,1980,Eastern Mediterranean
+7/5/20,South Africa,196750,3199,93315,100236,8773,173,2088,Africa
+7/5/20,Spain,250545,28385,150376,71784,0,0,0,Europe
+7/5/20,Turkey,205758,5225,180680,19853,1148,19,1188,Europe
+7/5/20,US,2891124,129960,906763,1854401,49883,271,12438,Americas
+7/5/20,United Kingdom,286931,44305,1375,241251,519,22,0,Europe
+7/6/20,Argentina,80447,1582,28531,50334,2632,75,934,Americas
+7/6/20,Bangladesh,165618,2096,76149,87373,3201,44,3524,South-East Asia
+7/6/20,Brazil,1623284,65487,1062542,495255,20229,620,33497,Americas
+7/6/20,Chile,298557,6384,264378,27795,3025,76,3339,Americas
+7/6/20,Colombia,120281,4210,47961,68110,3171,146,1318,Americas
+7/6/20,France,205597,29923,77444,98230,1375,27,259,Europe
+7/6/20,Germany,198064,9022,182160,6882,541,-1,441,Europe
+7/6/20,India,719664,20159,439934,259571,22251,466,15501,South-East Asia
+7/6/20,Iran,243051,11731,204083,27237,2613,160,2753,Eastern Mediterranean
+7/6/20,Italy,241819,34869,192241,14709,208,8,133,Europe
+7/6/20,Mexico,261750,31119,204826,25805,4902,480,4912,Americas
+7/6/20,Pakistan,234509,4839,134957,94713,2691,77,3308,Eastern Mediterranean
+7/6/20,Peru,305703,10772,197619,97312,2985,183,3662,Americas
+7/6/20,Russia,686852,10280,453570,223002,6569,135,3575,Europe
+7/6/20,Saudi Arabia,213716,1968,149634,62114,4207,52,4398,Eastern Mediterranean
+7/6/20,South Africa,205721,3310,97848,104563,8971,111,4533,Africa
+7/6/20,Spain,251789,28388,150376,73025,1244,3,0,Europe
+7/6/20,Turkey,206844,5241,182995,18608,1086,16,2315,Europe
+7/6/20,US,2936077,130285,924148,1881644,44953,325,17385,Americas
+7/6/20,United Kingdom,287290,44321,1375,241594,359,16,0,Europe
+7/7/20,Argentina,83426,1644,30095,51687,2979,62,1564,Americas
+7/7/20,Bangladesh,168645,2151,78102,88392,3027,55,1953,South-East Asia
+7/7/20,Brazil,1668589,66741,1107012,494836,45305,1254,44470,Americas
+7/7/20,Chile,301019,6434,268251,26334,2462,50,3873,Americas
+7/7/20,Colombia,124494,4359,50370,69765,4213,149,2409,Americas
+7/7/20,France,206072,29936,77780,98356,475,13,336,Europe
+7/7/20,Germany,198343,9032,182661,6650,279,10,501,Europe
+7/7/20,India,742417,20642,456831,264944,22753,483,16897,South-East Asia
+7/7/20,Iran,245688,11931,207000,26757,2637,200,2917,Eastern Mediterranean
+7/7/20,Italy,241956,34899,192815,14242,137,30,574,Europe
+7/7/20,Mexico,268008,32014,209437,26557,6258,895,4611,Americas
+7/7/20,Pakistan,237489,4922,140965,91602,2980,83,6008,Eastern Mediterranean
+7/7/20,Peru,309278,10952,200938,97388,3575,180,3319,Americas
+7/7/20,Russia,693215,10478,463103,219634,6363,198,9533,Europe
+7/7/20,Saudi Arabia,217108,2017,154839,60252,3392,49,5205,Eastern Mediterranean
+7/7/20,South Africa,215855,3502,102299,110054,10134,192,4451,Africa
+7/7/20,Spain,252130,28392,150376,73362,341,4,0,Europe
+7/7/20,Turkey,207897,5260,185292,17345,1053,19,2297,Europe
+7/7/20,US,2996098,131480,936476,1928142,60021,1195,12328,Americas
+7/7/20,United Kingdom,287874,44476,1375,242023,584,155,0,Europe
+7/8/20,Argentina,87030,1694,36502,48834,3604,50,6407,Americas
+7/8/20,Bangladesh,172134,2197,80838,89099,3489,46,2736,South-East Asia
+7/8/20,Brazil,1713160,67964,1139844,505352,44571,1223,32832,Americas
+7/8/20,Chile,303083,6573,271741,24769,2064,139,3490,Americas
+7/8/20,Colombia,128638,4527,51861,72250,4144,168,1491,Americas
+7/8/20,France,206072,29936,77780,98356,0,0,0,Europe
+7/8/20,Germany,198699,9046,183153,6500,356,14,492,Europe
+7/8/20,India,767296,21129,476378,269789,24879,487,19547,South-East Asia
+7/8/20,Iran,248379,12084,209463,26832,2691,153,2463,Eastern Mediterranean
+7/8/20,Italy,242149,34914,193640,13595,193,15,825,Europe
+7/8/20,Mexico,275003,32796,214316,27891,6995,782,4879,Americas
+7/8/20,Pakistan,240848,4983,145311,90554,3359,61,4346,Eastern Mediterranean
+7/8/20,Peru,312911,11133,204748,97030,3633,181,3810,Americas
+7/8/20,Russia,699749,10650,471718,217381,6534,172,8615,Europe
+7/8/20,Saudi Arabia,220144,2059,158050,60035,3036,42,3211,Eastern Mediterranean
+7/8/20,South Africa,224665,3602,106842,114221,8810,100,4543,Africa
+7/8/20,Spain,252513,28396,150376,73741,383,4,0,Europe
+7/8/20,Turkey,208938,5282,187511,16145,1041,22,2219,Europe
+7/8/20,US,3054699,132300,953462,1968937,58601,820,16986,Americas
+7/8/20,United Kingdom,288511,44602,1378,242531,637,126,3,Europe
+7/9/20,Argentina,90693,1720,38313,50660,3663,26,1811,Americas
+7/9/20,Bangladesh,175494,2238,84544,88712,3360,41,3706,South-East Asia
+7/9/20,Brazil,1755779,69184,1171447,515148,42619,1220,31603,Americas
+7/9/20,Chile,306216,6682,274922,24612,3133,109,3181,Americas
+7/9/20,Colombia,133973,4714,53634,75625,5335,187,1773,Americas
+7/9/20,France,207356,29982,78295,99079,1284,46,515,Europe
+7/9/20,Germany,199001,9057,183728,6216,302,11,575,Europe
+7/9/20,India,793802,21604,495513,276685,26506,475,19135,South-East Asia
+7/9/20,Iran,250458,12305,212176,25977,2079,221,2713,Eastern Mediterranean
+7/9/20,Italy,242363,34926,193978,13459,214,12,338,Europe
+7/9/20,Mexico,282283,33526,219628,29129,7280,730,5312,Americas
+7/9/20,Pakistan,243599,5058,149092,89449,2751,75,3781,Eastern Mediterranean
+7/9/20,Peru,316448,11314,207802,97332,3537,181,3054,Americas
+7/9/20,Russia,706240,10826,480494,214920,6491,176,8776,Europe
+7/9/20,Saudi Arabia,223327,2100,161096,60131,3183,41,3046,Eastern Mediterranean
+7/9/20,South Africa,238339,3720,113061,121558,13674,118,6219,Africa
+7/9/20,Spain,253056,28401,150376,74279,543,5,0,Europe
+7/9/20,Turkey,209962,5300,190390,14272,1024,18,2879,Europe
+7/9/20,US,3117946,133290,969111,2015545,63247,990,15649,Americas
+7/9/20,United Kingdom,289154,44687,1378,243089,643,85,0,Europe
+7/10/20,Argentina,94060,1774,38984,53302,3367,54,671,Americas
+7/10/20,Bangladesh,178443,2275,86406,89762,2949,37,1862,South-East Asia
+7/10/20,Brazil,1800827,70398,1217361,513068,45048,1214,45914,Americas
+7/10/20,Chile,309274,6781,278053,24440,3058,99,3131,Americas
+7/10/20,Colombia,140776,4925,56272,79579,6803,211,2638,Americas
+7/10/20,France,208015,30007,78513,99495,659,25,218,Europe
+7/10/20,Germany,199332,9063,184028,6241,331,6,300,Europe
+7/10/20,India,820916,22123,515386,283407,27114,519,19873,South-East Asia
+7/10/20,Iran,252720,12447,215015,25258,2262,142,2839,Eastern Mediterranean
+7/10/20,Italy,242639,34938,194273,13428,276,12,295,Europe
+7/10/20,Mexico,289174,34191,225356,29627,6891,665,5728,Americas
+7/10/20,Pakistan,246351,5123,153134,88094,2752,65,4042,Eastern Mediterranean
+7/10/20,Peru,319646,11500,210638,97508,3198,186,2836,Americas
+7/10/20,Russia,712863,11000,488234,213629,6623,174,7740,Europe
+7/10/20,Saudi Arabia,226486,2151,163026,61309,3159,51,1930,Eastern Mediterranean
+7/10/20,South Africa,250687,3860,118232,128595,12348,140,5171,Africa
+7/10/20,Spain,253908,28403,150376,75129,852,2,0,Europe
+7/10/20,Turkey,210965,5323,191883,13759,1003,23,1493,Europe
+7/10/20,US,3185737,134101,983185,2068451,67791,811,14074,Americas
+7/10/20,United Kingdom,289678,44735,1378,243565,524,48,0,Europe
+7/11/20,Argentina,97509,1810,41408,54291,3449,36,2424,Americas
+7/11/20,Bangladesh,181129,2305,88034,90790,2686,30,1628,South-East Asia
+7/11/20,Brazil,1839850,71469,1244088,524293,39023,1071,26727,Americas
+7/11/20,Chile,312029,6881,281114,24034,2755,100,3061,Americas
+7/11/20,Colombia,145632,5119,58800,81713,4856,194,2528,Americas
+7/11/20,France,208015,30007,78513,99495,0,0,0,Europe
+7/11/20,Germany,199709,9070,184266,6373,377,7,238,Europe
+7/11/20,India,849522,22673,534618,292231,28606,550,19232,South-East Asia
+7/11/20,Iran,255117,12635,217666,24816,2397,188,2651,Eastern Mediterranean
+7/11/20,Italy,242827,34945,194579,13303,188,7,306,Europe
+7/11/20,Mexico,295268,34730,229856,30682,6094,539,4500,Americas
+7/11/20,Pakistan,248872,5197,156700,86975,2521,74,3566,Eastern Mediterranean
+7/11/20,Peru,322710,11682,214152,96876,3064,182,3514,Americas
+7/11/20,Russia,719449,11188,496594,211667,6586,188,8360,Europe
+7/11/20,Saudi Arabia,229480,2181,165396,61903,2994,30,2370,Eastern Mediterranean
+7/11/20,South Africa,264184,3971,127715,132498,13497,111,9483,Africa
+7/11/20,Spain,253908,28403,150376,75129,0,0,0,Europe
+7/11/20,Turkey,211981,5344,193217,13420,1016,21,1334,Europe
+7/11/20,US,3245925,134777,995576,2115572,60188,676,12391,Americas
+7/11/20,United Kingdom,290504,44883,1378,244243,826,148,0,Europe
+7/12/20,Argentina,100166,1845,42694,55627,2657,35,1286,Americas
+7/12/20,Bangladesh,183795,2352,93614,87829,2666,47,5580,South-East Asia
+7/12/20,Brazil,1864681,72100,1264843,527738,24831,631,20755,Americas
+7/12/20,Chile,315041,6979,283902,24160,3012,98,2788,Americas
+7/12/20,Colombia,150445,5307,61186,83952,4813,188,2386,Americas
+7/12/20,France,208015,30007,78513,99495,0,0,0,Europe
+7/12/20,Germany,199919,9071,184414,6434,210,1,148,Europe
+7/12/20,India,878254,23174,553471,301609,28732,501,18853,South-East Asia
+7/12/20,Iran,257303,12829,219993,24481,2186,194,2327,Eastern Mediterranean
+7/12/20,Italy,243061,34954,194928,13179,234,9,349,Europe
+7/12/20,Mexico,299750,35006,234905,29839,4482,276,5049,Americas
+7/12/20,Pakistan,251625,5266,161917,84442,2753,69,5217,Eastern Mediterranean
+7/12/20,Peru,326326,11870,217111,97345,3616,188,2959,Americas
+7/12/20,Russia,726036,11318,500208,214510,6587,130,3614,Europe
+7/12/20,Saudi Arabia,232259,2223,167138,62898,2779,42,1742,Eastern Mediterranean
+7/12/20,South Africa,276242,4079,134874,137289,12058,108,7159,Africa
+7/12/20,Spain,253908,28403,150376,75129,0,0,0,Europe
+7/12/20,Turkey,212993,5363,194515,13115,1012,19,1298,Europe
+7/12/20,US,3304942,135205,1006326,2163411,59017,428,10750,Americas
+7/12/20,United Kingdom,291154,44904,1378,244872,650,21,0,Europe
+7/13/20,Argentina,103265,1903,44173,57189,3099,58,1479,Americas
+7/13/20,Bangladesh,186894,2391,98317,86186,3099,39,4703,South-East Asia
+7/13/20,Brazil,1884967,72833,1291251,520883,20286,733,26408,Americas
+7/13/20,Chile,317657,7024,286556,24077,2616,45,2654,Americas
+7/13/20,Colombia,154277,5455,63451,85371,3832,148,2265,Americas
+7/13/20,France,209640,30032,78722,100886,1625,25,209,Europe
+7/13/20,Germany,200180,9074,185100,6006,261,3,686,Europe
+7/13/20,India,906752,23727,571460,311565,28498,553,17989,South-East Asia
+7/13/20,Iran,259652,13032,222539,24081,2349,203,2546,Eastern Mediterranean
+7/13/20,Italy,243230,34967,195106,13157,169,13,178,Europe
+7/13/20,Mexico,304435,35491,240101,28843,4685,485,5196,Americas
+7/13/20,Pakistan,253604,5320,170656,77628,1979,54,8739,Eastern Mediterranean
+7/13/20,Peru,330123,12054,221008,97061,3797,184,3897,Americas
+7/13/20,Russia,732547,11422,503168,217957,6511,104,2960,Europe
+7/13/20,Saudi Arabia,235111,2243,169842,63026,2852,20,2704,Eastern Mediterranean
+7/13/20,South Africa,287796,4172,138241,145383,11554,93,3367,Africa
+7/13/20,Spain,255953,28406,150376,77171,2045,3,0,Europe
+7/13/20,Turkey,214001,5382,195671,12948,1008,19,1156,Europe
+7/13/20,US,3364157,135566,1031939,2196652,59215,361,25613,Americas
+7/13/20,United Kingdom,291691,44915,1384,245392,537,11,6,Europe
+7/14/20,Argentina,106910,1968,45467,59475,3645,65,1294,Americas
+7/14/20,Bangladesh,190057,2424,103227,84406,3163,33,4910,South-East Asia
+7/14/20,Brazil,1926824,74133,1323425,529266,41857,1300,32174,Americas
+7/14/20,Chile,319493,7069,289220,23204,1836,45,2664,Americas
+7/14/20,Colombia,159898,5625,65809,88464,5621,170,2358,Americas
+7/14/20,France,209640,30032,78722,100886,0,0,0,Europe
+7/14/20,Germany,200456,9078,185100,6278,276,4,0,Europe
+7/14/20,India,936181,24309,592032,319840,29429,582,20572,South-East Asia
+7/14/20,Iran,262173,13211,225270,23692,2521,179,2731,Eastern Mediterranean
+7/14/20,Italy,243344,34984,195441,12919,114,17,335,Europe
+7/14/20,Mexico,311486,36327,245830,29329,7051,836,5729,Americas
+7/14/20,Pakistan,255769,5386,172810,77573,2165,66,2154,Eastern Mediterranean
+7/14/20,Peru,333867,12229,223261,98377,3744,175,2253,Americas
+7/14/20,Russia,738787,11597,511958,215232,6240,175,8790,Europe
+7/14/20,Saudi Arabia,237803,2283,177560,57960,2692,40,7718,Eastern Mediterranean
+7/14/20,South Africa,298292,4346,146279,147667,10496,174,8038,Africa
+7/14/20,Spain,256619,28409,150376,77834,666,3,0,Europe
+7/14/20,Turkey,214993,5402,196720,12871,992,20,1049,Europe
+7/14/20,US,3431574,136466,1049098,2246010,67417,900,17159,Americas
+7/14/20,United Kingdom,292931,45053,1385,246493,1240,138,1,Europe
+7/15/20,Argentina,111146,2050,47298,61798,4236,82,1831,Americas
+7/15/20,Bangladesh,193590,2457,105523,85610,3533,33,2296,South-East Asia
+7/15/20,Brazil,1966748,75366,1350098,541284,39924,1233,26673,Americas
+7/15/20,Chile,321205,7186,292085,21934,1712,117,2865,Americas
+7/15/20,Colombia,165169,5814,68806,90549,5271,189,2997,Americas
+7/15/20,France,210568,30123,78945,101500,928,91,223,Europe
+7/15/20,Germany,200890,9080,186000,5810,434,2,900,Europe
+7/15/20,India,968857,24914,612768,331175,32676,605,20736,South-East Asia
+7/15/20,Iran,264561,13410,227561,23590,2388,199,2291,Eastern Mediterranean
+7/15/20,Italy,243506,34997,196016,12493,162,13,575,Europe
+7/15/20,Mexico,317635,36906,252368,28361,6149,579,6538,Americas
+7/15/20,Pakistan,257914,5426,178737,73751,2145,40,5927,Eastern Mediterranean
+7/15/20,Peru,337751,12417,226400,98934,3884,188,3139,Americas
+7/15/20,Russia,745197,11753,522375,211069,6410,156,10417,Europe
+7/15/20,Saudi Arabia,240474,2325,183048,55101,2671,42,5488,Eastern Mediterranean
+7/15/20,South Africa,311049,4453,160693,145903,12757,107,14414,Africa
+7/15/20,Spain,257494,28413,150376,78705,875,4,0,Europe
+7/15/20,Turkey,215940,5419,197733,12788,947,17,1013,Europe
+7/15/20,US,3498902,137415,1075882,2285605,67328,949,26784,Americas
+7/15/20,United Kingdom,293469,45138,1386,246945,538,85,1,Europe
+7/16/20,Argentina,114783,2112,49120,63551,3637,62,1822,Americas
+7/16/20,Bangladesh,196323,2496,106963,86864,2733,39,1440,South-East Asia
+7/16/20,Brazil,2012151,76688,1397531,537932,45403,1322,47433,Americas
+7/16/20,Chile,323698,7290,295301,21107,2493,104,3216,Americas
+7/16/20,Colombia,173206,6029,71736,95441,8037,215,2930,Americas
+7/16/20,France,211102,30141,79161,101800,534,18,216,Europe
+7/16/20,Germany,201450,9087,186400,5963,560,7,400,Europe
+7/16/20,India,1003832,25602,635757,342473,34975,688,22989,South-East Asia
+7/16/20,Iran,267061,13608,230608,22845,2500,198,3047,Eastern Mediterranean
+7/16/20,Italy,243736,35017,196246,12473,230,20,230,Europe
+7/16/20,Mexico,324041,37574,257681,28786,6406,668,5313,Americas
+7/16/20,Pakistan,257914,5426,178737,73751,0,0,0,Eastern Mediterranean
+7/16/20,Peru,341586,12615,230994,97977,3835,198,4594,Americas
+7/16/20,Russia,751612,11920,530801,208891,6415,167,8426,Europe
+7/16/20,Saudi Arabia,243238,2370,187622,53246,2764,45,4574,Eastern Mediterranean
+7/16/20,South Africa,324221,4669,165591,153961,13172,216,4898,Africa
+7/16/20,Spain,258855,28416,150376,80063,1361,3,0,Europe
+7/16/20,Turkey,216873,5440,198820,12613,933,21,1087,Europe
+7/16/20,US,3576157,138358,1090645,2347154,77255,943,14763,Americas
+7/16/20,United Kingdom,294116,45204,1403,247509,647,66,17,Europe
+7/17/20,Argentina,119301,2178,49780,67343,4518,66,660,Americas
+7/17/20,Bangladesh,199357,2547,108725,88085,3034,51,1762,South-East Asia
+7/17/20,Brazil,2046328,77851,1428520,539957,34177,1163,30989,Americas
+7/17/20,Chile,326439,8347,296814,21278,2741,1057,1513,Americas
+7/17/20,Colombia,182140,6288,80637,95215,8934,259,8901,Americas
+7/17/20,France,211943,30155,79371,102417,841,14,210,Europe
+7/17/20,Germany,202045,9088,186900,6057,595,1,500,Europe
+7/17/20,India,1039084,26273,653751,359060,35252,671,17994,South-East Asia
+7/17/20,Iran,269440,13791,232873,22776,2379,183,2265,Eastern Mediterranean
+7/17/20,Italy,243967,35028,196483,12456,231,11,237,Europe
+7/17/20,Mexico,331298,38310,264202,28786,7257,736,6521,Americas
+7/17/20,Pakistan,261917,5522,198509,57886,4003,96,19772,Eastern Mediterranean
+7/17/20,Peru,345537,12799,233982,98756,3951,184,2988,Americas
+7/17/20,Russia,758001,12106,538467,207428,6389,186,7666,Europe
+7/17/20,Saudi Arabia,245851,2407,191161,52283,2613,37,3539,Eastern Mediterranean
+7/17/20,South Africa,337594,4804,178183,154607,13373,135,12592,Africa
+7/17/20,Spain,260255,28420,150376,81459,1400,4,0,Europe
+7/17/20,Turkey,217799,5458,199834,12507,926,18,1014,Europe
+7/17/20,US,3647715,139266,1107204,2401245,71558,908,16559,Americas
+7/17/20,United Kingdom,294803,45318,1403,248082,687,114,0,Europe
+7/18/20,Argentina,122524,2220,52607,67697,3223,42,2827,Americas
+7/18/20,Bangladesh,202066,2581,110098,89387,2709,34,1373,South-East Asia
+7/18/20,Brazil,2074860,78772,1447408,548680,28532,921,18888,Americas
+7/18/20,Chile,328846,8445,299449,20952,2407,98,2635,Americas
+7/18/20,Colombia,190700,6516,85836,98348,8560,228,5199,Americas
+7/18/20,France,211943,30155,79371,102417,0,0,0,Europe
+7/18/20,Germany,202426,9091,187200,6135,381,3,300,Europe
+7/18/20,India,1077781,26816,677423,373542,38697,543,23672,South-East Asia
+7/18/20,Iran,271606,13979,235300,22327,2166,188,2427,Eastern Mediterranean
+7/18/20,Italy,244216,35042,196806,12368,249,14,323,Europe
+7/18/20,Mexico,338913,38888,271239,28786,7615,578,7037,Americas
+7/18/20,Pakistan,263496,5568,204276,53652,1579,46,5767,Eastern Mediterranean
+7/18/20,Peru,349500,12998,238086,98416,3963,199,4104,Americas
+7/18/20,Russia,764215,12228,545909,206078,6214,122,7442,Europe
+7/18/20,Saudi Arabia,248416,2447,194218,51751,2565,40,3057,Eastern Mediterranean
+7/18/20,South Africa,350879,4948,182230,163701,13285,144,4047,Africa
+7/18/20,Spain,260255,28420,150376,81459,0,0,0,Europe
+7/18/20,Turkey,218717,5475,201013,12229,918,17,1179,Europe
+7/18/20,US,3711413,140119,1122720,2448574,63698,853,15516,Americas
+7/18/20,United Kingdom,295632,45358,1413,248861,829,40,10,Europe
+7/19/20,Argentina,126755,2260,54105,70390,4231,40,1498,Americas
+7/19/20,Bangladesh,204525,2618,111642,90265,2459,37,1544,South-East Asia
+7/19/20,Brazil,2098389,79488,1459072,559829,23529,716,11664,Americas
+7/19/20,Chile,330930,8503,301794,20633,2084,58,2345,Americas
+7/19/20,Colombia,197278,6736,91793,98749,6578,220,5957,Americas
+7/19/20,France,211943,30155,79371,102417,0,0,0,Europe
+7/19/20,Germany,202735,9092,187400,6243,309,1,200,Europe
+7/19/20,India,1118206,27497,700087,390622,40425,681,22664,South-East Asia
+7/19/20,Iran,273788,14188,237788,21812,2182,209,2488,Eastern Mediterranean
+7/19/20,Italy,244434,35045,196949,12440,218,3,143,Europe
+7/19/20,Mexico,344224,39184,254941,50099,5311,296,-16298,Americas
+7/19/20,Pakistan,265083,5599,205929,53555,1587,31,1653,Eastern Mediterranean
+7/19/20,Peru,353590,13187,241955,98448,4090,189,3869,Americas
+7/19/20,Russia,770311,12323,549387,208601,6096,95,3478,Europe
+7/19/20,Saudi Arabia,250920,2486,197735,50699,2504,39,3517,Eastern Mediterranean
+7/19/20,South Africa,364328,5033,191059,168236,13449,85,8829,Africa
+7/19/20,Spain,260255,28420,150376,81459,0,0,0,Europe
+7/19/20,Turkey,219641,5491,202010,12140,924,16,997,Europe
+7/19/20,US,3773260,140534,1131121,2501605,61847,415,8401,Americas
+7/19/20,United Kingdom,296358,45385,1413,249560,726,27,0,Europe
+7/20/20,Argentina,130774,2373,55913,72488,4019,113,1808,Americas
+7/20/20,Bangladesh,207453,2668,113556,91229,2928,50,1914,South-East Asia
+7/20/20,Brazil,2118646,80120,1514300,524226,20257,632,55228,Americas
