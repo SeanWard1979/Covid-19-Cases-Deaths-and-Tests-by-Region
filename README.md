@@ -21,4 +21,4 @@ How big of an influence does testing have on death rates?  How much influence do
 have the highest case, death, and testing rates?  How does the number of cases and deaths compare through the first six months with each region?
 
 # Tableau Story
-My Tableau storyboard shows the results of my study complete with charts, analysis, recommendations, and possible further studies: https://public.tableau.com/shared/CP7MKYKQK?:display_count=y&:origin=viz_share_link
+My Tableau storyboard shows the results of my study complete with charts, analysis, recommendations, and limitations: https://public.tableau.com/shared/CP7MKYKQK?:display_count=y&:origin=viz_share_link
