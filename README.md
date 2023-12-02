@@ -21,4 +21,4 @@ the UK Government, Johns Hopkins CSSE, amongst many others using it as a source.
 (https://www.kaggle.com/imdevskp/corona-virus-report?select=covid_19_clean_complete.csv)
 
 # Tableau Story
-My Tableau storyboard shows the results of my study complete with charts, analysis, recommendations, and limitations: https://public.tableau.com/shared/CP7MKYKQK?:display_count=y&:origin=viz_share_link
+My Tableau storyboard shows the results of my study complete with charts, analysis, recommendations, and limitations: [[https://public.tableau.com/app/profile/sean.ward/viz/Covid-19Testing123/Story1]]
