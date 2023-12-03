@@ -1,0 +1,21 @@
+﻿Country/Region,Continent,Population,TotalCases,TotalDeaths,WHO Region,% of Cases,% of Cases that Die,% of Population that Dies
+US,North America,331198130,5032179,162804,Americas,1.519%,3.235%,0.049%
+Brazil,South America,212710692,2917562,98644,Americas,1.372%,3.381%,0.046%
+India,Asia,1381344997,2025409,41638,South-East Asia,0.147%,2.056%,0.003%
+Russia,Europe,145940924,871894,14606,Europe,0.597%,1.675%,0.010%
+South Africa,Africa,59381566,538184,9604,Africa,0.906%,1.785%,0.016%
+Mexico,North America,129066160,462690,50517,Americas,0.358%,10.918%,0.039%
+Peru,South America,33016319,455409,20424,Americas,1.379%,4.485%,0.062%
+Chile,South America,19132514,366671,9889,Americas,1.916%,2.697%,0.052%
+Colombia,South America,50936262,357710,11939,Americas,0.702%,3.338%,0.023%
+Spain,Europe,46756648,354530,28500,Europe,0.758%,8.039%,0.061%
+Iran,Asia,84097623,320117,17976,Eastern Mediterranean,0.381%,5.615%,0.021%
+United Kingdom,Europe,67922029,308134,46413,Europe,0.454%,15.063%,0.068%
+Saudi Arabia,Asia,34865919,284226,3055,Eastern Mediterranean,0.815%,1.075%,0.009%
+Pakistan,Asia,221295851,281863,6035,Eastern Mediterranean,0.127%,2.141%,0.003%
+Bangladesh,Asia,164851401,249651,3306,South-East Asia,0.151%,1.324%,0.002%
+Italy,Europe,60452568,249204,35187,Europe,0.412%,14.120%,0.058%
+Turkey,Asia,84428331,237265,5798,Europe,0.281%,2.444%,0.007%
+Argentina,South America,45236884,228195,4251,Americas,0.504%,1.863%,0.009%
+Germany,Europe,83811260,215210,9252,Europe,0.257%,4.299%,0.011%
+France,Europe,65288306,195633,30312,Europe,0.300%,15.494%,0.046%
