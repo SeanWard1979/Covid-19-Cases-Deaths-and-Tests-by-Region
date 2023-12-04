@@ -8,7 +8,7 @@
 
   <h1>Covid-19 Cases, Deaths, and Tests by Region</h1>
 
-  <h2> # Analysis
+ # <h2> Analysis <h2>
 Conducted various forms of statistical analysis in Python including: regression, cluster, geospatial and time-series to form correlations
 and analyze different variables and the relationships they have with one another.
 
